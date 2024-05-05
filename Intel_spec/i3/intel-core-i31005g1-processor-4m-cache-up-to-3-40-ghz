@@ -1,0 +1,89 @@
+﻿UPE | Compare Intel® Products
+05/05/2024 02:35:30 PM
+,Intel® Core™ i3-1005G1 Processor (4M Cache- up to 3.40 GHz)
+
+Essentials
+Product Collection,10th Generation Intel® Core™ i3 Processors
+Code Name,Products formerly Ice Lake
+Vertical Segment,Mobile
+Processor Number,i3-1005G1
+Lithography,10 nm
+Recommended Customer Price,$309.00
+
+CPU Specifications
+Total Cores,2
+Total Threads,4
+Max Turbo Frequency,3.40 GHz
+Processor Base Frequency,1.20 GHz
+Cache,4 MB Intel® Smart Cache
+Bus Speed,4 GT/s
+TDP,15 W
+Configurable TDP-down Base Frequency,900 MHz
+Configurable TDP-down,13 W
+
+Supplemental Information
+Marketing Status,Discontinued
+Launch Date,Q3'19
+Embedded Options Available,No
+Use Conditions,PC/Client/Tablet
+Datasheet,View now
+
+Memory Specifications
+Max Memory Size (dependent on memory type),64 GB
+Memory Types,DDR4-3200 |  LPDDR4-3733
+Max # of Memory Channels,2
+Max Memory Bandwidth,58.3 GB/s
+ECC Memory Supported   ‡,No
+
+GPU Specifications
+GPU Name‡,Intel® UHD Graphics for 10th Gen Intel® Processors
+Graphics Base Frequency,300 MHz
+Graphics Max Dynamic Frequency,900 MHz
+Graphics Output,eDP/DP/HDMI
+Max Resolution (HDMI)‡,4096 x 2304@60Hz
+Max Resolution (DP)‡,5120 x 3200@60Hz
+Max Resolution (eDP - Integrated Flat Panel)‡,5120 x 3200@60Hz
+DirectX* Support,12
+OpenGL* Support,4.6
+Intel® Quick Sync Video,Yes
+# of Displays Supported ‡,3
+Device ID,0x8A56
+
+Expansion Options
+PCI Express Revision,3.0
+
+Package Specifications
+Sockets Supported,FCBGA1526
+Max CPU Configuration,1
+TJUNCTION,100°C
+Package Size,50mm x 25mm
+
+Advanced Technologies
+Intel® Gaussian & Neural Accelerator,1.0
+Intel® Deep Learning Boost (Intel® DL Boost) on CPU,Yes
+Intel® Adaptix™ Technology,Yes
+Intel® Optane™ Memory Supported ‡,Yes
+Intel® Speed Shift Technology,Yes
+Intel® Thermal Velocity Boost,No
+Intel® Turbo Boost Technology ‡,2.0
+Intel® Hyper-Threading Technology ‡,Yes
+Intel® Transactional Synchronization Extensions,No
+Intel® 64 ‡,Yes
+Instruction Set,64-bit
+Instruction Set Extensions,Intel® SSE4.1 |  Intel® SSE4.2 |  Intel® AVX2 |  Intel® AVX-512
+Idle States,Yes
+Thermal Monitoring Technologies,Yes
+
+Security & Reliability
+Intel® AES New Instructions,Yes
+Secure Key,Yes
+Intel® Software Guard Extensions (Intel® SGX),Yes with Intel® ME
+Intel® OS Guard,Yes
+Intel® Trusted Execution Technology ‡,No
+Execute Disable Bit ‡,Yes
+Intel® Boot Guard,Yes
+Intel® Stable IT Platform Program (SIPP),No
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes
+Intel® VT-x with Extended Page Tables (EPT) ‡,Yes
+Link,https://www.intel.comhttps://www.intel.com/content/www/us/en/products/sku/196588/intel-core-i31005g1-processor-4m-cache-up-to-3-40-ghz/specifications.html

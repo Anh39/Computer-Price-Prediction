@@ -1,0 +1,98 @@
+﻿UPE | Compare Intel® Products
+05/05/2024 02:29:01 PM
+,Intel® Core™ i5-6400T Processor (6M Cache- up to 2.80 GHz)
+
+Essentials
+Product Collection,6th Generation Intel® Core™ i5 Processors
+Code Name,Products formerly Skylake
+Vertical Segment,Desktop
+Processor Number,i5-6400T
+Lithography,14 nm
+Recommended Customer Price,$182.00
+
+CPU Specifications
+Total Cores,4
+Total Threads,4
+Max Turbo Frequency,2.80 GHz
+Intel® Turbo Boost Technology 2.0 Frequency‡,2.80 GHz
+Processor Base Frequency,2.20 GHz
+Cache,6 MB Intel® Smart Cache
+Bus Speed,8 GT/s
+TDP,35 W
+
+Supplemental Information
+Marketing Status,Discontinued
+Launch Date,Q3'15
+Servicing Status,End of Servicing Lifetime
+End of Servicing Updates Date,Friday |  September 30 |  2022
+Embedded Options Available,No
+Included Items,Thermal Solution - E98290
+Datasheet,View now
+
+Memory Specifications
+Max Memory Size (dependent on memory type),64 GB
+Memory Types,DDR4-1866/2133 |  DDR3L-1333/1600 @ 1.35V
+Max # of Memory Channels,2
+Max Memory Bandwidth,34.1 GB/s
+ECC Memory Supported   ‡,No
+
+GPU Specifications
+GPU Name‡,Intel® HD Graphics 530
+Graphics Base Frequency,350 MHz
+Graphics Max Dynamic Frequency,950 MHz
+Graphics Video Max Memory,64 GB
+Graphics Output,eDP/DP/HDMI/DVI
+4K Support,Yes |  at 60Hz
+Max Resolution (HDMI)‡,4096x2304@24Hz
+Max Resolution (DP)‡,4096x2304@60Hz
+Max Resolution (eDP - Integrated Flat Panel)‡,4096x2304@60Hz
+Max Resolution (VGA)‡,N/A
+DirectX* Support,12
+OpenGL* Support,4.5
+Intel® Quick Sync Video,Yes
+Intel® InTru™ 3D Technology,Yes
+Intel® Clear Video HD Technology,Yes
+Intel® Clear Video Technology,Yes
+# of Displays Supported ‡,3
+Device ID,0x1912
+
+Expansion Options
+Scalability,1S Only
+PCI Express Revision,3.0
+PCI Express Configurations ‡,Up to 1x16 |  2x8 |  1x8+2x4
+Max # of PCI Express Lanes,16
+
+Package Specifications
+Sockets Supported,FCLGA1151
+Max CPU Configuration,1
+Thermal Solution Specification,PCG 2015A (35W)
+TCASE,66°C
+Package Size,37.5mm x 37.5mm
+
+Advanced Technologies
+Intel® Optane™ Memory Supported ‡,No
+Intel® Turbo Boost Technology ‡,2.0
+Intel® Hyper-Threading Technology ‡,No
+Intel® Transactional Synchronization Extensions,No
+Intel® 64 ‡,Yes
+Instruction Set,64-bit
+Instruction Set Extensions,Intel® SSE4.1 |  Intel® SSE4.2 |  Intel® AVX2
+Idle States,Yes
+Enhanced Intel SpeedStep® Technology,Yes
+Thermal Monitoring Technologies,Yes
+Intel® Identity Protection Technology ‡,Yes
+
+Security & Reliability
+Intel® AES New Instructions,Yes
+Secure Key,Yes
+Intel® Software Guard Extensions (Intel® SGX),Yes with Intel® ME
+Intel® Memory Protection Extensions (Intel® MPX),Yes
+Intel® OS Guard,Yes
+Intel® Trusted Execution Technology ‡,No
+Execute Disable Bit ‡,Yes
+Intel® Boot Guard,Yes
+Intel® Stable IT Platform Program (SIPP),No
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes
+Intel® VT-x with Extended Page Tables (EPT) ‡,Yes
+Link,https://www.intel.comhttps://www.intel.com/content/www/us/en/products/sku/88187/intel-core-i56400t-processor-6m-cache-up-to-2-80-ghz/specifications.html

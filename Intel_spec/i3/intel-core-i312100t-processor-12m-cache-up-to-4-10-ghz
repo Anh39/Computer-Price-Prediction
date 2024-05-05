@@ -1,0 +1,103 @@
+﻿UPE | Compare Intel® Products
+05/05/2024 02:33:34 PM
+,Intel® Core™ i3-12100T Processor (12M Cache- up to 4.10 GHz)
+
+Essentials
+Product Collection,12th Generation Intel® Core™ i3 Processors
+Code Name,Products formerly Alder Lake
+Vertical Segment,Desktop
+Processor Number,i3-12100T
+Lithography,Intel 7
+Recommended Customer Price,$134.00
+
+CPU Specifications
+Total Cores,4
+# of Performance-cores,4
+# of Efficient-cores,0
+Total Threads,8
+Max Turbo Frequency,4.10 GHz
+Performance-core Max Turbo Frequency,4.10 GHz
+Performance-core Base Frequency,2.20 GHz
+Cache,12 MB Intel® Smart Cache
+Total L2 Cache,5 MB
+Processor Base Power,35 W
+Maximum Turbo Power,69 W
+
+Supplemental Information
+Marketing Status,Launched
+Launch Date,Q1'22
+Embedded Options Available,No
+Use Conditions,PC/Client/Tablet
+Datasheet,View now
+
+Memory Specifications
+Max Memory Size (dependent on memory type),128 GB
+Memory Types,Up to DDR5 4800 MT/s Up to DDR4 3200 MT/s
+Max # of Memory Channels,2
+Max Memory Bandwidth,76.8 GB/s
+
+GPU Specifications
+GPU Name‡,Intel® UHD Graphics 730
+Graphics Base Frequency,300 MHz
+Graphics Max Dynamic Frequency,1.40 GHz
+Graphics Output,eDP 1.4b |  DP 1.4a |  HDMI 2.1
+Execution Units,24
+Max Resolution (HDMI)‡,4096 x 2160 @ 60Hz
+Max Resolution (DP)‡,7680 x 4320 @ 60Hz
+Max Resolution (eDP - Integrated Flat Panel)‡,5120 x 3200 @ 120Hz
+DirectX* Support,12
+OpenGL* Support,4.5
+OpenCL* Support,3.0
+Multi-Format Codec Engines,1
+Intel® Quick Sync Video,Yes
+Intel® Clear Video HD Technology,Yes
+# of Displays Supported ‡,4
+Device ID,0x4692
+
+Expansion Options
+Direct Media Interface (DMI) Revision,4.0
+Max # of DMI Lanes,8
+Scalability,1S Only
+PCI Express Revision,5.0 and 4.0
+PCI Express Configurations ‡,Up to 1x16+4 |  2x8+4
+Max # of PCI Express Lanes,20
+
+Package Specifications
+Sockets Supported,FCLGA1700
+Max CPU Configuration,1
+Thermal Solution Specification,PCG 2020D
+TJUNCTION,100°C
+Package Size,45.0 mm x 37.5 mm
+Max Operating Temperature,100 °C
+
+Advanced Technologies
+Intel® Gaussian & Neural Accelerator,3.0
+Intel® Thread Director,No
+Intel® Deep Learning Boost (Intel® DL Boost) on CPU,Yes
+Intel® Optane™ Memory Supported ‡,Yes
+Intel® Speed Shift Technology,Yes
+Intel® Turbo Boost Max Technology 3.0 ‡,No
+Intel® Turbo Boost Technology ‡,2.0
+Intel® Hyper-Threading Technology ‡,Yes
+Intel® 64 ‡,Yes
+Instruction Set,64-bit
+Instruction Set Extensions,Intel® SSE4.1 |  Intel® SSE4.2 |  Intel® AVX2
+Idle States,Yes
+Enhanced Intel SpeedStep® Technology,Yes
+Thermal Monitoring Technologies,Yes
+Intel® Volume Management Device (VMD),Yes
+
+Security & Reliability
+Intel® Threat Detection Technology (TDT),Yes
+Intel® Standard Manageability (ISM) ‡,Yes
+Intel® Control-Flow Enforcement Technology,Yes
+Intel® AES New Instructions,Yes
+Secure Key,Yes
+Intel® OS Guard,Yes
+Execute Disable Bit ‡,Yes
+Intel® Boot Guard,Yes
+Mode-based Execute Control (MBEC),Yes
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes
+Intel® VT-x with Extended Page Tables (EPT) ‡,Yes
+Link,https://www.intel.comhttps://www.intel.com/content/www/us/en/products/sku/223097/intel-core-i312100t-processor-12m-cache-up-to-4-10-ghz/specifications.html

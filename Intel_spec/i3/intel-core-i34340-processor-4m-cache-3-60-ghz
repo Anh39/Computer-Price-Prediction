@@ -1,0 +1,85 @@
+﻿UPE | Compare Intel® Products
+05/05/2024 02:39:19 PM
+,Intel® Core™ i3-4340 Processor (4M Cache- 3.60 GHz)
+
+Essentials
+Product Collection,4th Generation Intel® Core™ i3 Processors
+Code Name,Products formerly Haswell
+Vertical Segment,Desktop
+Processor Number,i3-4340
+Lithography,22 nm
+
+CPU Specifications
+Total Cores,2
+Total Threads,4
+Processor Base Frequency,3.60 GHz
+Cache,4 MB Intel® Smart Cache
+Bus Speed,5 GT/s
+TDP,54 W
+
+Supplemental Information
+Marketing Status,Discontinued
+Launch Date,Q3'13
+Servicing Status,End of Servicing Lifetime
+End of Servicing Updates Date,Wednesday |  June 30 |  2021
+Embedded Options Available,No
+Datasheet,View now
+
+Memory Specifications
+Max Memory Size (dependent on memory type),32 GB
+Memory Types,DDR3-1333/1600 |  DDR3L-1333/1600 @ 1.5V
+Max # of Memory Channels,2
+Max Memory Bandwidth,25.6 GB/s
+ECC Memory Supported   ‡,Yes
+
+GPU Specifications
+GPU Name‡,Intel® HD Graphics 4600
+Graphics Base Frequency,350 MHz
+Graphics Max Dynamic Frequency,1.15 GHz
+Graphics Video Max Memory,2 GB
+Graphics Output,eDP/DP/HDMI/DVI/VGA
+Max Resolution (HDMI)‡,4096x2304@24Hz
+Max Resolution (DP)‡,3840x2160@60Hz
+Max Resolution (eDP - Integrated Flat Panel)‡,3840x2160@60Hz
+Max Resolution (VGA)‡,1920x1200@60Hz
+DirectX* Support,11.1/12
+OpenGL* Support,4.3
+Intel® Quick Sync Video,Yes
+Intel® InTru™ 3D Technology,Yes
+Intel® Clear Video HD Technology,Yes
+# of Displays Supported ‡,3
+Device ID,0x412
+
+Expansion Options
+Scalability,1S Only
+PCI Express Revision,Up to 3.0
+PCI Express Configurations ‡,Up to 1x16 |  2x8 |  1x8+2x4
+Max # of PCI Express Lanes,16
+
+Package Specifications
+Sockets Supported,FCLGA1150
+Max CPU Configuration,1
+Thermal Solution Specification,PCG 2013C
+TCASE,66.8°C
+Package Size,37.5mm x 37.5mm
+
+Advanced Technologies
+Intel® Turbo Boost Technology ‡,No
+Intel® Hyper-Threading Technology ‡,Yes
+Intel® Transactional Synchronization Extensions,No
+Intel® 64 ‡,Yes
+Instruction Set,64-bit
+Instruction Set Extensions,Intel® SSE4.1 |  Intel® SSE4.2 |  Intel® AVX2
+Idle States,Yes
+Enhanced Intel SpeedStep® Technology,Yes
+Thermal Monitoring Technologies,Yes
+
+Security & Reliability
+Intel® AES New Instructions,Yes
+Intel® Trusted Execution Technology ‡,No
+Execute Disable Bit ‡,Yes
+Intel® Stable IT Platform Program (SIPP),No
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,No
+Intel® VT-x with Extended Page Tables (EPT) ‡,Yes
+Link,https://www.intel.comhttps://www.intel.com/content/www/us/en/products/sku/77771/intel-core-i34340-processor-4m-cache-3-60-ghz/specifications.html

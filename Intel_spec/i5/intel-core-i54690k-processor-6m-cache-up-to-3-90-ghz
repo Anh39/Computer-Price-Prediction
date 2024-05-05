@@ -1,0 +1,94 @@
+﻿UPE | Compare Intel® Products
+05/05/2024 02:29:48 PM
+,Intel® Core™ i5-4690K Processor (6M Cache- up to 3.90 GHz)
+
+Essentials
+Product Collection,4th Generation Intel® Core™ i5 Processors
+Code Name,Products formerly Devil's Canyon
+Vertical Segment,Desktop
+Processor Number,i5-4690K
+Lithography,22 nm
+Recommended Customer Price,$243.00
+
+CPU Specifications
+Total Cores,4
+Total Threads,4
+Max Turbo Frequency,3.90 GHz
+Intel® Turbo Boost Technology 2.0 Frequency‡,3.90 GHz
+Processor Base Frequency,3.50 GHz
+Cache,6 MB Intel® Smart Cache
+Bus Speed,5 GT/s
+TDP,88 W
+
+Supplemental Information
+Marketing Status,Discontinued
+Launch Date,Q2'14
+Expected Discontinuance,07/14/2017
+Embedded Options Available,No
+Datasheet,View now
+
+Memory Specifications
+Max Memory Size (dependent on memory type),32 GB
+Memory Types,DDR3-1333/1600 |  DDR3L-1333/1600 @ 1.5V
+Max # of Memory Channels,2
+Max Memory Bandwidth,25.6 GB/s
+ECC Memory Supported   ‡,No
+
+GPU Specifications
+GPU Name‡,Intel® HD Graphics 4600
+Graphics Base Frequency,350 MHz
+Graphics Max Dynamic Frequency,1.20 GHz
+Graphics Video Max Memory,2 GB
+Graphics Output,eDP/DP/HDMI/VGA
+Execution Units,20
+Max Resolution (HDMI)‡,3840x2160@24Hz
+Max Resolution (DP)‡,3840x2160@60Hz
+Max Resolution (eDP - Integrated Flat Panel)‡,3840x2160@60Hz
+Max Resolution (VGA)‡,1920x1200@60Hz
+DirectX* Support,11.2/12
+OpenGL* Support,4.3
+Intel® Quick Sync Video,Yes
+Intel® InTru™ 3D Technology,Yes
+Intel® Flexible Display Interface (Intel® FDI),Yes
+Intel® Clear Video HD Technology,Yes
+# of Displays Supported ‡,3
+Device ID,0x412
+
+Expansion Options
+Scalability,1S Only
+PCI Express Revision,3.0
+PCI Express Configurations ‡,Up to 1x16 |  2x8 |  1x8+2x4
+Max # of PCI Express Lanes,16
+
+Package Specifications
+Sockets Supported,FCLGA1150
+Max CPU Configuration,1
+Thermal Solution Specification,PCG 2013D
+TCASE,72.72°C
+Package Size,37.5mm x 37.5mm
+
+Advanced Technologies
+Intel® Turbo Boost Technology ‡,2.0
+Intel® Hyper-Threading Technology ‡,No
+Intel® Transactional Synchronization Extensions,No
+Intel® 64 ‡,Yes
+Instruction Set,64-bit
+Instruction Set Extensions,Intel® SSE4.1 |  Intel® SSE4.2 |  Intel® AVX2
+Intel® My WiFi Technology,Yes
+Idle States,Yes
+Enhanced Intel SpeedStep® Technology,Yes
+Thermal Monitoring Technologies,Yes
+Intel® Identity Protection Technology ‡,Yes
+
+Security & Reliability
+Intel® AES New Instructions,Yes
+Secure Key,Yes
+Intel® OS Guard,Yes
+Intel® Trusted Execution Technology ‡,No
+Execute Disable Bit ‡,Yes
+Anti-Theft Technology,Yes
+Intel® Stable IT Platform Program (SIPP),No
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes
+Intel® VT-x with Extended Page Tables (EPT) ‡,Yes
+Link,https://www.intel.comhttps://www.intel.com/content/www/us/en/products/sku/80811/intel-core-i54690k-processor-6m-cache-up-to-3-90-ghz/specifications.html

@@ -1,0 +1,1 @@
+print("làm tốn pin của thầy")

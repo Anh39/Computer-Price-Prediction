@@ -1,0 +1,104 @@
+﻿UPE | Compare Intel® Products
+05/05/2024 02:01:58 PM
+,Intel® Core™ i7-12700H Processor (24M Cache- up to 4.70 GHz)
+
+Essentials
+Product Collection,12th Generation Intel® Core™ i7 Processors
+Code Name,Products formerly Alder Lake
+Vertical Segment,Mobile
+Processor Number,i7-12700H
+Lithography,Intel 7
+Recommended Customer Price,$502.00
+
+CPU Specifications
+Total Cores,14
+# of Performance-cores,6
+# of Efficient-cores,8
+Total Threads,20
+Max Turbo Frequency,4.70 GHz
+Intel® Turbo Boost Max Technology 3.0 Frequency ‡,4.70 GHz
+Performance-core Max Turbo Frequency,4.70 GHz
+Efficient-core Max Turbo Frequency,3.50 GHz
+Cache,24 MB Intel® Smart Cache
+Processor Base Power,45 W
+Maximum Turbo Power,115 W
+Minimum Assured Power,35 W
+
+Supplemental Information
+Marketing Status,Launched
+Launch Date,Q1'22
+Embedded Options Available,No
+Datasheet,View now
+
+Memory Specifications
+Max Memory Size (dependent on memory type),64 GB
+Memory Types,Up to DDR5 4800 MT/s Up to DDR4 3200 MT/s Up to LPDDR5 5200 MT/s Up to LPDDR4x 4267 MT/s
+Max # of Memory Channels,2
+ECC Memory Supported   ‡,No
+
+GPU Specifications
+GPU Name‡,Intel® Iris® Xe Graphics eligible
+Graphics Max Dynamic Frequency,1.40 GHz
+Graphics Output,eDP 1.4b |  DP 1.4a |  HDMI 2.1
+Execution Units,96
+Max Resolution (HDMI)‡,4096 x 2304 @ 60Hz
+Max Resolution (DP)‡,7680 x 4320 @ 60Hz
+Max Resolution (eDP - Integrated Flat Panel)‡,4096 x 2304 @ 120Hz
+DirectX* Support,12.1
+OpenGL* Support,4.6
+OpenCL* Support,3.0
+Multi-Format Codec Engines,2
+Intel® Quick Sync Video,Yes
+# of Displays Supported ‡,4
+Device ID,0x46A6
+
+Expansion Options
+Intel® Thunderbolt™ 4,Yes
+Microprocessor PCIe Revision,Gen 4
+Chipset / PCH PCIe Revision,Gen 3
+Max # of PCI Express Lanes,28
+
+Package Specifications
+Sockets Supported,FCBGA1744
+Max CPU Configuration,1
+TJUNCTION,100°C
+Package Size,50 x 25
+Max Operating Temperature,100 °C
+
+Advanced Technologies
+Intel® Gaussian & Neural Accelerator,3.0
+Intel® Thread Director,Yes
+Intel® Image Processing Unit,6.0
+Intel® Smart Sound Technology,Yes
+Intel® Wake on Voice,Yes
+Intel® High Definition Audio,Yes
+MIPI SoundWire*,1.2
+Intel® Deep Learning Boost (Intel® DL Boost) on CPU,Yes
+Intel® Adaptix™ Technology,Yes
+Intel® Speed Shift Technology,Yes
+Intel® Turbo Boost Max Technology 3.0 ‡,Yes
+Intel® Hyper-Threading Technology ‡,Yes
+Instruction Set,64-bit
+Instruction Set Extensions,Intel® SSE4.1 |  Intel® SSE4.2 |  Intel® AVX2
+Thermal Monitoring Technologies,Yes
+Intel® Flex Memory Access,Yes
+Intel® Volume Management Device (VMD),Yes
+
+Security & Reliability
+Intel vPro® Eligibility ‡,Intel vPro® Essentials
+Intel® Threat Detection Technology (TDT),Yes
+Intel® Standard Manageability (ISM) ‡,Yes
+Intel® Hardware Shield Eligibility ‡,Yes
+Intel® QuickAssist Software Acceleration,Yes
+Intel® Control-Flow Enforcement Technology,Yes
+Intel® AES New Instructions,Yes
+Secure Key,Yes
+Intel® OS Guard,Yes
+Intel® Trusted Execution Technology ‡,Yes
+Execute Disable Bit ‡,Yes
+Intel® Boot Guard,Yes
+Mode-based Execute Control (MBEC),Yes
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes
+Intel® VT-x with Extended Page Tables (EPT) ‡,Yes
+Link,https://www.intel.comhttps://www.intel.com/content/www/us/en/products/sku/132228/intel-core-i712700h-processor-24m-cache-up-to-4-70-ghz/specifications.html

@@ -1,0 +1,108 @@
+﻿UPE | Compare Intel® Products
+05/05/2024 02:20:42 PM
+,Intel® Core™ i5-1345U Processor (12M Cache- up to 4.70 GHz)
+
+Essentials
+Product Collection,13th Generation Intel® Core™ i5 Processors
+Code Name,Products formerly Raptor Lake
+Vertical Segment,Mobile
+Processor Number,i5-1345U
+Lithography,Intel 7
+Recommended Customer Price,$309.00
+
+CPU Specifications
+Total Cores,10
+# of Performance-cores,2
+# of Efficient-cores,8
+Total Threads,12
+Max Turbo Frequency,4.7 GHz
+Performance-core Max Turbo Frequency,4.7 GHz
+Efficient-core Max Turbo Frequency,3.5 GHz
+Cache,12 MB Intel® Smart Cache
+Processor Base Power,15 W
+Maximum Turbo Power,55 W
+Minimum Assured Power,12 W
+Intel® Deep Learning Boost (Intel® DL Boost) on CPU,Yes
+
+Supplemental Information
+Marketing Status,Launched
+Launch Date,Q1'23
+Embedded Options Available,No
+Datasheet,View now
+
+Memory Specifications
+Max Memory Size (dependent on memory type),96 GB
+Memory Types,Up to DDR5 5200 MT/s Up to DDR4 3200 MT/s Up to LPDDR5/x 6400 MT/s Up to LPDDR4x 4267 MT/s
+Max # of Memory Channels,2
+ECC Memory Supported   ‡,No
+
+GPU Specifications
+GPU Name‡,Intel® Iris® Xe Graphics eligible
+Graphics Max Dynamic Frequency,1.25 GHz
+Graphics Output,eDP 1.4b |  DP 1.4a |  HDMI 2.1
+Execution Units,80
+Max Resolution (HDMI)‡,4096 x 2304 @ 60Hz
+Max Resolution (DP)‡,7680 x 4320 @ 60Hz
+Max Resolution (eDP - Integrated Flat Panel)‡,4096 x 2304 @ 120Hz
+DirectX* Support,12.1
+OpenGL* Support,4.6
+OpenCL* Support,3.0
+Multi-Format Codec Engines,2
+Intel® Quick Sync Video,Yes
+# of Displays Supported ‡,4
+Device ID,0xA7A1
+
+Expansion Options
+Intel® Thunderbolt™ 4,Yes
+Microprocessor PCIe Revision,Gen 4
+Chipset / PCH PCIe Revision,Gen 3
+Max # of PCI Express Lanes,20
+
+Package Specifications
+Sockets Supported,FCBGA1744
+Max CPU Configuration,1
+TJUNCTION,100°C
+Max Operating Temperature,100 °C
+Package Size,50mm x25mm
+
+Advanced Technologies
+Intel® Gaussian & Neural Accelerator,3.0
+Intel® Thread Director,Yes
+Intel® Image Processing Unit,6.0
+Intel® Smart Sound Technology,Yes
+Intel® Wake on Voice,Yes
+Intel® High Definition Audio,Yes
+MIPI SoundWire*,1.2
+Intel® Adaptix™ Technology,Yes
+Intel® Speed Shift Technology,Yes
+Intel® Hyper-Threading Technology ‡,Yes
+Instruction Set,64-bit
+Instruction Set Extensions,Intel® SSE4.1 |  Intel® SSE4.2 |  Intel® AVX2
+Thermal Monitoring Technologies,Yes
+Intel® Flex Memory Access,Yes
+Intel® Volume Management Device (VMD),Yes
+
+Security & Reliability
+Intel vPro® Eligibility ‡,Intel vPro® Enterprise
+Intel® Threat Detection Technology (TDT),Yes
+Intel® Active Management Technology (AMT) ‡,Yes
+Intel® Standard Manageability (ISM) ‡,Yes
+Intel® Remote Platform Erase (RPE) ‡,Yes
+Intel® One-Click Recovery ‡,Yes
+Intel® Hardware Shield Eligibility ‡,Yes
+Intel® Control-Flow Enforcement Technology,Yes
+Intel® Total Memory Encryption - Multi Key,Yes
+Intel® Total Memory Encryption,Yes
+Intel® AES New Instructions,Yes
+Secure Key,Yes
+Intel® Trusted Execution Technology ‡,Yes
+Execute Disable Bit ‡,Yes
+Intel® OS Guard,Yes
+Intel® Boot Guard,Yes
+Mode-based Execute Control (MBEC),Yes
+Intel® Stable IT Platform Program (SIPP),Yes
+Intel® Virtualization Technology with Redirect Protection (VT-rp) ‡,Yes
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes
+Intel® VT-x with Extended Page Tables (EPT) ‡,Yes
+Link,https://www.intel.comhttps://www.intel.com/content/www/us/en/products/sku/232127/intel-core-i51345u-processor-12m-cache-up-to-4-70-ghz/specifications.html
