@@ -1,0 +1,14 @@
+{
+    "Storage Type" : {
+        "HDD" : 0,
+        "SSD" : 1,
+        "Default" : 1
+    },
+    "Display Type" : {
+        "Default" : 1,
+        "LED" : 0,
+        "OLED" : 1,
+        "LCD" : 2,
+        "IPS" : 3
+    }
+}

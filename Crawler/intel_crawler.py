@@ -36,6 +36,10 @@ class Handler:
             'series-1' : {
                 'download_directory' : folder_path.intel.series1,
                 'family_url' : 'https://www.intel.com/content/www/us/en/products/details/processors/core/series-1/products.html'
+            },
+            'ultra' : {
+                'download_directory' : folder_path.intel.ultra,
+                'family_url' : 'https://www.intel.com/content/www/us/en/products/details/processors/core-ultra/products.html'
             }
         }
         for job_key in jobs:
@@ -57,7 +61,7 @@ class Handler:
     async def init(self):
         self.playwright_content_manager= async_playwright()
         self.playwright = await self.playwright_content_manager.start()
-        self.browser = await self.playwright.chromium.launch(headless=False)
+        self.browser = await self.playwright.chromium.launch(headless=True)
     async def close(self):
         await self.browser.close()
         await self.playwright_content_manager.__aexit__()
@@ -81,7 +85,7 @@ class Handler:
         return result
     async def _download_spec(self,url : str,download_directory : str):
         url = self.base_url + url
-        path = os.path.join(download_directory,url.split('/')[-2])
+        path = os.path.join(download_directory,url.split('/')[-2]+'.csv')
         if (not os.path.exists(path)):
 
             try:
@@ -95,7 +99,7 @@ class Handler:
                     await download.save_as(path)
                     with open(path,'a',newline='') as csvfile:
                         csv_writer = csv.writer(csvfile)
-                        csv_writer.writerow(['Link',self.base_url+url])
+                        csv_writer.writerow(['Link',url])
                     
             except Exception as e:
                 print(e)

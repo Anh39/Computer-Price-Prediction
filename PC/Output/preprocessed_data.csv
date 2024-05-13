@@ -1,0 +1,388 @@
+Price,Link,CPU Name,RAM,Memory Type,Storage,Storage Type,GPU Name,GPU VRAM,PSU,Cooler,OS,CPU Achitecture,CPU Core,CPU Thread,CPU Cache,Max DDR Support,Base Clock,Max Clock,IGPU Clock
+14799000,https://hacom.vn/pc-dell-optiplex-7010-sff-i5-13500-8gb-ram-512gb-ssd-k-m-ubuntu-den-7010sff8g5121y,i5-13500,8GB,DDR4,512GB,SSD,,,180W,Fan,0,7,14.0,20.0,24,5.0,1.8,4.8,1000
+14699000,https://hacom.vn/hacom-sniper-s29-i5-12400f-gtx-1660s,i5-12400,8GB,DDR4,500GB,SSD,1660,6.0,550W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+18999000,https://hacom.vn/pc-asus-all-in-one-a3402wbat-wa013w-i5-1235u-8gb-ram-512gb-ssd-23.8-fhd-cam-ung-wl-bt-k-m-win-11-trang,i5-1235U,8GB,,512GB,SSD,,,,Fan,11,7,10.0,12.0,12,5.0,4.4,4.4,1000
+10799000,https://hacom.vn/pc-dell-optiplex-7010-tower-i3-13100-8gb-256gb-ssd-k-m-ubuntu-den-7010mt-i313100-8gssd,i3-13100,8GB,DDR4,256GB,SSD,,,180W,Fan,0,7,4.0,8.0,12,5.0,4.5,4.5,1000
+18499000,https://hacom.vn/pc-dell-inspiron-all-in-one-5415-r5-7530u-8gb-ram-512gb-ssd-23.8-inch-fhd-camera-bt-kb-m-win-11-office-den-862tc,Ryzen 5 7530U,8GB,DDR4,512GB,SSD,530,4.0,,Fan,11,7,6.0,12.0,19,4.0,2.0,4.5,2000
+9699000,https://hacom.vn/pc-hp-280-pro-g9-sff-i3-12100-4gb-ram-256gssd-wl-bt-k-m-win-11-72k89pa,i3-12100,4GB,DDR4,256GB,HDD,,,,Fan,11,7,4.0,8.0,12,5.0,4.3,4.3,1000
+8499000,https://hacom.vn/hacom-sniper-r5-4600g-radeon-graphics,Ryzen 5 4600G,16GB,DDR4,500GB,SSD,,,500W,Fan,0,7,6.0,12.0,11,4.0,3.7,4.2,1900
+42099000,https://hacom.vn/hacom-apollo-i7-12700k-rtx-3070,i7-12700,32GB,DDR4,512GB,SSD,3070,8.0,750W,Liquid,0,7,12.0,20.0,25,5.0,1.6,4.8,1000
+15399000,https://hacom.vn/hacom-mini-c6-black-i5-12400f-gtx-1660-super,i5-12400,8GB,DDR4,500GB,SSD,1660,6.0,500W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+8799000,https://hacom.vn/pc-hacom-business-mini-vs5-i5-12400-h610-8gb-ram-500gb,i5-12400,8GB,DDR4,500GB,SSD,610,4.0,,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+56899000,https://hacom.vn/hacom-apollo-i09-i7-14700k-z790-32g-ram-rtx-4070-850w,i7-14700,32GB,DDR5,1TB,SSD,4070,12.0,850W,Liquid,0,7,20.0,28.0,33,5.0,1.5,5.3,1000
+10299000,https://hacom.vn/hacom-ares-a2-i3-12100f-gtx-1650,i3-12100,8GB,DDR4,256GB,SSD,610,4.0,500W,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,1000
+31599000,https://hacom.vn/workstation-dell-precision-3660-tower-i7-12700-16gb-ram-256gb-ssd-1tb-dvdrw-k-m-300w-psu-ubuntu-71010147,i7-12700,16GB,,256GB,HDD,,,300W,Fan,0,7,12.0,20.0,25,5.0,1.6,4.8,1000
+12799000,https://hacom.vn/pc-hp-pro-mini-260-g9-8u8t8pa-i5-1335u-8gb-ram-256gb-ssd-wl-bt-k-m-win11,i5-1335U,8GB,DDR4,256GB,SSD,,,65 W,Fan,11,7,10.0,12.0,12,5.0,4.6,4.6,1000
+12999000,https://hacom.vn/pc-asus-s500sd-512400055w-i5-12400-8gb-ram-512gb-ssd-wl-bt-k-m-win-11-90pf0392-m00xj0,i5-12400,8GB,,512GB,SSD,,,,Fan,11,7,6.0,12.0,18,5.0,4.4,4.4,1000
+41199000,https://hacom.vn/hacom-poseidon-i5-13600kf-rtx-4070,i5-13600,16GB,DDR4,,,4070,12.0,750W,Liquid,0,7,14.0,20.0,24,5.0,2.0,5.0,1000
+9999000,https://hacom.vn/pc-hp-m01-f2029d-i3-12100-8gb-ram-256gb-ssd-wl-bt-k-m-win-11-77b55pa,i3-12100,8GB,DDR4,256GB,SSD,,,,Fan,11,7,4.0,8.0,12,5.0,4.3,4.3,1000
+17699000,https://hacom.vn/pc-acer-as-all-in-one-c22-963-i5-1035g1-8gb-ram-1tb-hdd-128gb-ssd-21.5-inch-fhd-wl-bt-k-m-win-10-dq.bepsv.001,i5-1035G1,128GB,DDR4,128GB,HDD,,,,Fan,10,10,4.0,8.0,6,4.0,0.7,3.6,1000
+20099000,https://hacom.vn/hacom-sniper-s16-i5-13400f-rtx-3050,i5-13400,16GB,DDR4,500GB,SSD,,,600W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.6,1000
+16999000,https://hacom.vn/hacom-sniper-s21-i5-12400f-rtx-3050,i5-12400,8GB,DDR4,500GB,SSD,,,650W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+9399000,https://hacom.vn/pc-hp-s01-pf2034d-i3-12100-8gb-ram-256gb-ssd-wl-bt-k-m-win-11-6l605pa,i3-12100,8GB,DDR4,256GB,SSD,,,,Fan,11,7,4.0,8.0,12,5.0,4.3,4.3,1000
+57999000,https://hacom.vn/hacom-poseidon-i7-12700k-rtx-3070-ti-1,i7-12700,32GB,DDR4,500GB,SSD,3070,8.0,850W,Liquid,0,7,12.0,20.0,25,5.0,1.6,4.8,1000
+29999000,https://hacom.vn/may-tram-asus-e500g9-12700029z-i7-12700-16gd5-512gb-pcie-2-intel-lan-w680-550w-kb-m-nos-den,i7-12700,16GB,DDR5,512GB,SSD,,,550W,Fan,0,7,12.0,20.0,25,5.0,1.6,4.8,1000
+23499000,https://hacom.vn/pc-hp-elitedesk-800-g9-sff-i7-12700-8gb-ram-512gb-ssd-dvdrw-wl-bt-k-m-win-11-pro-6m7q4pa,i7-12700,8GB,DDR5,512GB,HDD,,,,Fan,11,7,12.0,20.0,25,5.0,1.6,4.8,1000
+14399000,https://hacom.vn/pc-hp-m01-f3006d-8c5s2pa-i5-13400-8gb-ram-512gb-ssd-wl-bt-k-m-win11,i5-13400,8GB,DDR4,512GB,SSD,,,,Fan,11,7,10.0,16.0,20,5.0,1.8,4.6,1000
+15499000,https://hacom.vn/pc-gaming-hacom-shark-s54-i5-12400f-b660-8gb-ram-250gb-ssd-gtx-1660s-550w,i5-12400,8GB,DDR4,250GB,SSD,1660,6.0,550W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+11999000,https://hacom.vn/pc-lenovo-thinkcentre-neo-50s-gen-4-i5-13400-8gb-ram-256gb-ssd-wl-bt-k-m-no-os-12jh0008va,i5-13400,8GB,DDR4,256GB,HDD,,,180W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.6,1000
+13499000,https://hacom.vn/pc-asus-s500te-513400034w-i5-13400-8gb-ram-512gb-ssd-wl-bt-k-m-win-11,i5-13400,8GB,,512GB,SSD,,,,Fan,11,7,10.0,16.0,20,5.0,1.8,4.6,1000
+12999000,https://hacom.vn/pc-hp-s01-pf3012d-8c5s8pa-i5-13400-8gb-ram-256gb-ssd-wl-bt-k-m-win-11-den,i5-13400,8GB,DDR4,256GB,SSD,,,180W,Fan,11,7,10.0,16.0,20,5.0,1.8,4.6,1000
+11399000,https://hacom.vn/hacom-ares-a5-pink-i3-1200f-h610-8g-ram-gtx-1650-550w,i3-12100F,8GB,DDR4,250GB,SSD,610,4.0,550W,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,0
+18999000,https://hacom.vn/pc-hp-pro-280-g9-tower-i7-12700-16gb-ram-512gb-ssd-wl-bt-k-m-win11-72g62pa,i7-12700,16GB,,512GB,SSD,,,,Fan,11,7,12.0,20.0,25,5.0,1.6,4.8,1000
+9499000,https://hacom.vn/pc-lenovo-thinkcentre-neo-50s-gen-4-i3-13100-8gb-ram-256gb-ssd-wl-bt-k-m-no-os-12jh0004va,i3-13100,8GB,DDR4,256GB,HDD,,,,Fan,0,7,4.0,8.0,12,5.0,4.5,4.5,1000
+12499000,https://hacom.vn/pc-hp-all-in-one-proone-240-g10-8w306pa-i3-n300-8gb-ram-512gb-ssd-23.8-inch-fhd-wl-bt-k-m-win11,i3-N300,8GB,DDR4,512GB,SSD,,,,Fan,11,7,8.0,8.0,6,4.0,3.8,3.8,1000
+14299000,https://hacom.vn/pc-hacom-business-mini-hb02-i7-12700-b660-16gb-ram-500gb-ssd-wifi,i7-12700,16GB,,500GB,SSD,,,450W,Fan,0,7,12.0,20.0,25,5.0,1.6,4.8,1000
+11109000,https://hacom.vn/pc-acer-as-xc-895-i3-10100-4gb-ram-1tb-hdd-dvdrw-wl-bt-k-m-win-10-dt.bewsv.003,i3-10100,4GB,DDR4,1TB,HDD,,,,Fan,10,14,4.0,8.0,6,4.0,3.6,4.3,1000
+6999000,https://hacom.vn/pc-hacom-business-mini-p49-i3-12100-h610-8gb-ram-256gb,i3-12100,8GB,DDR4,256GB,SSD,610,4.0,,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,1000
+15399000,https://hacom.vn/pc-dell-optiplex-7010-tower-i5-13500-8gb-ram-256gb-ssd-dvdrw-k-m-ubuntu-den-42ot701005,i5-13500,8GB,DDR4,256GB,SSD,,,180W,Fan,0,7,14.0,20.0,24,5.0,1.8,4.8,1000
+13999000,https://hacom.vn/pc-hp-all-in-one-22-dd2005d-i3-1215u-4gb-ram-256gb-ssd-21.5-inch-fhd-wl-bt-k-m-win-11-6k7g4pa,i3-1215U,4GB,,256GB,SSD,,,,Fan,11,7,6.0,8.0,10,5.0,4.4,4.4,1000
+20499000,https://hacom.vn/bo-mini-pc-asus-intel-nuc13-prodesk-nuc13vyki7-i7-1360p-2xddr4-3200-2xnvme-sata-2x-hdmi-2.1-2x-dp-1.4a-90ab3vyk-mr8160,i7-1360P,64GB,DDR4,,SSD,,,,Fan,10,7,12.0,16.0,18,5.0,5.0,5.0,1000
+24799000,https://hacom.vn/pc-hacom-cad-c116-i7-12700f-b660-16gb-ram-500gb-ssd-rtx-a2000-6gb-550w,i7-12700,16GB,DDR4,500GB,SSD,,,550W,Fan,0,7,12.0,20.0,25,5.0,1.6,4.8,1000
+12499000,https://hacom.vn/pc-hacom-designer-d136-i5-10400f-b560-16gb-ram-500gb-ssd-gtx-1660-super-550w,i5-10400,16GB,DDR4,500GB,SSD,1660,6.0,550W,Fan,0,14,6.0,12.0,12,4.0,2.9,4.3,1000
+26999000,https://hacom.vn/pc-asus-rog-strix-g35dx-r7-5800x-16gb-ram-1tb-ssd-rtx3070-8gb-wl-bt-win-11-g35dx-vn003w,Ryzen 7 5800X,16GB,DDR4,1TB,SSD,3070,8.0,700W,Liquid,11,7,8.0,16.0,36,4.0,3.8,4.7,0
+11299000,https://hacom.vn/pc-dell-optiplex-7010-sff-i3-13100-4gb-ram-256gb-ssd-k-m-ubuntu-den-71016919,i3-13100,4GB,DDR4,256GB,HDD,,,180W,Fan,0,7,4.0,8.0,12,5.0,4.5,4.5,1000
+12799000,https://hacom.vn/pc-asus-s500se-513400035w-i5-13400-8gb-ram-512gb-ssd-wl-bt-k-m-win-11,i5-13400,8GB,DDR4,512GB,SSD,,,300W,Fan,11,7,10.0,16.0,20,5.0,1.8,4.6,1000
+21499000,https://hacom.vn/pc-hp-all-in-one-proone-400-g6-i5-10500t-8gb-ram-256gb-ssd-23.8-inch-touch-dvdrw-wl-bt-k-m-win-10-231f1pa,i5-10500,8GB,DDR4,256GB,SSD,630,4.0,,Fan,10,14,6.0,12.0,12,4.0,3.1,4.5,1000
+17899000,https://hacom.vn/pc-hp-proone-440-g9-aio-8w8l0pa-i5-13500t-8gb-ram-512gb-ssd-23.8-fhd-k-m-win11-den,i5-13500,8GB,DDR4,512GB,SSD,,,,Fan,11,7,14.0,20.0,24,5.0,1.8,4.8,1000
+11499000,https://hacom.vn/pc-lenovo-thinkcentre-neo-50s-gen-3-i5-12400-4gb-ram-256gb-ssd-wl-bt-k-m-no-os-11t000axva,i5-12400,4GB,DDR4,256GB,HDD,,,260W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+15199000,https://hacom.vn/pc-hp-elite-mini-800-g9-9h089pt-i5-13500-8gb-ram-256gb-ssd-wl-bt-k-m-win11,i5-13500,8GB,DDR5,256GB,SSD,,,,Fan,11,7,14.0,20.0,24,5.0,1.8,4.8,1000
+16999000,https://hacom.vn/pc-hp-280-pro-g9-sff-9h1s8pt-i7-13700-8gb-ram-256gb-ssd-wl-bt-k-m-win-11,i7-13700,8GB,DDR4,256GB,HDD,,,180 W,Fan,11,7,16.0,24.0,30,5.0,1.5,5.1,1000
+6499000,https://hacom.vn/pc-hacom-business-mini-p10-i3-10105-h510-8gb-ram-240gb-ssd,i3-10105,8GB,DDR4,,SSD,630,4.0,350W,Fan,0,14,4.0,8.0,6,4.0,3.7,4.4,1000
+43799000,https://hacom.vn/workstation-dell-precision-3660-tower-i9-12900-16gb-2x8gb-ram-512gb-ssd-dvdrw-t400-4gb-k-m-42pt3660d13,i9-12900,16GB,,512GB,HDD,,,,Fan,0,7,16.0,24.0,30,5.0,1.8,5.0,1000
+11999000,https://hacom.vn/pc-dell-vostro-3910-i3-12100-8gb-ram-256gb-ssd-wl-bt-k-m-office-win11-71000335,i3-12100,8GB,DDR4,256GB,SSD,,,,Fan,11,7,4.0,8.0,12,5.0,4.3,4.3,1000
+20499000,https://hacom.vn/pc-hp-elitedesk-800-g9-sff-i5-12500-8gb-ram-256gb-ssd-dvdrw-wl-bt-k-m-win-11-pro-6m7q1pa,i5-12500,8GB,DDR5,256GB,SSD,,,,Fan,11,7,6.0,12.0,18,5.0,4.6,4.6,1000
+15299000,https://hacom.vn/hacom-sniper-i5-12400f-gtx-1660-super-pcgm728,i5-12400,8GB,DDR4,250GB,SSD,1660,6.0,500W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+21499000,https://hacom.vn/pc-hacom-business-i9139-16s5-v2-i9-13900-b760-16gb-ram-500gb,i9-13900,16GB,,500GB,SSD,,,,Fan,0,7,24.0,32.0,36,5.0,1.5,5.2,1000
+14769000,https://hacom.vn/pc-hp-prodesk-400-g9-i5-13500-8gb-ram-512g-ssd-wl-bt-k-m-win11-9h1t4pt,i5-13500,8GB,DDR4,512GB,SSD,,,,Fan,11,7,14.0,20.0,24,5.0,1.8,4.8,1000
+14299000,https://hacom.vn/pc-hp-all-in-one-proone-240-g9-i3-1215u-8gb-ram-512gb-ssd-23.8-inch-fhd-wl-bt-k-m-win-11-6m3t0pa,i3-1215U,8GB,DDR4,512GB,SSD,,,,Fan,11,7,6.0,8.0,10,5.0,4.4,4.4,1000
+12199000,https://hacom.vn/pc-hacom-business-mini-p37-i5-13400-b760-16gb-ram-512gb-ssd,i5-13400,16GB,DDR4,512GB,SSD,,,450W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.6,1000
+17499000,https://hacom.vn/pc-dell-inspiron-all-in-one-5410-i3-1215u-8gb-256gb-ssd-23.8fhd-camera-wl-bt-kb-m-win-11-office-den-6nxtf,i3-1215U,8GB,DDR4,256GB,SSD,,,,Fan,11,7,6.0,8.0,10,5.0,4.4,4.4,1000
+19499000,https://hacom.vn/pc-hp-elitedesk-800-g9-sff-i5-12500-8gb-ram-512gb-ssd-dvdrw-wl-bt-k-m-win-11-pro-6m7q2pa,i5-12500,8GB,DDR5,512GB,HDD,,,,Fan,11,7,6.0,12.0,18,5.0,4.6,4.6,1000
+21199000,https://hacom.vn/hacom-sniper-s32-i5-13400f-rtx-3060,i5-13400,16GB,DDR4,500GB,SSD,3060,12.0,650W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.6,1000
+12299000,https://hacom.vn/pc-hacom-designer-d132-i3-12100f-h610-8gb-ram-250gb-ssd-rtx-3050-550w,i3-12100,8GB,DDR4,250GB,SSD,610,4.0,550W,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,1000
+12099000,https://hacom.vn/may-tinh-intel-nuc-11-nuc11pah-i7-1165g7-rnuc11pahi70z00,i7-1165G7,,,,HDD,,,,Fan,0,10,4.0,8.0,12,4.0,1.2,4.7,1000
+9199000,https://hacom.vn/pc-hacom-business-mini-vs3-i5-12400-h610-16gb-ram-500gb,i5-12400,16GB,DDR4,500GB,SSD,610,4.0,,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+20899000,https://hacom.vn/pc-hp-all-in-one-proone-240-g10-8w309pa-i7-1355u-16gb-ram-512gb-ssd-23.8-inch-fhd-wl-bt-k-m-win11,i7-1355U,16GB,DDR4,512GB,SSD,,,,Fan,11,7,10.0,12.0,12,5.0,5.0,5.0,1000
+10699000,https://hacom.vn/pc-dell-optiplex-7010-sff-i3-13100-8gb-ram-256gb-ssd-k-m-ubuntu-den-71022165,i3-13100,8GB,DDR4,256GB,HDD,,,180W,Fan,0,7,4.0,8.0,12,5.0,4.5,4.5,1000
+15099000,https://hacom.vn/pc-hacom-trader-t007-i5-10400f-b560-16gb-ram-500gb-ssd-2x-nvidia-t400-4gb-550w,i5-10400,16GB,DDR4,500GB,SSD,,,550W,Fan,0,14,6.0,12.0,12,4.0,2.9,4.3,1000
+14499000,https://hacom.vn/pc-hp-prodesk-400-g9-mt-i5-12500-8gb-ram-512gssd-wl-bt-k-m-win-11-72l00pa,i5-12500,8GB,DDR4,512GB,SSD,,,,Fan,11,7,6.0,12.0,18,5.0,4.6,4.6,1000
+14999000,https://hacom.vn/pc-lenovo-thinkcentre-aio-neo-30a-24-gen-4-i5-13420h-8gb-ram-512gb-ssd-23.8-inch-fhd-wl-bt-k-m-win11-den-12jy001svn,i5-13420H,8GB,DDR4,512GB,SSD,,,,Fan,11,7,8.0,12.0,12,5.0,4.6,4.6,1000
+11999000,https://hacom.vn/pc-lenovo-thinkcentre-neo-50t-gen-4-i5-13400-8gb-ram-256gb-ssd-wl-bt-k-m-no-os-12jb001gva,i5-13400,8GB,DDR4,256GB,HDD,,,180W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.6,1000
+16799000,https://hacom.vn/bo-mini-pc-asus-intel-nuc13-pro-tall-nuc13anhi7-i7-1360p-2xddr4-3200-3xnvme-sata-2x-hdmi-2.1-2x-dp-1.4a-vesa-mount-90ab3anh-mr8100,i7-1360P,64GB,DDR4,256GB,HDD,,,40W,Fan,10,7,12.0,16.0,18,5.0,5.0,5.0,1000
+16499000,https://hacom.vn/pc-hp-all-in-one-200-pro-g4-i5-1235u-8gb-ram-256gb-ssd-21.5-inch-fhd-wl-bt-k-m-win-11-74s24pa,i5-1235U,8GB,DDR4,256GB,HDD,,,65 W,Fan,11,7,10.0,12.0,12,5.0,4.4,4.4,1000
+17499000,https://hacom.vn/pc-hacom-trader-t006-i5-12400f-b760-16gb-ram-500gb-ssd-2x-nvidia-t400-4gb-550w,i5-12400,16GB,DDR4,500GB,SSD,,,550W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+11899000,https://hacom.vn/pc-hp-pro-tower-400-g9-i3-13100-8gb-ram-512g-ssd-wl-bt-k-m-win11-9h1t1pt,i3-13100,8GB,DDR4,512GB,SSD,,,,Fan,11,7,4.0,8.0,12,5.0,4.5,4.5,1000
+14510000,https://hacom.vn/pc-acer-veriton-x2690g-i5-12400-8gb-512g-ssd-wl-k-m-black-dos,i5-12400,8GB,,512GB,SSD,,,,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+10499000,https://hacom.vn/pc-hp-pro-mini-400-g9-9h1u4pt-i3-13100t-4gb-ram-256gb-ssd-wl-bt-k-m-win11,i3-13100,4GB,DDR4,256GB,SSD,,,,Fan,11,7,4.0,8.0,12,5.0,4.5,4.5,1000
+43899000,https://hacom.vn/workstation-dell-precision-3660-tower-i7-12700-16gb-ram-256gb-ssd-1tb-dvdrw-t1000-4gb-k-m-300w-psu-win-11-pro-71010148,i7-12700,16GB,,256GB,HDD,,,300W,Fan,11,7,12.0,20.0,25,5.0,1.6,4.8,1000
+56499000,https://hacom.vn/workstation-dell-precision-3660-tower-i9-12900-16gb-2x8gb-ram-256-ssd-nvme-1tb-hdd-dvdrw-nvidia-rtx-a2000-12gb-k-m-42pt3660d17,i9-12900,16GB,,1TB,HDD,,,,Fan,0,7,16.0,24.0,30,5.0,1.8,5.0,1000
+16399000,https://hacom.vn/pc-hacom-business-i7137-16s5-v2-i7-13700-b760-16gb-ram-500gb,i7-13700,16GB,,500GB,SSD,,,,Fan,0,7,16.0,24.0,30,5.0,1.5,5.1,1000
+9999000,https://hacom.vn/pc-lenovo-thinkcentre-neo-50t-gen-4-i3-13100-8gb-ram-512gb-ssd-wl-bt-k-m-no-os-12jb001eva,i3-13100,8GB,DDR4,512GB,HDD,,,180W,Fan,0,7,4.0,8.0,12,5.0,4.5,4.5,1000
+17699000,https://hacom.vn/pc-hp-m01-f2030d-i7-12700-8gb-ram-256gb-ssd-wl-bt-k-m-win-11-76t98pa,i7-12700,8GB,DDR4,256GB,HDD,,,,Fan,11,7,12.0,20.0,25,5.0,1.6,4.8,1000
+23299000,https://hacom.vn/pc-hacom-live-stream-ls017-i5-13400f-b760-16gb-ram-500gb-ssd-rtx-4060-8gb-650w,i5-13400,16GB,DDR4,500GB,SSD,4060,8.0,650W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.6,1000
+13399000,https://hacom.vn/pc-hp-280-pro-tower-g9-i5-12500-8gb-ram-256gb-ssd-wl-bt-k-m-win11-9e812pt,i5-12500,8GB,DDR4,256GB,HDD,,,,Fan,11,7,6.0,12.0,18,5.0,4.6,4.6,1000
+9899000,https://hacom.vn/pc-hp-pro-mini-260-g9-9h092pt-i3-1315u-8gb-ram-256gb-ssd-wl-bt-k-m-win11,i3-1315U,8GB,DDR4,256GB,SSD,,,65 W,Fan,11,7,6.0,8.0,10,5.0,4.5,4.5,1000
+45499000,https://hacom.vn/pc-hacom-studio-nvidia-h1-i7-14700-rtx-4070,i7-14700,32GB,DDR5,1TB,SSD,4070,12.0,750W,Liquid,0,7,20.0,28.0,33,5.0,1.5,5.3,1000
+15999000,https://hacom.vn/pc-lenovo-thinkcentre-aio-neo-30a-27-gen-3,i7-1260P,16GB,DDR4,512GB,SSD,,,,Fan,0,7,12.0,16.0,18,5.0,4.7,4.7,1000
+25699000,https://hacom.vn/pc-hp-proone-440-g9-aio-i7-12700t-16gb-ram-512gb-ssd-23.8-fhd-touch-k-m-win11-den-6m3y4pa,i7-12700,16GB,DDR4,512GB,SSD,,,120W,Fan,11,7,12.0,20.0,25,5.0,1.6,4.8,1000
+15899000,https://hacom.vn/pc-hp-all-in-one-proone-240-g10-8w8k0pa-i5-1335u-8gb-ram-256gb-ssd-23.8-inch-fhd-wl-bt-k-m-win11,i5-1335U,8GB,DDR4,256GB,SSD,,,,Fan,11,7,10.0,12.0,12,5.0,4.6,4.6,1000
+22499000,https://hacom.vn/pc-mini-msi-cubi-5-i7-1255u-16gb-ram-512gb-ssd-wl-bt-win-11-pro-den,i7-1255U,16GB,DDR4,512GB,HDD,,,,Fan,11,7,10.0,12.0,12,5.0,4.7,4.7,1000
+12599000,https://hacom.vn/pc-hacom-designer-d134-i5-10400f-b560-16gb-ram-500gb-ssd-gtx-1660-super-550w,i5-10400,16GB,DDR4,500GB,SSD,1660,6.0,550W,Fan,0,14,6.0,12.0,12,4.0,2.9,4.3,1000
+51499000,https://hacom.vn/workstation-asus-pro-e500-g6-1070k-022z-i7-10700k-16gb-ram-512gb-ssd-rtx3070-90sf0181-m00a20,i7-10700,16GB,,512GB,SSD,3070,8.0,,Fan,0,14,8.0,16.0,16,4.0,2.9,4.8,1000
+13499000,https://hacom.vn/pc-hp-280-pro-g9-sff-9e564pt-i5-12500-8gb-ram-512gb-ssd-wl-bt-k-m-win-11,i5-12500,8GB,DDR4,512GB,HDD,,,180 W,Fan,11,7,6.0,12.0,18,5.0,4.6,4.6,1000
+13899000,https://hacom.vn/pc-hp-prodesk-400-g9-i5-13500-8gb-ram-256g-ssd-wl-bt-k-m-win11-9h1t2pt,i5-13500,8GB,DDR4,256GB,SSD,,,,Fan,11,7,14.0,20.0,24,5.0,1.8,4.8,1000
+10499000,https://hacom.vn/pc-asus-s501md-312100044w-i3-12100-4gb-ram-256gb-ssd-wl-bt-k-m-win-11-90pf0381-m00cx0,i3-12100,4GB,,256GB,SSD,,,,Fan,11,7,4.0,8.0,12,5.0,4.3,4.3,1000
+20199000,https://hacom.vn/pc-dell-vostro-3020-i7-13700-8gb-ram-512gb-ssd-wl-bt-k-m-win11-mti72062w1-8g-512g,i7-13700,8GB,DDR4,512GB,SSD,,,180W,Fan,11,7,16.0,24.0,30,5.0,1.5,5.1,1000
+29999000,https://hacom.vn/pc-hp-eliteone-840-g9-aio-i7-12700-8gb-ram-512gb-ssd-23.8-fhd-touch-wl-bt-k-m-win-11-76n54pa,i7-12700,8GB,DDR5,512GB,SSD,,,,Fan,11,7,12.0,20.0,25,5.0,1.6,4.8,1000
+13299000,https://hacom.vn/pc-hp-m01-f2033d-i5-12400-8gb-ram-512gb-ssd-wl-bt-k-m-win-11-76u01pa,i5-12400,8GB,DDR4,512GB,SSD,,,,Fan,11,7,6.0,12.0,18,5.0,4.4,4.4,1000
+19999000,https://hacom.vn/pc-asus-all-in-one-a5402wvak-wa014w-i5-1340p-8gb-ram-512gb-ssd-23.8-fhd-wl-bt-k-m-win-11-trang,i5-1340P,8GB,DDR4,512GB,HDD,540,4.0,,Fan,11,7,12.0,16.0,12,5.0,4.6,4.6,1000
+9599000,https://hacom.vn/pc-hp-pavilion-tp01-4018d-8x3r4pa-i3-13100-8gb-ram-256gb-ssd-wl-bt-k-m-win-11-bac,i3-13100,8GB,DDR4,256GB,SSD,,,,Fan,11,7,4.0,8.0,12,5.0,4.5,4.5,1000
+11599000,https://hacom.vn/pc-asus-s500sd-312100029w-i3-12100-4gb-ram-256gb-ssd-wl-bt-k-m-win-11-90pf0392-m00su0,i3-12100,4GB,,256GB,SSD,,,,Fan,11,7,4.0,8.0,12,5.0,4.3,4.3,1000
+22999000,https://hacom.vn/pc-asus-all-in-one-a5402wvat-ba024w-i5-1340p-16gb-ram-512gb-ssd-23.8-fhd-cam-ung-wl-bt-k-m-win-11-den,i5-1340P,16GB,DDR4,512GB,HDD,540,4.0,,Fan,11,7,12.0,16.0,12,5.0,4.6,4.6,1000
+9499000,https://hacom.vn/pc-asus-s501md-312100062w-i3-12100-8gb-ram-256gb-ssd-wl-bt-k-m-win-11,i3-12100,8GB,,256GB,SSD,,,,Fan,11,7,4.0,8.0,12,5.0,4.3,4.3,1000
+7399000,https://hacom.vn/pc-hacom-business-mini-v1-i5-10400-h510-8gb-ram-256gb-ssd,i5-10400,8GB,DDR4,256GB,SSD,630,4.0,,Fan,0,14,6.0,12.0,12,4.0,2.9,4.3,1000
+17999000,https://hacom.vn/pc-hp-280-pro-sff-g9-9h9c7pt-i7-12700-8gb-ram-512gb-ssd-wl-bt-k-m-win11,i7-12700,8GB,DDR4,512GB,SSD,,,180 W,Fan,11,7,12.0,20.0,25,5.0,1.6,4.8,1000
+16999000,https://hacom.vn/pc-hp-pro-280-g9-tower-i7-12700-8gb-ram-256gb-ssd-wl-bt-k-m-win11-72g88pa,i7-12700,8GB,DDR4,256GB,SSD,,,,Fan,11,7,12.0,20.0,25,5.0,1.6,4.8,1000
+12399000,https://hacom.vn/pc-dell-inspiron-3020-i3-13100-8gb-ram-256gb-ssd-wl-bt-k-m-office-win11-4vgwp-small-form,i3-13100,8GB,DDR4,256GB,SSD,,,,Fan,11,7,4.0,8.0,12,5.0,4.5,4.5,1000
+16499000,https://hacom.vn/hacom-sniper-s17-i5-12400f-rtx-3050,i5-12400,16GB,DDR4,500GB,SSD,,,600W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+11099000,https://hacom.vn/pc-dell-inspiron-3020-i3-13100-8gb-ram-256gb-ssd-wl-bt-k-m-win11-4vgwp1,i3-13100,8GB,DDR4,256GB,SSD,,,,Fan,11,7,4.0,8.0,12,5.0,4.5,4.5,1000
+8999000,https://hacom.vn/pc-lenovo-thinkcentre-neo-50s-gen-4-i3-13100-4gb-ram-256gb-ssd-wl-bt-k-m-no-os-12jh0003va,i3-13100,4GB,DDR4,256GB,HDD,,,,Fan,0,7,4.0,8.0,12,5.0,4.5,4.5,1000
+20999000,https://hacom.vn/pc-hp-proone-440-g9-aio-i5-12500t-8gb-ram-512gb-ssd-23.8-fhd-touch-k-m-win11-den-6m3x9pa,i5-12500,8GB,DDR4,512GB,SSD,,,120W,Fan,11,7,6.0,12.0,18,5.0,4.6,4.6,1000
+19999000,https://hacom.vn/pc-hp-all-in-one-proone-240-g9-i7-1255u-8gb-ram-512gb-ssd-23.8-inch-fhd-wl-bt-k-m-win-11-6m3v4pa,i7-1255U,8GB,DDR4,512GB,SSD,,,,Fan,11,7,10.0,12.0,12,5.0,4.7,4.7,1000
+7899000,https://hacom.vn/pc-gaming-hacom-tiger-t18-i3-10105f-h510-8gb-ram-240gb-ssd-gt-1030-450w,i3-10105,8GB,DDR4,,SSD,,,450W,Fan,0,14,4.0,8.0,6,4.0,3.7,4.4,1000
+6799000,https://hacom.vn/pc-hacom-business-mini-p45-v2-i3-10105-h510-8gb-ram-500gb,i3-10105,8GB,DDR4,500GB,SSD,630,4.0,,Fan,0,14,4.0,8.0,6,4.0,3.7,4.4,1000
+14199000,https://hacom.vn/pc-dell-inspiron-3020-i5-13400-8gb-ram-512gb-ssd-wl-bt-k-m-win11-mti51012w1-8g-512g,i5-13400,8GB,DDR4,512GB,SSD,,,,Fan,11,7,10.0,16.0,20,5.0,1.8,4.6,1000
+14999000,https://hacom.vn/pc-asus-all-in-one-v241eak-wa209w-i5-1135g7-8gb-ram-512gb-ssd-23.8-fhd-wl-bt-k-m-win-11-trang,i5-1135G7,8GB,,512GB,SSD,,,,Fan,11,10,4.0,8.0,8,4.0,0.9,4.2,1000
+7399000,https://hacom.vn/may-tinh-intel-nuc-11-nuc11pah-i3-1115g4-rnuc11pahi30z00,i3-1115G4,,DDR4,,,,,,Fan,0,10,2.0,4.0,6,4.0,1.7,4.1,1000
+22799000,https://hacom.vn/pc-hacom-cad-c123-i7-14700f-b760-16gb-ram-500gb-ssd-t400-4gb-550w,i7-14700,16GB,DDR5,500GB,SSD,520,4.0,550W,Liquid,0,7,20.0,28.0,33,5.0,1.5,5.3,1000
+10499000,https://hacom.vn/pc-hp-prodesk-400-g9-mt-i3-12100-8gb-ram-256gssd-wl-bt-k-m-win-11-72k97pa,i3-12100,8GB,DDR4,256GB,SSD,,,,Fan,11,7,4.0,8.0,12,5.0,4.3,4.3,1000
+0,https://hacom.vn/pc-hp-pro-tower-400-g9-i7-13700-8gb-ram-256g-ssd-wl-bt-k-m-win11-9h1t6pt,i7-13700,8GB,DDR4,256GB,SSD,,,,Fan,11,7,16.0,24.0,30,5.0,1.5,5.1,1000
+17999000,https://hacom.vn/pc-hp-280-pro-g9-sff-9h1s9pt-i7-13700-8gb-ram-512gb-ssd-wl-bt-k-m-win-11,i7-13700,8GB,DDR4,512GB,HDD,,,180 W,Fan,11,7,16.0,24.0,30,5.0,1.5,5.1,1000
+45299000,https://hacom.vn/hacom-apollo-i7-13700k-rtx-4070,i7-13700,16GB,DDR4,500GB,SSD,4070,12.0,750W,Liquid,0,7,16.0,24.0,30,5.0,1.5,5.1,1000
+17999000,https://hacom.vn/pc-mini-msi-cubi-5-i5-1235u-8gb-ram-512gb-ssd-wl-bt-win-11-pro-den-12m-080vn-b51235u8gs51x11pa,i5-1235U,8GB,DDR4,512GB,HDD,,,,Fan,11,7,10.0,12.0,12,5.0,4.4,4.4,1000
+19999000,https://hacom.vn/pc-hp-pavilion-tp01-3017d-6k7h2pa-hang-thanh-ly,i7-12700F,8GB,DDR4,512GB,SSD,1650 Super,4.0,,Fan,11,7,12.0,20.0,25,5.0,1.6,4.8,0
+11999000,https://hacom.vn/pc-hp-280-pro-g9-sff-i5-12500-4gb-ram-256gssd-wl-bt-k-m-win-11-72k91pa,i5-12500,4GB,DDR4,256GB,HDD,,,180 W,Fan,11,7,6.0,12.0,18,5.0,4.6,4.6,1000
+19999000,https://hacom.vn/pc-hp-elite-mini-800-g9-9h090pt-i7-13700-8gb-ram-512gb-ssd-wl-bt-k-m-win11,i7-13700,8GB,DDR5,512GB,SSD,,,,Fan,11,7,16.0,24.0,30,5.0,1.5,5.1,1000
+17099000,https://hacom.vn/pc-hp-s01-pf3009d-8c5s5pa-i7-13700-8gb-ram-256gb-ssd-wl-bt-k-m-win-11-den,i7-13700,8GB,DDR4,256GB,SSD,,,180W,Fan,11,7,16.0,24.0,30,5.0,1.5,5.1,1000
+25599000,https://hacom.vn/may-tram-asus-e500g9-12700026z-i7-12700-16gb-ram-1tb-hdd-w680-300w-dvd-rw-kb-m-90sf02f1-m00580,i7-12700,16GB,DDR5,1TB,HDD,,,300W,Fan,0,7,12.0,20.0,25,5.0,1.6,4.8,1000
+27499000,https://hacom.vn/pc-msi-creator-p50-11si-058xvn,i5-11400,16GB,DDR4,512GB,SSD,1660 Super,6.0,330W,Fan,0,14,6.0,12.0,12,4.0,2.6,4.4,1000
+12899000,https://hacom.vn/bo-mini-pc-asus-intel-nuc13-pro-tall-nuc13anhi5-i5-1340p-2xddr4-3200-3xnvme-sata-2x-hdmi-2.1-2x-dp-1.4a-vesa-mount-90ab3anh-mr6160,i5-1340P,64GB,DDR4,256GB,HDD,,,35W,Fan,10,7,12.0,16.0,12,5.0,4.6,4.6,1000
+9999000,https://hacom.vn/pc-asus-s500sd-312100037w-i3-12100-8gb-ram-256gb-ssd-wl-bt-k-m-win-11,i3-12100,8GB,,256GB,SSD,,,,Fan,11,7,4.0,8.0,12,5.0,4.3,4.3,1000
+35499000,https://hacom.vn/workstation-dell-precision-3660-tower-i7-13700-16gb-ram-2-8gb-256gb-ssd-1tb-hdd-t400-4gb-300w-key-mouse-ubuntu,i7-13700,16GB,,256GB,HDD,,,300W,Fan,0,7,16.0,24.0,30,5.0,1.5,5.1,1000
+20899000,https://hacom.vn/pc-dell-vostro-3020t-i7-13700-8gb-ram-512gb-ssd-wl-bt-k-m-win11-6fm7x22,i7-13700,8GB,DDR4,512GB,SSD,,,180W,Fan,11,7,16.0,24.0,30,5.0,1.5,5.1,1000
+7799000,https://hacom.vn/pc-hacom-business-mini-p47-i3-10105-h510-8gb-ram-256gb-ssd,i3-10105,8GB,DDR4,256GB,SSD,630,4.0,,Fan,0,14,4.0,8.0,6,4.0,3.7,4.4,1000
+17399000,https://hacom.vn/pc-hp-all-in-one-proone-240-g9-i5-1235u-8gb-ram-512gb-ssd-23.8-inch-fhd-wl-bt-k-m-win-11-6m3v2pa,i5-1235U,8GB,DDR4,512GB,SSD,,,,Fan,11,7,10.0,12.0,12,5.0,4.4,4.4,1000
+20499000,https://hacom.vn/hacom-sniper-i5-13400f-rtx-3050-1,i5-13400,16GB,DDR4,500GB,SSD,,,600W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.6,1000
+16699000,https://hacom.vn/pc-asus-all-in-one-a3202wbak-wa019w-i5-1235u-8gb-ram-512gb-ssd-21.5-inch-full-hd-wl-bt-k-m-win-11-trang,i5-1235U,8GB,,512GB,SSD,,,,Fan,11,7,10.0,12.0,12,5.0,4.4,4.4,1000
+25299000,https://hacom.vn/pc-dell-inspiron-all-in-one-5420-i5-1335u16gb-ram-512g-ssd-23.8-inch-fhd-touch-camera-bt-kb-m-win11-office-den-fnrj15,i5-1335U,8GB,DDR4,512GB,SSD,,,,Fan,11,7,10.0,12.0,12,5.0,4.6,4.6,1000
+46999000,https://hacom.vn/workstation-dell-precision-3660-tower-i9-12900-16gb-2x8gb-ram-1tb-ssd-dvdrw-t400-4gb-k-m-42pt3660d14,i9-12900,16GB,,1TB,HDD,,,,Fan,0,7,16.0,24.0,30,5.0,1.8,5.0,1000
+7999000,https://hacom.vn/pc-mini-msi-cubi-b183-i5-10120u-barebone-wl-bt-no-os-cubi510m-091bvn-b51021uxx,i5-10210U,,,,,,,,Fan,0,14,4.0,8.0,6,4.0,0.8,4.2,1000
+43299000,https://hacom.vn/workstation-dell-precision-3660-tower-i9-12900-16gb-2x8gb-ram-256-ssd-nvme-1tb-hdd-dvdrw-nvidia-t400-4gb-k-m-42pt3660d18,i9-12900,16GB,,1TB,HDD,,,,Fan,0,7,16.0,24.0,30,5.0,1.8,5.0,1000
+13299000,https://hacom.vn/pc-hp-pavilion-tp01-4010d-8c5t2pa-i5-13400-8gb-ram-256gb-ssd-wl-bt-k-m-win-11-trang,i5-13400,8GB,DDR4,256GB,SSD,,,,Fan,11,7,10.0,16.0,20,5.0,1.8,4.6,1000
+15099000,https://hacom.vn/pc-dell-vostro-3020sff-i5-13400-16gb-ram-512gb-ssd-wl-bt-k-m-win11-sffi52018w1-16g-512g,i5-13400,16GB,DDR4,512GB,SSD,520,4.0,,Fan,11,7,10.0,16.0,20,5.0,1.8,4.6,1000
+15499000,https://hacom.vn/pc-hacom-cad-c105-case-mini-tower-i5-13400f-b760-16gb-ram-500gb-ssd-t400-4gb-550w,i5-13400,16GB,DDR4,500GB,SSD,,,550W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.6,1000
+17499000,https://hacom.vn/hacom-sniper-i5-12400f-rtx-3050-1-2-3,i5-12400,8GB,DDR4,500GB,SSD,,,600W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+10299000,https://hacom.vn/pc-lenovo-thinkcentre-neo-50t-gen-4-i3-13100-8gb-ram-256gb-ssd-wl-bt-k-m-no-os-12jb001dva,i3-13100,8GB,DDR4,256GB,HDD,,,180W,Fan,0,7,4.0,8.0,12,5.0,4.5,4.5,1000
+32999000,https://hacom.vn/may-tram-asus-e500-g9-i9-12900-16gb-ram-w680-512gb-ssd-750w-kb-m-dvd-rw-e500g9-12900016z,i9-12900,16GB,,512GB,SSD,,,750W,Fan,0,7,16.0,24.0,30,5.0,1.8,5.0,1000
+11399000,https://hacom.vn/hacom-ares-a4-i3-1200f-h610-8g-ram-gtx-1650-550w,i3-12100F,8GB,DDR4,250GB,SSD,610,4.0,550W,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,0
+44699000,https://hacom.vn/pc-asus-rog-strix-g15cf-i7-12700f-16gb-ram-512gb-ssd-rtx3070-wl-bt-win-11-g15cf-71270f110w,i7-12700,16GB,,512GB,SSD,3070,8.0,750W,Fan,11,7,12.0,20.0,25,5.0,1.6,4.8,1000
+12799000,https://hacom.vn/hacom-ares-i3-12100f-gtx-1650-1-2-3-4,i3-12100,8GB,DDR4,250GB,SSD,610,4.0,550W,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,1000
+15199000,https://hacom.vn/pc-dell-optiplex-7010-tower-i5-13500-8gb-ram-512gb-ssd-k-m-ubuntu-den-42ot701006,i5-13500,8GB,DDR4,512GB,SSD,,,180W,Fan,0,7,14.0,20.0,24,5.0,1.8,4.8,1000
+14139000,https://hacom.vn/pc-acer-as-xc-895-i5-10400-4gb-ram-1tb-hdd-gt730-dvdrw-wl-bt-k-m-win-10-dt.bewsv.00b,i5-10400,4GB,DDR4,1TB,HDD,,,,Fan,10,14,6.0,12.0,12,4.0,2.9,4.3,1000
+8899000,https://hacom.vn/pc-hp-280-pro-g6-microtower-i3-10105-4gb-ram-256gb-ssd-wl-bt-k-m-win-11-60p78pa,i3-10105,4GB,DDR4,256GB,SSD,,,,Fan,11,14,4.0,8.0,6,4.0,3.7,4.4,1000
+15499000,https://hacom.vn/pc-dell-optiplex-7010-tower-plus-i5-13500-8gb-ram-ddr5-256gb-ssd-k-m-ubuntu-den-01mtde7010.13500.04,i5-13500,8GB,DDR5,256GB,SSD,,,260W,Fan,0,7,14.0,20.0,24,5.0,1.8,4.8,1000
+14999000,https://hacom.vn/pc-hp-all-in-one-22-dd2045d-9a8m7pa-i3-1215u-8gb-ram-512gb-ssd-21.5-fhd-wl-bt-k-m-win11-trang,i3-1215U,8GB,DDR4,512GB,SSD,,,,Fan,11,7,6.0,8.0,10,5.0,4.4,4.4,1000
+23599000,https://hacom.vn/hacom-sniper-s6-i5-13400-rtx-4060,i5-13400,16GB,DDR4,500GB,SSD,4060,8.0,650W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.6,1000
+19499000,https://hacom.vn/pc-hacom-x-msi-i5-13400f-rtx-3050-power-by-msi,i5-13400,16GB,DDR4,500GB,SSD,,,550W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.6,1000
+22499000,https://hacom.vn/pc-hacom-cad-c119-case-mini-tower-i5-13400f-b760-16gb-ram-500gb-ssd-rtx-a2000-6gb-550w,i5-13400,16GB,DDR4,500GB,SSD,,,550W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.6,1000
+62599000,https://hacom.vn/hacom-x-thermaltake-apollo-i11-i7-14700k-z790-32g-ram-rtx-4070-ti-1050w,i7-14700,32GB,DDR5,1024GB,SSD,4070,12.0,1050W,Liquid,0,7,20.0,28.0,33,5.0,1.5,5.3,1000
+15799000,https://hacom.vn/pc-hacom-cad-c121-i5-14400f-b760-16gb-ram-500gb-ssd-t400-4gb-550w,i5-14400,16GB,DDR4,500GB,SSD,,,550W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.7,1000
+13999000,https://hacom.vn/pc-asus-s501md-512400059w-i5-12400-8gb-ram-256gb-ssd-wl-bt-k-m-win-11-90pf0381-m00cy0,i5-12400,8GB,,256GB,SSD,,,,Fan,11,7,6.0,12.0,18,5.0,4.4,4.4,1000
+14899000,https://hacom.vn/pc-gaming-hacom-shark-s36-i5-12400f-b660-8gb-ram-250gb-ssd-gtx-1660s-550w,i5-12400,8GB,DDR4,250GB,SSD,1660,6.0,550W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+18299000,https://hacom.vn/pc-hp-all-in-one-22-dd2043d-9a8j8pa-i5-1235u-8gb-ram-512gb-ssd-21.5-fhd-wl-bt-k-m-win-11-trang,i5-1235U,8GB,DDR4,512GB,SSD,,,,Fan,11,7,10.0,12.0,12,5.0,4.4,4.4,1000
+27499000,https://hacom.vn/pc-msi-creator-p50-11si-058xvn,i5-11400,16GB,DDR4,512GB,SSD,1660 Super,6.0,330W,Fan,0,14,6.0,12.0,12,4.0,2.6,4.4,1000
+23099000,https://hacom.vn/hacom-sniper-i5-12400f-rtx-3060-ti,i5-12400,16GB,DDR4,500GB,SSD,3060,12.0,750W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+13099000,https://hacom.vn/pc-hacom-cad-c126-i5-12400f-b760-16gb-ram-256gb-ssd-t400-4gb-550w,i5-12400,16GB,DDR4,256GB,SSD,620,4.0,550W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+16999000,https://hacom.vn/hacom-sniper-i5-12400f-rtx-3050,i5-12400,8GB,DDR4,250GB,SSD,,,600W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+14999000,https://hacom.vn/hacom-sniper-s28-i5-12400f-gtx-1660s,i5-12400,8GB,DDR4,250GB,SSD,1660,6.0,550W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+15499000,https://hacom.vn/pc-hp-pro-tower-400-g9-i5-13500-16gb-ram-512g-ssd-wl-bt-k-m-win11-9h1t5pt,i5-13500,16GB,DDR4,512GB,SSD,,,,Fan,11,7,14.0,20.0,24,5.0,1.8,4.8,1000
+11399000,https://hacom.vn/pc-gaming-hacom-tiger-t28-i3-12100f-h610-8gb-ram-250gb-ssd-gtx-1650-450w,i3-12100,8GB,DDR4,250GB,SSD,610,4.0,450W,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,1000
+13299000,https://hacom.vn/pc-hp-pro-mini-400-g9-9h1u6pt-i5-13500t-8gb-ram-256gb-ssd-wl-bt-k-m-win11,i5-13500,8GB,DDR4,256GB,SSD,,,,Fan,11,7,14.0,20.0,24,5.0,1.8,4.8,1000
+13999000,https://hacom.vn/pc-asus-s500se-513400036w-i5-13400-16gb-ram-512gb-ssd-wl-bt-k-m-win-11,i5-13400,16GB,,512GB,SSD,,,,Fan,11,7,10.0,16.0,20,5.0,1.8,4.6,1000
+10899000,https://hacom.vn/pc-hp-pro-mini-400-g9-9h1u5pt-i3-13100t-8gb-ram-256gb-ssd-wl-bt-k-m-win11,i3-13100,8GB,DDR4,256GB,SSD,,,,Fan,11,7,4.0,8.0,12,5.0,4.5,4.5,1000
+8799000,https://hacom.vn/pc-hacom-business-mini-vs2-i5-12400-h610-8gb-ram-500gb,i5-12400,8GB,DDR4,500GB,SSD,610,4.0,,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+10599000,https://hacom.vn/hacom-ares-a1-i3-12100f-gtx-1650,i3-12100,8GB,DDR4,256GB,SSD,610,4.0,550W,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,1000
+10799000,https://hacom.vn/pc-hacom-cad-c120-i3-13100f-h610-16gb-ram-250gb-ssd-t400-4gb-450w,i3-13100,16GB,DDR4,250GB,SSD,610,4.0,450W,Fan,0,7,4.0,8.0,12,5.0,4.5,4.5,1000
+12499000,https://hacom.vn/pc-asus-s501md-512400079w-i5-12400-8gb-ram-512gb-ssd-wl-bt-k-m-win-11-90pf0381-m00fh0,i5-12400,8GB,,512GB,SSD,,,,Fan,11,7,6.0,12.0,18,5.0,4.4,4.4,1000
+13299000,https://hacom.vn/pc-hp-pavilion-tp01-4019d-8x3r3pa-i5-13400-8gb-ram-512gb-ssd-wl-bt-k-m-win-11-bac,i5-13400,8GB,DDR4,512GB,SSD,,,,Fan,11,7,10.0,16.0,20,5.0,1.8,4.6,1000
+11699000,https://hacom.vn/pc-dell-optiplex-7010-sff-i3-13100-8gb-ram-256gb-ssd-k-m-ubuntu-den-71016921,i3-13100,8GB,DDR4,256GB,HDD,,,180W,Fan,0,7,4.0,8.0,12,5.0,4.5,4.5,1000
+18999000,https://hacom.vn/pc-hacom-trader-t005-i5-13400f-b760-16gb-ram-500gb-ssd-2x-nvidia-t400-4gb-550w,i5-13400,16GB,DDR4,500GB,SSD,,,550W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.6,1000
+10999000,https://hacom.vn/pc-dell-optiplex-3000-sff-i3-12100-8gb-ram-256gb-ssd-dvdrw-k-m-ubuntu-den-71010216,i3-12100,8GB,DDR4,256GB,SSD,,,180W,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,1000
+12999000,https://hacom.vn/pc-gaming-hacom-tiger-t27-i3-12100f-h610-8gb-ram-250gb-ssd-gtx-1660s-500w,i3-12100,8GB,DDR4,250GB,SSD,610,4.0,500W,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,1000
+17499000,https://hacom.vn/pc-hp-all-in-one-200-pro-g4-i5-1235u-8gb-ram-512gb-ssd-21.5-inch-fhd-wl-bt-k-m-win-11-74s25pa,i5-1235U,8GB,DDR4,512GB,HDD,,,65 W,Fan,11,7,10.0,12.0,12,5.0,4.4,4.4,1000
+12199000,https://hacom.vn/pc-hp-pro-280-g9-tower-i5-12500-8gb-ram-256gb-ssd-wl-bt-k-m-win11-72j49pa,i5-12500,8GB,DDR4,256GB,SSD,,,,Fan,11,7,6.0,12.0,18,5.0,4.6,4.6,1000
+13499000,https://hacom.vn/pc-hp-s01-pf2025d-i5-12400-8gb-ram-512gb-ssd-wl-bt-k-m-win-11-6k7a3pa,i5-12400,8GB,DDR4,512GB,SSD,,,,Fan,11,7,6.0,12.0,18,5.0,4.4,4.4,1000
+12299000,https://hacom.vn/pc-gaming-hacom-tiger-t29-i3-12100f-h610-8gb-ram-250gb-ssd-gtx-1650-550w,i3-12100,8GB,DDR4,250GB,SSD,610,4.0,550W,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,1000
+50599000,https://hacom.vn/hacom-poseidon-i7-13700f-rtx-4070,i7-13700,32GB,DDR4,1TB,SSD,4070,12.0,750W,Liquid,0,7,16.0,24.0,30,5.0,1.5,5.1,1000
+20699000,https://hacom.vn/hacom-shark-s40-i5-12400f-rtx-3060,i5-12400,16GB,DDR4,500GB,SSD,3060,12.0,650W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+8099000,https://hacom.vn/pc-hacom-cad-c045-i3-10105f-h510-8gb-ram-240gb-ssd-t400-2gb,i3-10105,8GB,DDR4,,SSD,,,500W,Fan,0,14,4.0,8.0,6,4.0,3.7,4.4,1000
+14999000,https://hacom.vn/pc-hp-all-in-one-22-dd2044d-9a8j9pa-i3-1215u-16gb-ram-256gb-ssd-21.5-fhd-wl-bt-k-m-win-11-trang,i3-1215U,16GB,DDR4,256GB,SSD,,,,Fan,11,7,6.0,8.0,10,5.0,4.4,4.4,1000
+12899000,https://hacom.vn/pc-hp-pro-400-g9-sff-i5-12500-8gb-ram-256gb-ssd-wl-bt-k-m-win11-72l09pa,i5-12500,8GB,DDR4,256GB,SSD,,,240 W,Fan,11,7,6.0,12.0,18,5.0,4.6,4.6,1000
+12199000,https://hacom.vn/pc-hp-280-pro-g9-sff-i5-12500-8gb-ram-256gssd-wl-bt-k-m-win-11-72k92pa,i5-12500,8GB,DDR4,256GB,HDD,,,180 W,Fan,11,7,6.0,12.0,18,5.0,4.6,4.6,1000
+6999000,https://hacom.vn/pc-hacom-business-mini-p14-i3-10105-h510-8gb-ram-500gb-ssd,i3-10105,8GB,,500GB,SSD,630,4.0,350W,Fan,0,14,4.0,8.0,6,4.0,3.7,4.4,1000
+33799000,https://hacom.vn/workstation-dell-precision-3660-tower-i7-12700-8gb-ram-512gb-ssd-dvdrw-t400-4gb-k-m-42pt3660d12,i7-12700,8GB,,512GB,HDD,,,,Fan,0,7,12.0,20.0,25,5.0,1.6,4.8,1000
+13999000,https://hacom.vn/pc-hp-all-in-one-200-pro-g4-i3-1215u-8gb-ram-256gb-ssd-21.5-inch-fhd-wl-bt-k-m-win-11-74s22pa,i3-1215U,8GB,DDR4,256GB,HDD,,,65 W,Fan,11,7,6.0,8.0,10,5.0,4.4,4.4,1000
+14499000,https://hacom.vn/pc-dell-vostro-3020sff-i5-13400-8gb-ram-512gb-ssd-wl-bt-k-m-win11-42vt3020sff0004,i5-13400,8GB,DDR4,512GB,SSD,,,,Fan,11,7,10.0,16.0,20,5.0,1.8,4.6,1000
+79999000,https://hacom.vn/hacom-x-asus-proart-apollo-i10-i7-14700k-rtx-4070-ti,i7-14700,64GB,DDR5,2TB,SSD,4070,12.0,1000W,Liquid,0,7,20.0,28.0,33,5.0,1.5,5.3,1000
+16999000,https://hacom.vn/pc-lenovo-thinkcentre-neo-50t-gen-4-i7-13700-8gb-ram-512gb-ssd-wl-bt-k-m-no-os-12jb001kva,i7-13700,8GB,DDR4,512GB,HDD,,,,Fan,0,7,16.0,24.0,30,5.0,1.5,5.1,1000
+13299000,https://hacom.vn/pc-hacom-cad-c111-i5-12400f-b760-16gb-ram-500gb-ssd-t400-4gb-500w,i5-12400,16GB,DDR4,500GB,SSD,,,500W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+33399000,https://hacom.vn/pc-dell-inspiron-3020-i7-13700-16gb-ram-512gb-ssd-1tb-rtx-3050-8g-wl-bt-k-m-win11-mti71028w1-16g-512g-1t,i7-13700,16GB,DDR4,512GB,HDD,,,,Fan,11,7,16.0,24.0,30,5.0,1.5,5.1,1000
+11399000,https://hacom.vn/pc-dell-vostro-3020sff-i3-13100-8gb-ram-512gb-ssd-wl-bt-k-m-win11-sffi32004w1-8g-512g,i3-13100,8GB,,512GB,SSD,,,,Fan,11,7,4.0,8.0,12,5.0,4.5,4.5,1000
+10999000,https://hacom.vn/pc-hp-280-pro-g9-sff-9h9c5pt-i3-12100-8gb-ram-256gb-ssd-wl-bt-k-m-win-11,i3-12100,8GB,DDR4,256GB,HDD,,,180 W,Fan,11,7,4.0,8.0,12,5.0,4.3,4.3,1000
+21799000,https://hacom.vn/pc-dell-inspiron-3020-i7-13700-16gb-ram-512gb-ssd-wl-bt-k-m-win11-mti71026w1-16g-512g,i7-13700,16GB,DDR4,512GB,SSD,,,,Fan,11,7,16.0,24.0,30,5.0,1.5,5.1,1000
+148099000,https://hacom.vn/pc-hacom-x-asus-i9-14900k-rtx-4090-powered-by-asus,i9-14900,64GB,DDR5,2TB,SSD,4090,24.0,1600W,Fan,0,7,24.0,32.0,36,5.0,1.5,5.4,1000
+50599000,https://hacom.vn/hacom-apollo-i7-12700k-rtx-3070-ti,i7-12700,32GB,DDR4,512GB,SSD,3070,8.0,850W,Liquid,0,7,12.0,20.0,25,5.0,1.6,4.8,1000
+17499000,https://hacom.vn/pc-hp-m01-f3004d-i7-13700-8gb-ram-512gb-ssd-intel-graphics-wlan-ax-bt-usb-keyboard-mouse-win11-home-64-dark-black-8c5s0pa,i7-13700,8GB,DDR4,512GB,SSD,,,180 W,Fan,11,7,16.0,24.0,30,5.0,1.5,5.1,1000
+19999000,https://hacom.vn/pc-asus-all-in-one-a5402wvak-ba016w-i5-1340p-8gb-ram-512gb-ssd-23.8-fhd-wl-bt-k-m-win-11-den,i5-1340P,8GB,DDR4,512GB,HDD,540,4.0,,Fan,11,7,12.0,16.0,12,5.0,4.6,4.6,1000
+12999000,https://hacom.vn/pc-hp-pavilion-tp01-3008d-i5-12400-8gb-ram-256gb-ssd-wl-bt-k-m-win-11-6k7a9pa,i5-12400,8GB,DDR4,256GB,SSD,,,,Fan,11,7,6.0,12.0,18,5.0,4.4,4.4,1000
+12799000,https://hacom.vn/may-tinh-mini-pc-kit-intel-nuc11tn-core-i7-1165g7-bnuc11tnki70000,i7-1165G7,,,,HDD,,,,Fan,0,10,4.0,8.0,12,4.0,1.2,4.7,1000
+10399000,https://hacom.vn/pc-hp-280-pro-tower-g9-i3-12100-8gb-ram-256gb-ssd-wl-bt-k-m-win11-72j47pa,i3-12100,8GB,DDR4,256GB,SSD,,,180 W,Fan,11,7,4.0,8.0,12,5.0,4.3,4.3,1000
+11699000,https://hacom.vn/pc-dell-vostro-3020t-i3-13100-8gb-ram-512gb-ssd-wl-bt-k-m-win11-71031596,i3-13100,8GB,DDR4,512GB,SSD,,,180W,Fan,11,7,4.0,8.0,12,5.0,4.5,4.5,1000
+13699000,https://hacom.vn/pc-dell-optiplex-7010-sff-i5-13500-8gb-ram-256gb-ssd-k-m-ubuntu-den-7010sff8g2561y,i5-13500,8GB,DDR4,256GB,SSD,,,180W,Fan,0,7,14.0,20.0,24,5.0,1.8,4.8,1000
+14999000,https://hacom.vn/pc-hp-elite-tower-600-g9-9h097pt-i5-13500-8gb-ram-256gb-ssd-wl-bt-k-m-win11,i5-13500,8GB,DDR5,256GB,SSD,,,65W,Fan,11,7,14.0,20.0,24,5.0,1.8,4.8,1000
+13199000,https://hacom.vn/pc-hp-280-pro-tower-g9-9h9c3pt-i5-12500-8gb-ram-512gb-ssd-wl-bt-k-m-win11,i5-12500,8GB,DDR4,512GB,SSD,,,,Fan,11,7,6.0,12.0,18,5.0,4.6,4.6,1000
+8799000,https://hacom.vn/hacom-ares-a7-i3-1200f-h610-8g-ram-gtx-1030-450w,i3-12100F,8GB,DDR4,250GB,SSD,610,4.0,450W,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,0
+23299000,https://hacom.vn/hacom-sniper-i5-13400f-rtx-3060-pcgm743,i5-13400,16GB,DDR4,500GB,SSD,3060,12.0,650W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.6,1000
+9999000,https://hacom.vn/pc-hp-280-pro-g9-sff-i3-12100-8gb-ram-256gssd-wl-bt-k-m-win-11-72k90pa,i3-12100,8GB,DDR4,256GB,HDD,,,,Fan,11,7,4.0,8.0,12,5.0,4.3,4.3,1000
+7399000,https://hacom.vn/pc-hacom-business-i3121-8gs5-i3-12100-h610-8gb-ram-500gb,i3-12100,8GB,,500GB,SSD,610,4.0,,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,1000
+10499000,https://hacom.vn/pc-hp-prodesk-400-g9-mt-i3-12100-4gb-ram-256gssd-wl-bt-k-m-win-11-72k96pa,i3-12100,4GB,DDR4,256GB,SSD,,,,Fan,11,7,4.0,8.0,12,5.0,4.3,4.3,1000
+13299000,https://hacom.vn/pc-hacom-designer-d141-i5-10400f-b560-16gb-ram-500gb-ssd-rtx-3050-550w,i5-10400,16GB,DDR4,500GB,SSD,,,550W,Fan,0,14,6.0,12.0,12,4.0,2.9,4.3,1000
+15999000,https://hacom.vn/pc-lenovo-thinkcentre-aio-neo-30a-27-gen-4-i5-13420h-8gb-ram-512gb-ssd-27-inch-fhd-wl-bt-k-m-dos-den-12ju001cva,i5-13420H,8GB,DDR4,512GB,SSD,,,,Fan,0,7,8.0,12.0,12,5.0,4.6,4.6,1000
+15499000,https://hacom.vn/hacom-mini-c2-white-v2-i5-12400f-gtx-1660-super,i5-12400,8GB,DDR4,500 GB,SSD,1660,6.0,550W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+62999000,https://hacom.vn/hacom-apollo-i01-i7-14700k-rtx-4070-ti,i7-14700,32GB,DDR5,512GB,SSD,4070,12.0,850W,Liquid,0,7,20.0,28.0,33,5.0,1.5,5.3,1000
+11199000,https://hacom.vn/pc-dell-inspiron-3020t-i3-13100-8gb-ram-256gb-ssd-wl-bt-k-m-office-win11-42in3020mt0001,i3-13100,8GB,DDR4,256GB,SSD,,,,Fan,11,7,4.0,8.0,12,5.0,4.5,4.5,1000
+13999000,https://hacom.vn/pc-hp-pro-mini-400-g9-9h1u7pt-i5-13500t-8gb-ram-512gb-ssd-wl-bt-k-m-win11,i5-13500,8GB,DDR4,512GB,SSD,,,,Fan,11,7,14.0,20.0,24,5.0,1.8,4.8,1000
+23399000,https://hacom.vn/pc-hacom-cad-c124-i7-14700-b760-16gb-ram-500gb-ssd-t400-4gb-550w,i7-14700,16GB,DDR5,500GB,SSD,520,4.0,550W,Liquid,0,7,20.0,28.0,33,5.0,1.5,5.3,1000
+15499000,https://hacom.vn/pc-dell-optiplex-7010-sff-i5-13500-8gb-ram-512gb-ssd-k-m-ubuntu-den-7010sff8g5123y,i5-13500,8GB,DDR4,512GB,SSD,,,180W,Fan,0,7,14.0,20.0,24,5.0,1.8,4.8,1000
+20999000,https://hacom.vn/pc-dell-vostro-3020sff-i7-13700-16gb-ram-512gb-ssd-wl-bt-k-m-win11-i72028w1-16g-512g,i7-13700,16GB,DDR4,512GB,SSD,,,,Fan,11,7,16.0,24.0,30,5.0,1.5,5.1,1000
+8999000,https://hacom.vn/pc-lenovo-thinkcentre-m70t-gen-3-i3-12100-8gb-ram-256gb-ssd-wl-bt-k-m-no-os-11ta000xva,i3-12100,8GB,,256GB,SSD,,,,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,1000
+9999000,https://hacom.vn/pc-asus-s500se-313100029w-i3-13100-8gb-ram-512gb-ssd-wl-bt-k-m-win-11,i3-13100,8GB,,512GB,SSD,,,,Fan,11,7,4.0,8.0,12,5.0,4.5,4.5,1000
+18999000,https://hacom.vn/pc-dell-inspiron-all-in-one-5420-i3-1315u-8gb-ram-512gb-ssd-23.8-inch-fhd-camera-wl-bt-kb-m-win-11-office-den-fnrj1,i3-1315U,8GB,DDR4,512GB,SSD,,,,Fan,11,7,6.0,8.0,10,5.0,4.5,4.5,1000
+6399000,https://hacom.vn/pc-hacom-business-mini-p44-v2-i3-10105-h510-8gb-ram-256gb,i3-10105,8GB,DDR4,256GB,SSD,630,4.0,,Fan,0,14,4.0,8.0,6,4.0,3.7,4.4,1000
+31699000,https://hacom.vn/hacom-apollo-i7-13700f-rtx-4060-ti-pcgm735,i7-13700,16GB,DDR4,500GB,SSD,4060,8.0,750W,Liquid,0,7,16.0,24.0,30,5.0,1.5,5.1,1000
+27499000,https://hacom.vn/pc-msi-creator-p50-11si-058xvn,i5-11400,16GB,DDR4,512GB,SSD,1660 Super,6.0,330W,Fan,0,14,6.0,12.0,12,4.0,2.6,4.4,1000
+20999000,https://hacom.vn/pc-hp-elite-tower-600-g9-9h098pt-i7-13700-16gb-ram-512gb-ssd-wl-bt-k-m-win11,i7-13700,16GB,DDR5,512GB,SSD,,,260 W,Fan,11,7,16.0,24.0,30,5.0,1.5,5.1,1000
+16499000,https://hacom.vn/pc-hacom-cad-c122-i5-14400-b760-16gb-ram-500gb-ssd-t400-4gb-550w,i5-14400,16GB,DDR4,500GB,SSD,,,450W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.7,1000
+13999000,https://hacom.vn/pc-hp-280-pro-g9-sff-i5-12500-8gb-ram-512gssd-wl-bt-k-m-win-11-72k93pa,i5-12500,8GB,DDR4,512GB,HDD,,,,Fan,11,7,6.0,12.0,18,5.0,4.6,4.6,1000
+18699000,https://hacom.vn/hacom-sniper-i5-13400f-rtx-3050,i5-13400,16GB,DDR4,500GB,SSD,,,550W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.6,1000
+12999000,https://hacom.vn/pc-hp-m01-f2031d-i5-12400-8gb-ram-256gb-ssd-wl-bt-k-m-win-11-76t99pa,i5-12400,8GB,DDR4,256GB,SSD,,,,Fan,11,7,6.0,12.0,18,5.0,4.4,4.4,1000
+13499000,https://hacom.vn/pc-hp-pro-280-g9-tower-i5-12500-8gb-ram-512gb-ssd-wl-bt-k-m-win11-72g57pa,i5-12500,8GB,DDR4,512GB,SSD,,,,Fan,11,7,6.0,12.0,18,5.0,4.6,4.6,1000
+10199000,https://hacom.vn/pc-mini-asus-pn64-b-s5188md-i5-12500h-intel-ax211-gig-wi-fi-6e-bluetooth-5.2-vesa-mount-display-1.4-port,i5-12500,64GB,DDR5,,SSD,,,35W,Fan,10,7,6.0,12.0,18,5.0,4.6,4.6,1000
+15699000,https://hacom.vn/pc-acer-as-all-in-one-c22-963-i3-1005g1-8gb-ram-1tb-hdd-128gb-ssd-21.5-inch-fhd-wl-bt-k-m-win-10-dq.bensv.001,i3-1005G1,128GB,DDR4,128GB,HDD,,,,Fan,10,10,2.0,4.0,4,4.0,0.9,3.4,900
+66999000,https://hacom.vn/pc-gigabyte-aorus-model-x,i9-12900K,32GB,DDR5,2TB,SSD,3080,12.0,850W,Liquid,0,7,16.0,24.0,30,5.0,2.4,5.1,1000
+15499000,https://hacom.vn/hacom-sniper-i5-12400f-gtx-1660-super-1-2-3,i5-12400,8GB,DDR4,250GB,SSD,1660,6.0,550W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+19499000,https://hacom.vn/pc-hp-elite-mini-800-g9-9h0c7pt-i5-13500-8gb-ram-512gb-ssd-wl-bt-k-m-win11,i5-13500,8GB,DDR5,512GB,SSD,,,,Fan,11,7,14.0,20.0,24,5.0,1.8,4.8,1000
+24999000,https://hacom.vn/pc-hacom-x-msi-i5-14400f-rtx-4060-power-by-msi,i5-14400,16GB,DDR4,500GB,SSD,4060,8.0,650W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.7,1000
+16699000,https://hacom.vn/pc-lenovo-thinkcentre-aio-neo-30a-24-gen-4-i7-13620h-8gb-ram-512gb-ssd-23.8-inch-fhd-wl-bt-k-m-win11-12jy001tvn,i7-13620H,8GB,,512GB,HDD,620,4.0,,Fan,11,7,10.0,16.0,24,5.0,4.9,4.9,1000
+9799000,https://hacom.vn/pc-mini-asus-pn64-b-s3187md-i3-1220p-intel-ax211-gig-wi-fi-6e-bluetooth-5.2-vesa-mount-display-1.4-port,i3-1220P,64GB,DDR5,,SSD,,,90W,Fan,10,7,10.0,12.0,12,5.0,4.4,4.4,1000
+20999000,https://hacom.vn/pc-lenovo-thinkcentre-aio-neo-30a-27-gen-4-i7-13620h-8gb-ram-512gb-ssd-27-inch-fhd-wl-bt-k-m-win11-den-12ju001gvn,i7-13620H,8GB,DDR4,512GB,SSD,620,4.0,,Fan,11,7,10.0,16.0,24,5.0,4.9,4.9,1000
+15499000,https://hacom.vn/pc-lenovo-thinkcentre-aio-neo-30a-24-gen-3-i7-1260p-8gb-ram-512gb-ssd-23.8-inch-fhd-wl-bt-k-m-win-11-12b000d2vn,i7-1260P,8GB,DDR4,512GB,SSD,,,,Fan,11,7,12.0,16.0,18,5.0,4.7,4.7,1000
+12999000,https://hacom.vn/pc-msi-pro-dp21-i3-13100-8gb-ram-256gb-ssd-wl-bt-k-m-tpm2.0-dos-den-13m-654xvn-b3131008gs25xxah1,i3-13100,8GB,DDR4,256GB,HDD,610,4.0,,Fan,0,7,4.0,8.0,12,5.0,4.5,4.5,1000
+14499000,https://hacom.vn/pc-hp-280-pro-g9-sff-9h1s5pt-i5-13500-8gb-ram-512gb-ssd-wl-bt-k-m-win-11,i5-13500,8GB,DDR4,512GB,HDD,,,180 W,Fan,11,7,14.0,20.0,24,5.0,1.8,4.8,1000
+12899000,https://hacom.vn/pc-hp-prodesk-400-g9-mt-i5-12500-8gb-ram-256gssd-wl-bt-k-m-win-11-72k99pa,i5-12500,8GB,DDR4,256GB,SSD,,,,Fan,11,7,6.0,12.0,18,5.0,4.6,4.6,1000
+20165000,https://hacom.vn/pc-acer-veriton-x2690g-i7-12700-8gb-512g-ssd-wl-k-m-black-dos,i7-12700,8GB,,512GB,SSD,,,,Fan,0,7,12.0,20.0,25,5.0,1.6,4.8,1000
+10199000,https://hacom.vn/bo-mini-pc-asus-intel-nuc12-pro-tall-nuc12wshi5-i5-1250p-2xddr4-3200-3xnvme-sata-2x-hdmi-2.1-2x-dp-1.4a-90ab2wsh-mr6120,i5-1240P,64GB,DDR4,256GB,HDD,,,35W,Fan,10,7,12.0,16.0,12,5.0,4.4,4.4,1000
+14099000,https://hacom.vn/hacom-sniper-s2-i5-12400f-gtx-1650-pcgm770,i5-12400,8GB,DDR4,500GB,SSD,,,550W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+23099000,https://hacom.vn/hacom-sniper-s4-i5-13400f-rtx-4060,i5-13400,16GB,DDR4,500GB,SSD,4060,8.0,650W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.6,1000
+18899000,https://hacom.vn/pc-hacom-designer-d128-i7-12700f-b660-16gb-ram-500gb-ssd-rtx-3050-550w,i7-12700,16GB,DDR4,500GB,SSD,,,550W,Fan,0,7,12.0,20.0,25,5.0,1.6,4.8,1000
+15399000,https://hacom.vn/pc-dell-inspiron-3020-i5-13400-8gb-ram-256gb-ssd-1tb-hdd-wl-bt-k-m-win11-mti51010w1-8g-256g-1t,i5-13400,8GB,DDR4,256GB,HDD,,,,Fan,11,7,10.0,16.0,20,5.0,1.8,4.6,1000
+13899000,https://hacom.vn/pc-hacom-business-mini-hb01-i7-12700-b660-8gb-ram-500gb-ssd-wifi,i7-12700,8GB,,500GB,SSD,,,450W,Fan,0,7,12.0,20.0,25,5.0,1.6,4.8,1000
+17499000,https://hacom.vn/pc-hp-pro-280-g9-tower-i7-12700-8gb-ram-512gb-ssd-wl-bt-k-m-win11-72u97pa,i7-12700,8GB,DDR4,512GB,SSD,,,,Fan,11,7,12.0,20.0,25,5.0,1.6,4.8,1000
+12199000,https://hacom.vn/pc-lenovo-thinkcentre-neo-50s-gen-4-i5-13400-8gb-ram-512gb-ssd-wl-bt-k-m-no-os-12jh0006va,i5-13400,8GB,DDR4,512GB,HDD,,,180W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.6,1000
+19399000,https://hacom.vn/pc-gaming-hacom-shark-s39-pink-i5-12400f-b660-16gb-ram-500gb-ssd-rtx-3050-650w,i5-12400,16GB,DDR4,500GB,SSD,,,650W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+119999000,https://hacom.vn/hacom-poseidon-limited-edition-i9-14900k-rtx-4090,i9-14900,64GB,DDR5,1024GB,SSD,4090,24.0,1050W,Liquid,0,7,24.0,32.0,36,5.0,1.5,5.4,1000
+13999000,https://hacom.vn/pc-hp-all-in-one-22-dd2012d-i3-1215u-8gb-ram-256gb-ssd-21.5-inch-fhd-wl-bt-k-m-win-11-6k7g5pa,i3-1215U,8GB,,256GB,SSD,,,,Fan,11,7,6.0,8.0,10,5.0,4.4,4.4,1000
+10899000,https://hacom.vn/pc-dell-inspiron-3020-i3-13100-8gb-ram-256gb-ssd-wl-bt-k-m-win11-b,i3-13100,8GB,DDR4,256GB,SSD,,,,Fan,11,7,4.0,8.0,12,5.0,4.5,4.5,1000
+13129000,https://hacom.vn/pc-acer-as-xc-895-i5-10400-4gb-ram-1tb-hdd-dvdrw-wl-bt-k-m-win-10-dt.bewsv.005,i5-10400,4GB,DDR4,1TB,HDD,,,,Fan,10,14,6.0,12.0,12,4.0,2.9,4.3,1000
+11599000,https://hacom.vn/hacom-ares-i3-12100f-gtx-1650-1-2-3,i3-12100,8GB,DDR4,250GB,SSD,610,4.0,550W,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,1000
+26999000,https://hacom.vn/may-tram-asus-e500g9-12700030z-i7-12700-16gb-ram-1tb-hdd-w680-550w-dvd-rw-kb-m-90sf02f1-m006w0,i7-12700,16GB,DDR5,1TB,HDD,,,550W,Fan,0,7,12.0,20.0,25,5.0,1.6,4.8,1000
+14699000,https://hacom.vn/pc-hp-pro-400-g9-sff-i5-12500-8gb-ram-512gb-ssd-wl-bt-k-m-win11-72l11pa,i5-12500,8GB,DDR4,512GB,SSD,,,240 W,Fan,11,7,6.0,12.0,18,5.0,4.6,4.6,1000
+10899000,https://hacom.vn/hacom-ares-a6-i3-1200f-h610-8g-ram-gtx-1650-550w,i3-12100F,8GB,DDR4,250GB,SSD,610,4.0,550W,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,0
+13799000,https://hacom.vn/pc-hp-s01-pf3011d-8c5s7pa-i5-13400-8gb-ram-512gb-ssd-wl-bt-k-m-win-11-den,i5-13400,8GB,DDR4,512GB,SSD,,,180W,Fan,11,7,10.0,16.0,20,5.0,1.8,4.6,1000
+17399000,https://hacom.vn/pc-hacom-cad-c108-i7-12700f-b660-16gb-ram-500gb-ssd-t400-4gb-550w,i7-12700,16GB,DDR4,500GB,SSD,,,550W,Fan,0,7,12.0,20.0,25,5.0,1.6,4.8,1000
+14699000,https://hacom.vn/pc-dell-optiplex-7010-sff-i5-13500-8gb-ram-256gb-ssd-k-m-ubuntu-den-7010sff8g2563y,i5-13500,8GB,DDR4,256GB,SSD,,,180W,Fan,0,7,14.0,20.0,24,5.0,1.8,4.8,1000
+9699000,https://hacom.vn/pc-hacom-cad-c109-i3-12100f-h610-8gb-ram-250gb-ssd-t400-4gb-450w,i3-12100,8GB,DDR4,250GB,SSD,610,4.0,450W,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,1000
+22499000,https://hacom.vn/may-tram-asus-e500g9-1260k002z-i5-1260k-8gd5-1tb-hdd-2-intel-lan-w680-300w-kb-m-dvd-rw-nos-den-90sf02f1-m007x0,i5-12600,8 GB,DDR5,1TB,HDD,,,300W,Fan,0,7,6.0,12.0,18,5.0,4.8,4.8,1000
+20799000,https://hacom.vn/pc-hacom-designer-d130-i7-12700f-b660-16gb-ram-500gb-ssd-rtx-3060-12gb-650w,i7-12700,16GB,DDR4,500GB,SSD,3060,12.0,650W,Fan,0,7,12.0,20.0,25,5.0,1.6,4.8,1000
+29499000,https://hacom.vn/workstation-dell-precision-3660-tower-cto-base-i7-12700-8gb-ram-1tb-hdd-t400-dvdrw-k-m-ubuntu-42pt3660d02,i7-12700,8GB,,1TB,HDD,,,,Fan,0,7,12.0,20.0,25,5.0,1.6,4.8,1000
+15599000,https://hacom.vn/pc-dell-vostro-3020sff-i5-13400-8gb-ram-512gb-ssd-wl-bt-k-m-win11-71021410,i5-13400,8GB,DDR4,512GB,SSD,,,,Fan,11,7,10.0,16.0,20,5.0,1.8,4.6,1000
+12599000,https://hacom.vn/pc-hp-280-pro-g9-sff-i5-12500-8gb-ram-256g-ssd-wl-bt-k-m-win11-9e562pt,i5-12500,8GB,DDR4,256GB,HDD,,,180 W,Fan,11,7,6.0,12.0,18,5.0,4.6,4.6,1000
+6499000,https://hacom.vn/pc-hacom-business-mini-p48-v2-i3-10105-h510-8gb-ram-256gb,i3-10105,8GB,DDR4,256GB,SSD,630,4.0,,Fan,0,14,4.0,8.0,6,4.0,3.7,4.4,1000
+12399000,https://hacom.vn/pc-dell-optiplex-7010-sff-i5-12500-8gb-ram-512gb-ssd-k-m-dos-den-7010sf125004774,i5-12500,8GB,DDR4,512GB,SSD,,,180W,Fan,0,7,6.0,12.0,18,5.0,4.6,4.6,1000
+17299000,https://hacom.vn/hacom-sniper-s30-i5-12400f-rtx-3050,i5-12400,16GB,DDR4,500GB,SSD,,,650W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+16999000,https://hacom.vn/pc-asus-all-in-one-a3402wb-i5-1235u-8gb-512g-pcie-23.8-fhdt-cam-mic-wifi6-bt5-wl_kb-wl_m-w11h-trang-a3402wbat-wa187w,i5-1235U,8GB,DDR4,512GB,SSD,,,,Fan,11,7,10.0,12.0,12,5.0,4.4,4.4,1000
+15199000,https://hacom.vn/pc-hp-elite-mini-600-g9-8u8r0pa-i5-13500-8gb-ram-512gb-ssd-wl-bt-k-m-win11,i5-13500,8GB,DDR5,512GB,SSD,,,120 W,Fan,11,7,14.0,20.0,24,5.0,1.8,4.8,1000
+7999000,https://hacom.vn/pc-hacom-business-i3121-16gs5-i3-12100-h610-16gb-ram-500gb,i3-12100,16GB,,500GB,SSD,610,4.0,,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,1000
+28799000,https://hacom.vn/hacom-apollo-i07-i7-14700f-rtx-3060,i7-14700,16GB,DDR4,500GB,SSD,3060,12.0,650W,Fan,0,7,20.0,28.0,33,5.0,1.5,5.3,1000
+14699000,https://hacom.vn/pc-dell-optiplex-7010-tower-i5-13500-8gb-ram-512gb-ssd-k-m-ubuntu-den-42ot701021,i5-13500,8GB,DDR4,512GB,SSD,,,180W,Fan,0,7,14.0,20.0,24,5.0,1.8,4.8,1000
+13999000,https://hacom.vn/pc-asus-rog-strix-g10dk-r5-5600g-8gb-ram-512gb-ssd-gtx1660ti-wl-bt5-win-11-g10dk-r5600g003w,Ryzen 5 5600G,8GB,DDR4,512GB,SSD,1660,6.0,,Fan,11,7,6.0,12.0,19,4.0,3.9,4.4,1900
+18299000,https://hacom.vn/may-tram-asus-e500g9-12500010z-i5-12500-8gb-ram-1tb-hdd-w680-300w-dvd-rw-kb-m-90sf02f1-m00740,i5-12500,8GB,DDR5,1TB,HDD,,,300W,Fan,0,7,6.0,12.0,18,5.0,4.6,4.6,1000
+20999000,https://hacom.vn/pc-hacom-designer-d089-i5-13600k-b760-16gb-ram-500gb-ssd-gtx-1660-super-650w,i5-13600,16GB,DDR4,500GB,SSD,1660,6.0,650W,Fan,0,7,14.0,20.0,24,5.0,2.0,5.0,1000
+50399000,https://hacom.vn/workstation-dell-precision-3660-tower-i9-12900-16gb-ram-256gb-ssd-1tb-hdd-dvdrw-nvidia-t1000-4gb-k-m-42pt3660d16,i9-12900,16GB,,256GB,HDD,,,,Fan,0,7,16.0,24.0,30,5.0,1.8,5.0,1000
+17799000,https://hacom.vn/pc-hp-280-pro-tower-g9-i7-12700-8gb-ram-256gb-ssd-wl-bt-k-m-win11-9e816pt,i7-12700,8GB,DDR4,256GB,SSD,,,,Fan,11,7,12.0,20.0,25,5.0,1.6,4.8,1000
+13199000,https://hacom.vn/pc-hacom-designer-d133-i5-10400f-b560-16gb-ram-500gb-ssd-rtx-3050-550w,i5-10400,16GB,DDR4,500GB,SSD,,,550W,Fan,0,14,6.0,12.0,12,4.0,2.9,4.3,1000
+20999000,https://hacom.vn/pc-hacom-designer-d142-i7-12700f-b660-16gb-ram-500gb-ssd-rtx-3060-12gb-650w,i7-12700,16GB,DDR4,500GB,SSD,3060,12.0,650W,Fan,0,7,12.0,20.0,25,5.0,1.6,4.8,1000
+30399000,https://hacom.vn/workstation-dell-precision-3660-tower-i5-12600-8gb-ram-512gb-ssd-dvdrw-t400-4gb-k-m-42pt3660d11,i5-12600,8GB,,512GB,HDD,,,,Fan,0,7,6.0,12.0,18,5.0,4.8,4.8,1000
+17999000,https://hacom.vn/pc-lenovo-thinkcentre-neo-50s-gen-4-i7-13700-16gb-ram-512gb-ssd-wl-bt-k-m-no-os-12jh003cva,i7-13700,16GB,,512GB,HDD,,,,Fan,0,7,16.0,24.0,30,5.0,1.5,5.1,1000
+15399000,https://hacom.vn/hacom-sniper-i5-12400f-gtx-1660-super-1,i5-12400,8GB,DDR4,250GB,SSD,1660,6.0,550W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+19899000,https://hacom.vn/pc-hp-all-in-one-proone-240-g10-8w310pa-i7-1355u-8gb-ram-512gb-ssd-23.8-inch-fhd-wl-bt-k-m-win11,i7-1355U,8GB,DDR4,512GB,SSD,,,,Fan,11,7,10.0,12.0,12,5.0,5.0,5.0,1000
+17999000,https://hacom.vn/pc-asus-all-in-one-a3402wbak-wa066w-i5-1235g7-8gb-ram-512gb-ssd-23.8-inch-full-hd-wl-bt-k-m-win-11-trang,i5-1235U,8GB,,512GB,SSD,,,,Fan,11,7,10.0,12.0,12,5.0,4.4,4.4,1000
+15099000,https://hacom.vn/pc-asus-all-in-one-a3202wb-i3-1215u-8gb-512g-pcie-21.45-fhd-cam-mic-wifi6-bt5-wl_kb-wl_m-w11h-trang-a3202wbak-wa101w,i3-1215U,8GB,DDR4,512GB,SSD,,,,Fan,11,7,6.0,8.0,10,5.0,4.4,4.4,1000
+11699000,https://hacom.vn/pc-hacom-designer-d131-i3-12100f-h610-8gb-ram-250gb-ssd-gtx-1660-super-550w,i3-12100,8GB,DDR4,250GB,SSD,610,4.0,550W,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,1000
+14199000,https://hacom.vn/pc-dell-vostro-3020t-i5-13400-8gb-ram-512gb-ssd-wl-bt-k-m-win11-6fm7x11,i5-13400,8GB,DDR4,512GB,SSD,,,180W,Fan,11,7,10.0,16.0,20,5.0,1.8,4.6,1000
+20899000,https://hacom.vn/hacom-sniper-i5-12400f-rtx-4060-2,i5-12400,8GB,DDR4,500GB,SSD,4060,8.0,650W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+10499000,https://hacom.vn/pc-hacom-designer-d137-i5-10400f-b560-8gb-ram-240gb-ssd-gtx-1650-550w,i5-10400,8GB,DDR4,,SSD,,,550W,Fan,0,14,6.0,12.0,12,4.0,2.9,4.3,1000
+68799000,https://hacom.vn/workstation-asus-pro-e500-g6-1090k-027z-i9-10900k-32gb-ram-1tb-ssd-rtx3080-k-m-90sf0181-m10190,i9-10900,32GB,,1TB,SSD,3080,12.0,,Fan,0,14,10.0,20.0,20,4.0,2.8,5.2,1000
+22499000,https://hacom.vn/hacom-sniper-s25-i5-13400f-rtx-4060,i5-13400,16GB,DDR4,500GB,SSD,4060,8.0,650W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.6,1000
+8199000,https://hacom.vn/pc-asus-mini-pn62-i5-10210u-wl-bt-hdmi-vga-barebone-pn62s-bb5096mv,i5-10210U,,,,HDD,,,,Fan,0,14,4.0,8.0,6,4.0,0.8,4.2,1000
+6999000,https://hacom.vn/pc-hacom-business-i3121-8gs2-i3-12100-h610-8gb-ram-256gb,i3-12100,8GB,DDR4,256GB,SSD,610,4.0,,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,1000
+16399000,https://hacom.vn/pc-hp-s01-pf2024d-i7-12700-8gb-ram-512gb-ssd-wl-bt-k-m-win-11-6k7b3pa,i7-12700,8GB,DDR4,512GB,SSD,,,,Fan,11,7,12.0,20.0,25,5.0,1.6,4.8,1000
+7099000,https://hacom.vn/pc-hacom-business-mini-p42-v2-i3-12100-h610-8gb-ram-256gb,i3-12100,8GB,DDR4,256GB,SSD,610,4.0,,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,1000
+49499000,https://hacom.vn/bo-mini-pc-asus-intel-nuc13-extreme-nuc13rngi9-i9-13900k-z690-2x-via-pch-1x-via-cpu-nvme-2xddr5-2x-hdmi-2.1-2x-thunderbolt-4-125w-90ab3rng-mrc110,i9-13900,64GB,DDR5,,HDD,3080 Ti,12.0,125 W,Fan,10,7,24.0,32.0,36,5.0,1.5,5.2,1000
+13199000,https://hacom.vn/hacom-sniper-s11-i5-12400f-gtx-1650,i5-12400,8GB,DDR4,256GB,SSD,,,500W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+7499000,https://hacom.vn/pc-hacom-business-mini-p43-v2-i3-12100-h610-8gb-ram-500gb,i3-12100,8GB,DDR4,500GB,SSD,610,4.0,,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,1000
+18399000,https://hacom.vn/pc-hp-280-pro-tower-g9-9h9c2pt-i7-12700-16gb-ram-512gb-ssd-wl-bt-k-m-win11,i7-12700,16GB,,512GB,SSD,,,,Fan,11,7,12.0,20.0,25,5.0,1.6,4.8,1000
+15499000,https://hacom.vn/pc-hacom-designer-d143-i5-12400f-rtx-3050,i5-12400,16GB,DDR4,500GB,SSD,,,550W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+12899000,https://hacom.vn/hacom-sniper-s22-i5-12400f-gtx-1650,i5-12400,8GB,DDR4,250GB,SSD,,,500W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+13899000,https://hacom.vn/bo-mini-pc-asus-intel-nuc13-prodesk-nuc13vyki5-i5-1340p-2xddr4-3200-2xnvme-sata-2x-hdmi-2.1-2x-dp-1.4a-90ab3vyk-mr6160,i5-1340P,64GB,DDR4,,SSD,,,,Fan,10,7,12.0,16.0,12,5.0,4.6,4.6,1000
+18599000,https://hacom.vn/pc-hp-pro-tower-400-g9-i7-13700-8gb-ram-512g-ssd-wl-bt-k-m-win11-9h1t7pt,i7-13700,8GB,DDR4,512GB,HDD,,,,Fan,11,7,16.0,24.0,30,5.0,1.5,5.1,1000
+14399000,https://hacom.vn/pc-hp-all-in-one-200-pro-g4-i3-1215u-8gb-ram-512gb-ssd-21.5-inch-fhd-wl-bt-k-m-win-11-74s23pa,i3-1215U,8GB,DDR4,512GB,SSD,,,,Fan,11,7,6.0,8.0,10,5.0,4.4,4.4,1000
+10599000,https://hacom.vn/pc-dell-optiplex-7010-sff-i3-13100-4gb-ram-256gb-ssd-k-m-ubuntu-den-71016918,i3-13100,4GB,DDR4,256GB,HDD,,,180W,Fan,0,7,4.0,8.0,12,5.0,4.5,4.5,1000
+7799000,https://hacom.vn/may-tinh-intel-nuc-11-rnuc11pahi3-i3-1115g4-rnuc11pahi30000,i3-1115G4,,,,,,,,Fan,0,10,2.0,4.0,6,4.0,1.7,4.1,1000
+10299000,https://hacom.vn/pc-dell-optiplex-3000-mt-i3-12100-8gb-ram-256gb-ssd-dvdrw-k-m-dos,i3-12100,8GB,,256GB,SSD,,,,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,1000
+14999000,https://hacom.vn/pc-hp-280-pro-g9-sff-9h1s6pt-i5-13500-16gb-ram-512gb-ssd-wl-bt-k-m-win-11,i5-13500,16GB,DDR4,512GB,HDD,,,180 W,Fan,11,7,14.0,20.0,24,5.0,1.8,4.8,1000
+16499000,https://hacom.vn/hacom-sniper-i5-12400f-gtx-1660s-715,i5-12400,8GB,DDR4,500GB,SSD,1660,6.0,500W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+17999000,https://hacom.vn/pc-hp-all-in-one-22-dd2003d-i5-1235u-8gb-ram-256gb-ssd-21.5-inch-fhd-wl-bt-k-m-win-11-6k7g2pa,i5-1235U,8GB,DDR4,256GB,SSD,,,,Fan,11,7,10.0,12.0,12,5.0,4.4,4.4,1000
+12599000,https://hacom.vn/pc-hp-s01-pf2033d-i5-12400-8gb-ram-256gb-ssd-wl-bt-k-m-win-11-6l604pa,i5-12400,8GB,DDR4,256GB,SSD,,,,Fan,11,7,6.0,12.0,18,5.0,4.4,4.4,1000
+9799000,https://hacom.vn/pc-hp-280-pro-tower-g9-i3-12100-4gb-ram-256gb-ssd-wl-bt-k-m-win11-9e814pt,i3-12100,4GB,DDR4,256GB,SSD,,,,Fan,11,7,4.0,8.0,12,5.0,4.3,4.3,1000
+14990000,https://hacom.vn/pc-asus-all-in-one-a3402wb-i3-1215u-8gb-512g-pcie-23.8-fhd-cam-mic-wifi6-bt5-wl_kb-wl_m-w11h-trang-a3402wbak-wa549w,i3-1215U,8GB,DDR4,512GB,SSD,,,,Fan,11,7,6.0,8.0,10,5.0,4.4,4.4,1000
+16099000,https://hacom.vn/hacom-sniper-s5-i5-12400f-gtx-1660-super,i5-12400,8GB,DDR4,500GB,SSD,1660,6.0,500W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+13999000,https://hacom.vn/pc-asus-all-in-one-a3402wbak-wa070w-i3-1215u-8gb-ram-512gb-ssd-23.8-inch-full-hd-wl-bt-k-m-win-11-trang,i3-1215U,8GB,,512GB,SSD,,,,Fan,11,7,6.0,8.0,10,5.0,4.4,4.4,1000
+11599000,https://hacom.vn/pc-hp-aio-proone-240-g10-9h0a7pt-i3-n300-8gb-ram-256gb-ssd-23.8-inch-fhd-wl-bt-k-m-win11-den,i3-N300,8GB,DDR4,256GB,SSD,,,,Fan,11,7,8.0,8.0,6,4.0,3.8,3.8,1000
+16499000,https://hacom.vn/pc-lenovo-thinkcentre-m70t-gen-3-i7-12700-8gb-ram-512gb-ssd-wl-bt-k-m-no-os-11ta0014va,i7-12700,8GB,,512GB,SSD,,,,Fan,0,7,12.0,20.0,25,5.0,1.6,4.8,1000
+22299000,https://hacom.vn/hacom-sniper-s24-i5-13400f-rtx-3060,i5-13400,16GB,DDR4,500GB,SSD,3060,12.0,650W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.6,1000
+16999000,https://hacom.vn/pc-hp-280-pro-g9-sff-i7-12700-8gb-ram-256gssd-wl-bt-k-m-win-11-72k94pa,i7-12700,8GB,DDR4,256GB,SSD,,,180 W,Fan,11,7,12.0,20.0,25,5.0,1.6,4.8,1000
+19099000,https://hacom.vn/pc-hp-all-in-one-22-dd2042d-9a8j7pa-i5-1235u-16gb-ram-512gb-ssd-21.5-fhd-wl-bt-k-m-win-11-trang,i5-1235U,16GB,DDR4,512GB,SSD,,,,Fan,11,7,10.0,12.0,12,5.0,4.4,4.4,1000
+16199000,https://hacom.vn/pc-hp-m01-f3005d-i7-13700-8gb-ram-256gb-ssd-wlan-ax-bt-usb-k-m-win11-home-64-dark-black-8c5s1pa,i7-13700,8GB,DDR4,256GB,SSD,,,180 W,Fan,11,7,16.0,24.0,30,5.0,1.5,5.1,1000
+7599000,https://hacom.vn/pc-hacom-business-mini-v2-i5-11400-h510-8gb-ram-256gb-ssd,i5-11400,8GB,DDR4,256GB,SSD,,,450W,Fan,0,14,6.0,12.0,12,4.0,2.6,4.4,1000
+24799000,https://hacom.vn/pc-dell-optiplex-7010-tower-plus-i7-13700-16gb-ram-ddr5-512gb-ssd-k-m-ubuntu-den-42ot701007,i7-13700,16GB,DDR5,512GB,SSD,,,260W,Fan,0,7,16.0,24.0,30,5.0,1.5,5.1,1000
+18299000,https://hacom.vn/pc-asus-all-in-one-a3202wb-i5-1235u-8gb-512gb-ssd-tpm-21.45-fhd-cam-mic-wifi6-bt5-kb-m-w11h-trang-a3202wbak-wa155w,i5-1235U,8GB,DDR4,512GB,SSD,,,,Fan,11,7,10.0,12.0,12,5.0,4.4,4.4,1000
+19299000,https://hacom.vn/pc-asus-all-in-one-a3402wb-i5-1235u-16gb-512g-pcie-23.8-fhd-cam-mic-wifi6-bt5-wl_kb-wl_m-w11h-trang-a3402wbak-wa716w,i5-1235U,16GB,DDR4,512GB,SSD,,,,Fan,11,7,10.0,12.0,12,5.0,4.4,4.4,1000
+16199000,https://hacom.vn/pc-hacom-cad-c125-i5-13400f-b760-16gb-ram-500gb-ssd-t400-4gb-550w,i5-13400,16GB,DDR4,500GB,SSD,,,550W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.6,1000
+17299000,https://hacom.vn/pc-hp-280-pro-g9-sff-i7-12700-8gb-ram-512gssd-wl-bt-k-m-win-11-72k95pa,i7-12700,8GB,DDR4,512GB,SSD,,,180 W,Fan,11,7,12.0,20.0,25,5.0,1.6,4.8,1000
+35299000,https://hacom.vn/pc-hacom-dung-phim-p047-i7-12700k-z690-32gb-2x16gb-ram-500gb-ssd-rtx-4060-ti-8gb-750w,i7-12700,32GB,DDR4,500GB,SSD,4060,8.0,750W,Liquid,0,7,12.0,20.0,25,5.0,1.6,4.8,1000
+6099000,https://hacom.vn/pc-hacom-business-mini-p35-i3-10105-h510-8gb-ram-120gb-ssd,i3-10105,8GB,DDR4,120GB,SSD,630,4.0,350W,Fan,0,14,4.0,8.0,6,4.0,3.7,4.4,1000
+40099000,https://hacom.vn/hacom-apollo-i7-13700k-rtx-4060-ti,i7-13700,16GB,DDR4,1TB,SSD,4060,8.0,750W,Liquid,0,7,16.0,24.0,30,5.0,1.5,5.1,1000
+13999000,https://hacom.vn/pc-dell-optiplex-3090-mt-i5-10505-8gb-ram-256gb-ssd-dvdrw-k-m-fedora-42ot390007,i5-10505,8GB,,256GB,SSD,3090,24.0,,Fan,0,14,6.0,12.0,12,4.0,3.2,4.6,1000
+26099000,https://hacom.vn/hacom-apollo-i7-12700f-rtx-3060-1,i7-12700,16GB,DDR4,500GB,SSD,3060,12.0,750W,Fan,0,7,12.0,20.0,25,5.0,1.6,4.8,1000
+19999000,https://hacom.vn/pc-mini-msi-cubi-5-i7-1255u-16gb-ram-512gb-ssd-wl-bt-dos-den-12m-079vn-b71255u16gs51x11pa,i7-1255U,16GB,DDR4,512GB,HDD,,,,Fan,0,7,10.0,12.0,12,5.0,4.7,4.7,1000
+13499000,https://hacom.vn/pc-lenovo-thinkcentre-m70t-gen-4-i5-13400-8gb-ram-512gb-ssd-wl-bt-k-m-no-os-12dl000jva,i5-13400,8GB,DDR4,512GB,HDD,,,15W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.6,1000
+29999000,https://hacom.vn/workstation-dell-precision-3660-tower-i5-12600-8gb-ram-256gb-ssd-1tb-hdd-dvdrw-nvidia-t400-4gb-k-m-42pt3660d15,i5-12600,8GB,,256GB,HDD,,,,Fan,0,7,6.0,12.0,18,5.0,4.8,4.8,1000
+82299000,https://hacom.vn/workstation-asus-pro-e500-g6-1070k-021z-i7-10700k-16gb-ram-512gb-ssd-rtx3090-90sf0181-m00a10,i7-10700,16GB,,512GB,SSD,3090,24.0,,Fan,0,14,8.0,16.0,16,4.0,2.9,4.8,1000
+18999000,https://hacom.vn/pc-hp-280-pro-g9-sff-9h1t3pt-i7-13700-16gb-ram-512gb-ssd-wl-bt-k-m-win-11,i7-13700,16GB,DDR4,512GB,HDD,,,180 W,Fan,11,7,16.0,24.0,30,5.0,1.5,5.1,1000
+56999000,https://hacom.vn/hacom-apollo-i08-i7-14700k-z790-32g-ram-rtx-4070-850w,i7-14700,32GB,DDR5,1TB,SSD,4070,12.0,850W,Liquid,0,7,20.0,28.0,33,5.0,1.5,5.3,1000
+18599000,https://hacom.vn/pc-hp-all-in-one-22-dd2002d-i5-1235u-8gb-ram-512gb-ssd-21.5-inch-fhd-wl-bt-k-m-win-11-6k7g1pa,i5-1235U,8GB,DDR4,512GB,SSD,,,2 W,Fan,11,7,10.0,12.0,12,5.0,4.4,4.4,1000
+17399000,https://hacom.vn/hacom-sniper-s26-pink-i5-13400f-gtx-1660-super,i5-13400,8GB,DDR4,250GB,SSD,1660,6.0,550W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.6,1000
+7999000,https://hacom.vn/pc-lenovo-thinkcentre-neo-50s-gen-3-i3-12100-4gb-ram-256gb-ssd-wl-bt-k-m-no-os-11t0s0bn00,i3-12100,4GB,DDR4,256GB,HDD,,,58W,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,1000
+14999000,https://hacom.vn/pc-msi-pro-dp21-i5-13400-8gb-ram-512gb-ssd-wl-bt-k-m-tpm2.0-dos-den-13m-653xvn-b5134008gs51xxah1,i5-13400,8GB,DDR4,512GB,HDD,610,4.0,,Fan,0,7,10.0,16.0,20,5.0,1.8,4.6,1000
+9999000,https://hacom.vn/pc-lenovo-thinkcentre-neo-50t-gen-4-i3-13100-4gb-ram-256gb-ssd-wl-bt-k-m-no-os-12jb001cva,i3-13100,4GB,DDR4,256GB,HDD,,,180W,Fan,0,7,4.0,8.0,12,5.0,4.5,4.5,1000
+34299000,https://hacom.vn/workstation-asus-pro-e500-g6-1090k-038z-i9-10900k-32gb-ram-1tb-ssd-k-m-90sf0181-m004d0,i9-10900,32GB,,1TB,SSD,,,,Fan,0,14,10.0,20.0,20,4.0,2.8,5.2,1000
+11999000,https://hacom.vn/pc-hp-prodesk-400-g9-mt-i5-12500-4gb-ram-256gssd-wl-bt-k-m-win-11-72k98pa,i5-12500,4GB,DDR4,256GB,SSD,,,,Fan,11,7,6.0,12.0,18,5.0,4.6,4.6,1000
+10199000,https://hacom.vn/pc-hacom-business-mini-v6-i5-12400-h610-8gb-ram-500gb-ssd,i5-12400,8GB,DDR4,500GB,SSD,610,4.0,,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+8899000,https://hacom.vn/pc-hacom-designer-d071-ryzen-5-5600g-b450-16gb-ram-500gb-ssd,Ryzen 5 5600G,16GB,DDR4,500GB,SSD,,,450W,Fan,0,7,6.0,12.0,19,4.0,3.9,4.4,1900
+15599000,https://hacom.vn/bo-mini-pc-asus-intel-nuc12-pro-tall-nuc12wshi7-i7-1260p-2xddr4-3200-3xnvme-sata-2x-hdmi-2.1-2x-dp-1.4a-90ab2wsh-mr8100,i7-1260P,64GB,DDR4,256GB,HDD,,,35W,Fan,10,7,12.0,16.0,18,5.0,4.7,4.7,1000
+34499000,https://hacom.vn/workstation-dell-precision-3660-tower-i7-12700-16gb-ram-256gb-ssd-1tb-dvdrw-t400-4gb-k-m-300w-psu-ubuntu-71010146,i7-12700,16GB,,256GB,HDD,,,300W,Fan,0,7,12.0,20.0,25,5.0,1.6,4.8,1000
+7199000,https://hacom.vn/pc-hacom-business-atx-p5-i3-12100-h610-8gb-ram-240gb-ssd,i3-12100,8GB,,,SSD,610,4.0,500W,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,1000
+15199000,https://hacom.vn/hacom-sniper-i5-12400f-gtx-1660-super,i5-12400,8GB,DDR4,250GB,SSD,1660,6.0,500W,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+10799000,https://hacom.vn/pc-hp-280-pro-tower-g9-i3-13100-8gb-ram-256gb-ssd-wl-bt-k-m-win11-9h1u8pt,i3-13100,8GB,DDR4,256GB,SSD,,,180 W,Fan,11,7,4.0,8.0,12,5.0,4.5,4.5,1000
+86699000,https://hacom.vn/hacom-poseidon-i9-13900k-rtx-4080,i9-13900,32GB,DDR4,1TB,SSD,4080,16.0,1000W,Liquid,0,7,24.0,32.0,36,5.0,1.5,5.2,1000
+12499000,https://hacom.vn/pc-asus-s500sd-512400050w-i5-12400-8gb-ram-256gb-ssd-wl-bt-k-m-win-11-90pf0392-m00sv0,i5-12400,8GB,,256GB,SSD,,,,Fan,11,7,6.0,12.0,18,5.0,4.4,4.4,1000
+16299000,https://hacom.vn/pc-asus-all-in-one-a3402wb-i5-1235u-8gb-512g-pcie-23.8-fhd-cam-mic-wifi6-bt5-wl_kb-wl_m-w11h-trang-a3402wbak-wa604w,i5-1235U,8GB,DDR4,512GB,SSD,,,,Fan,11,7,10.0,12.0,12,5.0,4.4,4.4,1000
+41499000,https://hacom.vn/pc-dell-xps-8950-i7-12700-16gb-ram-512gb-ssd-1tb-hdd-gtx1660ti-dvdrw-wl-bt-k-m-office-win11-42xps89d002,i7-12700,16GB,,512GB,HDD,1660,6.0,,Fan,11,7,12.0,20.0,25,5.0,1.6,4.8,1000
+22599000,https://hacom.vn/hacom-sniper-s6-i5-13400f-rtx-3060,i5-13400,16GB,DDR4,500GB,SSD,3060,12.0,650W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.6,1000
+9199000,https://hacom.vn/bo-mini-pc-asus-intel-nuc13-pro-tall-nuc13anhi3-i3-1315u-2xddr4-3200-3xnvme-sata-2x-hdmi-2.1-2x-dp-1.4a-vesa-mount-90ab3anh-mr4100,i3-1315U,64GB,DDR4,256GB,HDD,,,28W,Fan,10,7,6.0,8.0,10,5.0,4.5,4.5,1000
+7999000,https://hacom.vn/pc-dell-optiplex-3080-sff-i3-10100-4gb-ram-1tb-hdd-dvdrw-k-m-fedora-70233228,i3-10100,4GB,DDR4,1TB,HDD,3080,12.0,,Fan,0,14,4.0,8.0,6,4.0,3.6,4.3,1000
+16899000,https://hacom.vn/pc-hp-s01-pf3016d-8c5t0pa-i7-13700-8gb-ram-256gb-ssd-wl-bt-k-m-win-11-den,i7-13700,8GB,DDR4,256GB,SSD,,,180W,Fan,11,7,16.0,24.0,30,5.0,1.5,5.1,1000
+14499000,https://hacom.vn/pc-asus-all-in-one-a3202wbak-wa024w-i3-1215u-8gb-ram-512gb-ssd-21.5-inch-full-hd-wl-bt-k-m-win-11-trang,i3-1215U,8GB,,512GB,SSD,,,,Fan,11,7,6.0,8.0,10,5.0,4.4,4.4,1000
+7499000,https://hacom.vn/pc-hacom-business-mini-p46-v2-i3-12100-h610-16gb-ram-256gb,i3-12100,16GB,DDR4,256GB,SSD,610,4.0,,Fan,0,7,4.0,8.0,12,5.0,4.3,4.3,1000
+4899000,https://hacom.vn/pc-mini-asus-pn50-e1-b-b5116mv-r5-4500u-non-ram-non-storage-wi-fi5-bt50-lan-65w-vesa-mount-n-os-den,Ryzen 5 4500U,32GB,DDR4,,HDD,,,,Fan,0,7,6.0,6.0,11,4.0,2.3,4.0,1500
+27899000,https://hacom.vn/pc-dell-inspiron-all-in-one-5420-i7-1355u-16gb-ram-512gb-ssd-23.8-inch-fhd-touch-camera-bt-kb-m-win11-office-den-fnrj17,i7-1355U,16GB,DDR4,512GB,SSD,,,,Fan,11,7,10.0,12.0,12,5.0,5.0,5.0,1000
+9899000,https://hacom.vn/may-tinh-intel-nuc-11-rnuc11pahi5-i5-1135g7-rnuc11pahi50000,i5-1135G7,,,,,,,,Fan,0,10,4.0,8.0,8,4.0,0.9,4.2,1000
+12999000,https://hacom.vn/pc-lenovo-thinkcentre-neo-50t-gen-4-i5-13400-8gb-ram-512gb-ssd-wl-bt-k-m-no-os-12jb001hva,i5-13400,8GB,DDR4,512GB,HDD,,,180W,Fan,0,7,10.0,16.0,20,5.0,1.8,4.6,1000
+9799000,https://hacom.vn/bo-mini-pc-asus-intel-nuc12-pro-tall-nuc12wshi3-i3-1220p-2xddr4-3200-3xnvme-sata-2x-hdmi-2.1-2x-dp-1.4a-90ab2wsh-mr4100,i3-1220P,64GB,DDR4,2TB,HDD,,,20 W,Fan,10,7,10.0,12.0,12,5.0,4.4,4.4,1000
+12799000,https://hacom.vn/pc-lenovo-thinkcentre-m70t-gen-3-i5-12400-8gb-ram-512gb-ssd-wl-bt-k-m-no-os-11ta0013va,i5-12400,8GB,DDR4,512GB,HDD,,,,Fan,0,7,6.0,12.0,18,5.0,4.4,4.4,1000
+23899000,https://hacom.vn/pc-hacom-dung-phim-p046-i5-13400-b760-16gb-2x8gb-ram-500gb-ssd-rtx-4060-8gb-650w,i5-13400,16GB,DDR4,500GB,SSD,4060,8.0,650W,Liquid,0,7,10.0,16.0,20,5.0,1.8,4.6,1000
+29999000,https://hacom.vn/pc-hp-eliteone-840-g9-aio-8w8j4pa-i7-13700-16gb-ram-512gb-ssd-23.8-fhd-cam-ung-k-m-win11-bac,i7-13700,16GB,DDR4,512GB,SSD,,,,Fan,11,7,16.0,24.0,30,5.0,1.5,5.1,1000
+37699000,https://hacom.vn/hacom-apollo-i07-i7-14700f-rtx-4060-ti,i7-14700,16GB,DDR5,500GB,SSD,4060,8.0,750W,Fan,0,7,20.0,28.0,33,5.0,1.5,5.3,1000
+24999000,https://hacom.vn/pc-asus-rog-strix-g15cf-i5-12400f-16gb-ram-512gb-ssd-rtx3060ti-wl-bt-win-11-g15cf-51240f141w,i5-12400,16GB,,512GB,SSD,3060,12.0,700W,Fan,11,7,6.0,12.0,18,5.0,4.4,4.4,1000

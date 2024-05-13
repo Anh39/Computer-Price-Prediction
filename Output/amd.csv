@@ -1,0 +1,569 @@
+Achitecture,Base Clock,Base Power,IGPU Frequency,Launch Date,Max Boost Clock,Max Power,Memory Channels,Memory Type,Name,Series,Total Cache,Total Cores,Total Threads
+4,4.0,35,2800,,5.2,54,2.0,5.0,Ryzen 9 PRO 8945HS,Ryzen PRO 8000 Series,24,8.0,16.0
+4,3.3,15,2700,,5.1,30,2.0,5.0,Ryzen 7 PRO 8840U,Ryzen PRO 8000 Series,24,8.0,16.0
+4,3.8,35,2700,,5.1,54,2.0,5.0,Ryzen 7 PRO 8845HS,Ryzen PRO 8000 Series,24,8.0,16.0
+4,3.3,20,2700,,5.1,30,2.0,5.0,Ryzen 7 PRO 8840HS,Ryzen PRO 8000 Series,24,8.0,16.0
+4,3.6,35,2700,,5.1,35,2.0,5.0,Ryzen 7 PRO 8700GE,Ryzen PRO 8000 Series,24,8.0,16.0
+4,4.2,45,2900,,5.1,65,2.0,5.0,Ryzen 7 PRO 8700G,Ryzen PRO 8000 Series,24,8.0,16.0
+4,3.5,15,2600,,4.9,30,2.0,5.0,Ryzen 5 PRO 8640U,Ryzen PRO 8000 Series,22,6.0,12.0
+4,4.3,35,2600,,5.0,54,2.0,5.0,Ryzen 5 PRO 8645HS,Ryzen PRO 8000 Series,22,6.0,12.0
+4,3.5,20,2600,,4.9,30,2.0,5.0,Ryzen 5 PRO 8640HS,Ryzen PRO 8000 Series,22,6.0,12.0
+4,3.9,35,2600,,5.0,35,2.0,5.0,Ryzen 5 PRO 8600GE,Ryzen PRO 8000 Series,22,6.0,12.0
+4,4.3,45,2800,,5.0,65,2.0,5.0,Ryzen 5 PRO 8600G,Ryzen PRO 8000 Series,22,6.0,12.0
+4,3.2,15,2800,,4.9,30,2.0,5.0,Ryzen 5 PRO 8540U,Ryzen PRO 8000 Series,22,6.0,12.0
+4,3.4,35,2800,,5.0,35,2.0,5.0,Ryzen 5 PRO 8500GE,Ryzen PRO 8000 Series,22,6.0,12.0
+4,3.5,45,2800,,5.0,65,2.0,5.0,Ryzen 5 PRO 8500G,Ryzen PRO 8000 Series,22,6.0,12.0
+4,4.0,35,2800,,5.2,54,2.0,5.0,Ryzen 9 8945HS,Ryzen 8000 Series,24,8.0,16.0
+4,3.5,35,2600,,4.9,35,2.0,5.0,Ryzen 3 PRO 8300GE,Ryzen PRO 8000 Series,12,4.0,8.0
+4,3.4,45,2600,,4.9,65,2.0,5.0,Ryzen 3 PRO 8300G,Ryzen PRO 8000 Series,12,4.0,8.0
+4,3.8,35,2700,,5.1,54,2.0,5.0,Ryzen 7 8845HS,Ryzen 8000 Series,24,8.0,16.0
+4,3.3,15,2700,,5.1,30,2.0,5.0,Ryzen 7 8840U,Ryzen 8000 Series,24,8.0,16.0
+4,3.3,20,2700,,5.1,30,2.0,5.0,Ryzen 7 8840HS,Ryzen 8000 Series,24,8.0,16.0
+4,4.2,45,2900,1/31/2024,5.1,65,2.0,5.0,Ryzen 7 8700G,Ryzen 8000 Series,24,8.0,16.0
+4,4.1,45,0,04/01/2024,5.0,65,2.0,5.0,Ryzen 7 8700F,Ryzen 8000 Series,24,8.0,16.0
+4,4.3,35,2600,,5.0,54,2.0,5.0,Ryzen 5 8645HS,Ryzen 8000 Series,22,6.0,12.0
+4,3.5,15,2600,,4.9,30,2.0,5.0,Ryzen 5 8640U,Ryzen 8000 Series,22,6.0,12.0
+4,3.5,20,2600,,4.9,30,2.0,5.0,Ryzen 5 8640HS,Ryzen 8000 Series,22,6.0,12.0
+4,4.3,45,2800,1/31/2024,5.0,65,2.0,5.0,Ryzen 5 8600G,Ryzen 8000 Series,22,6.0,12.0
+4,3.2,15,2800,,4.9,30,2.0,5.0,Ryzen 5 8540U,Ryzen 8000 Series,22,6.0,12.0
+4,3.5,45,2800,1/31/2024,5.0,65,2.0,5.0,Ryzen 5 8500G,Ryzen 8000 Series,22,6.0,12.0
+4,3.0,15,2500,,4.7,30,2.0,5.0,Ryzen 3 8440U,Ryzen 8000 Series,12,4.0,8.0
+4,4.2,45,0,04/01/2024,4.7,65,2.0,5.0,Ryzen 5 8400F,Ryzen 8000 Series,22,6.0,12.0
+4,3.4,45,2600,1/31/2024,4.9,65,2.0,5.0,Ryzen 3 8300G,Ryzen 8000 Series,12,4.0,8.0
+5,2.5,350,0,10/19/2023,5.1,350,8.0,5.0,Ryzen Threadripper PRO 7995WX,Ryzen Threadripper PRO 7000 WX-Series,480,96.0,192.0
+5,3.2,350,0,10/19/2023,5.1,350,8.0,5.0,Ryzen Threadripper PRO 7985WX,Ryzen Threadripper PRO 7000 WX-Series,320,64.0,128.0
+5,4.0,350,0,10/19/2023,5.3,350,8.0,5.0,Ryzen Threadripper PRO 7975WX,Ryzen Threadripper PRO 7000 WX-Series,160,32.0,64.0
+5,4.2,350,0,10/19/2023,5.3,350,8.0,5.0,Ryzen Threadripper PRO 7965WX,Ryzen Threadripper PRO 7000 WX-Series,152,24.0,48.0
+5,4.5,350,0,10/19/2023,5.3,350,8.0,5.0,Ryzen Threadripper PRO 7955WX,Ryzen Threadripper PRO 7000 WX-Series,80,16.0,32.0
+5,4.7,350,0,10/19/2023,5.3,350,8.0,5.0,Ryzen Threadripper PRO 7945WX,Ryzen Threadripper PRO 7000 WX-Series,76,12.0,24.0
+5,3.2,350,0,10/19/2023,5.1,350,4.0,5.0,Ryzen Threadripper 7980X,Ryzen Threadripper 7000 Series,320,64.0,128.0
+5,4.0,350,0,10/19/2023,5.3,350,4.0,5.0,Ryzen Threadripper 7970X,Ryzen Threadripper 7000 Series,160,32.0,64.0
+5,4.2,350,0,10/19/2023,5.3,350,4.0,5.0,Ryzen Threadripper 7960X,Ryzen Threadripper 7000 Series,152,24.0,48.0
+5,3.7,65,2200,06/13/2023,5.4,65,2.0,5.0,Ryzen 9 PRO 7945,Ryzen PRO 7000 Series,76,12.0,24.0
+4,4.0,35,2800,06/13/2023,5.2,54,2.0,5.0,Ryzen 9 PRO 7940HS,Ryzen PRO 7000 Series,24,8.0,16.0
+4,3.3,15,2700,06/13/2023,5.1,30,2.0,5.0,Ryzen 7 PRO 7840U,Ryzen PRO 7000 Series,24,8.0,16.0
+4,3.8,35,2700,06/13/2023,5.1,54,2.0,5.0,Ryzen 7 PRO 7840HS,Ryzen PRO 7000 Series,24,8.0,16.0
+5,3.8,65,2200,06/13/2023,5.3,65,2.0,5.0,Ryzen 7 PRO 7745,Ryzen PRO 7000 Series,40,8.0,16.0
+6,2.7,15,2200,9/30/2023,4.75,30,2.0,5.0,Ryzen 7 PRO 7735U,Ryzen PRO 7000 Series,20,8.0,16.0
+7,2.0,15,2000,01/04/2023,4.5,15,2.0,4.0,Ryzen 7 PRO 7730U,Ryzen PRO 7000 Series,20,8.0,16.0
+5,3.8,65,2200,06/13/2023,5.1,65,2.0,5.0,Ryzen 5 PRO 7645,Ryzen PRO 7000 Series,38,6.0,12.0
+4,3.5,15,2600,06/13/2023,4.9,30,2.0,5.0,Ryzen 5 PRO 7640U,Ryzen PRO 7000 Series,22,6.0,12.0
+4,4.3,35,2600,06/13/2023,5.0,54,2.0,5.0,Ryzen 5 PRO 7640HS,Ryzen PRO 7000 Series,22,6.0,12.0
+4,3.2,15,2800,11/02/2023,4.9,30,2.0,5.0,Ryzen 5 PRO 7545U,Ryzen PRO 7000 Series,22,6.0,12.0
+4,3.2,15,2500,06/13/2023,4.9,30,2.0,5.0,Ryzen 5 PRO 7540U,Ryzen PRO 7000 Series,22,6.0,12.0
+6,2.9,15,1900,9/30/2023,4.55,30,2.0,5.0,Ryzen 5 PRO 7535U,Ryzen PRO 7000 Series,19,6.0,12.0
+7,2.0,15,2000,01/04/2023,4.5,15,2.0,4.0,Ryzen 5 PRO 7530U,Ryzen PRO 7000 Series,19,6.0,12.0
+6,3.0,15,1800,9/30/2023,4.3,30,2.0,5.0,Ryzen 3 PRO 7335U,Ryzen PRO 7000 Series,8,4.0,8.0
+7,2.3,15,1800,01/04/2023,4.3,15,2.0,4.0,Ryzen 3 PRO 7330U,Ryzen PRO 7000 Series,10,4.0,8.0
+5,4.2,120,2200,02/28/2023,5.7,120,2.0,5.0,Ryzen 9 7950X3D,Ryzen 7000 Series,144,16.0,32.0
+5,4.5,170,2200,09/27/2022,5.7,170,2.0,5.0,Ryzen 9 7950X,Ryzen 7000 Series,80,16.0,32.0
+5,2.3,55,2200,07/27/2023,5.4,75,2.0,5.0,Ryzen 9 7945HX3D,Ryzen 7000 Series,144,16.0,32.0
+5,2.5,55,2200,02/28/2023,5.4,75,2.0,5.0,Ryzen 9 7945HX,Ryzen 7000 Series,80,16.0,32.0
+4,4.0,35,2800,04/30/2023,5.2,54,2.0,5.0,Ryzen 9 7940HS,Ryzen 7000 Series,24,8.0,16.0
+5,2.4,55,2200,1/17/2024,5.2,75,2.0,5.0,Ryzen 9 7940HX,Ryzen 7000 Series,80,16.0,32.0
+5,4.4,120,2200,02/28/2023,5.6,120,2.0,5.0,Ryzen 9 7900X3D,Ryzen 7000 Series,140,12.0,24.0
+5,4.7,170,2200,09/27/2022,5.6,170,2.0,5.0,Ryzen 9 7900X,Ryzen 7000 Series,76,12.0,24.0
+5,3.7,65,2200,01/14/2023,5.4,65,2.0,5.0,Ryzen 9 7900,Ryzen 7000 Series,76,12.0,24.0
+5,3.0,45,2200,02/28/2023,5.2,75,2.0,5.0,Ryzen 9 7845HX,Ryzen 7000 Series,76,12.0,24.0
+4,3.3,15,2700,05/03/2023,5.1,30,2.0,5.0,Ryzen 7 7840U,Ryzen 7000 Series,24,8.0,16.0
+5,2.9,45,2200,1/17/2024,5.1,75,2.0,5.0,Ryzen 7 7840HX,Ryzen 7000 Series,76,12.0,24.0
+4,3.8,35,2700,04/30/2023,5.1,54,2.0,5.0,Ryzen 7 7840HS,Ryzen 7000 Series,24,8.0,16.0
+5,4.2,120,2200,04/06/2023,5.0,120,2.0,5.0,Ryzen 7 7800X3D,Ryzen 7000 Series,104,8.0,16.0
+5,3.6,45,2200,02/28/2023,5.1,75,2.0,5.0,Ryzen 7 7745HX,Ryzen 7000 Series,40,8.0,16.0
+6,2.7,15,2200,01/04/2023,4.7,28,2.0,5.0,Ryzen 7 7736U​,Ryzen 7000 Series,20,8.0,16.0
+6,2.7,15,2200,01/04/2023,4.75,30,2.0,5.0,Ryzen 7 7735U,Ryzen 7000 Series,20,8.0,16.0
+6,3.2,35,2200,04/30/2023,4.75,54,2.0,5.0,Ryzen 7 7735HS,Ryzen 7000 Series,20,8.0,16.0
+7,2.0,15,2000,01/04/2023,4.5,15,2.0,4.0,Ryzen 7 7730U,Ryzen 7000 Series,20,8.0,16.0
+5,4.5,105,2200,09/27/2022,5.4,105,2.0,5.0,Ryzen 7 7700X,Ryzen 7000 Series,40,8.0,16.0
+5,3.8,65,2200,01/14/2023,5.3,65,2.0,5.0,Ryzen 7 7700,Ryzen 7000 Series,40,8.0,16.0
+5,4.0,45,2200,02/28/2023,5.0,75,2.0,5.0,Ryzen 5 7645HX,Ryzen 7000 Series,38,6.0,12.0
+4,3.5,15,2600,05/03/2023,4.9,30,2.0,5.0,Ryzen 5 7640U,Ryzen 7000 Series,22,6.0,12.0
+4,4.3,35,2600,04/30/2023,5.0,54,2.0,5.0,Ryzen 5 7640HS,Ryzen 7000 Series,22,6.0,12.0
+5,4.7,105,2200,09/27/2022,5.3,105,2.0,5.0,Ryzen 5 7600X,Ryzen 7000 Series,38,6.0,12.0
+5,3.8,65,2200,01/14/2023,5.1,65,2.0,5.0,Ryzen 5 7600,Ryzen 7000 Series,38,6.0,12.0
+4,3.2,15,2800,11/02/2023,4.9,30,2.0,5.0,Ryzen 5 7545U,Ryzen 7000 Series,22,6.0,12.0
+4,3.2,15,2500,05/03/2023,4.9,30,2.0,5.0,Ryzen 5 7540U,Ryzen 7000 Series,22,6.0,12.0
+6,2.9,15,1900,01/04/2023,4.55,30,2.0,5.0,Ryzen 5 7535U,Ryzen 7000 Series,19,6.0,12.0
+6,3.3,35,1900,04/30/2023,4.55,54,2.0,5.0,Ryzen 5 7535HS,Ryzen 7000 Series,19,6.0,12.0
+7,2.0,15,2000,01/04/2023,4.5,15,2.0,4.0,Ryzen 5 7530U,Ryzen 7000 Series,19,6.0,12.0
+6,2.8,15,1900,09/20/2022,4.3,15,2.0,5.0,Ryzen 5 7520U,Ryzen 7000 Series,6,4.0,8.0
+6,2.8,15,1900,05/23/2023,4.3,15,2.0,5.0,Ryzen 5 7520C,Ryzen 7000 Series,6,4.0,8.0
+5,3.7,65,0,07/22/2023,5.0,65,2.0,5.0,Ryzen 5 7500F,Ryzen 7000 Series,38,6.0,12.0
+4,3.0,15,2500,05/03/2023,4.7,30,2.0,5.0,Ryzen 3 7440U,Ryzen 7000 Series,12,4.0,8.0
+7,2.3,15,1800,11/01/2023,4.3,15,2.0,4.0,Ryzen 5 7430U,Ryzen 7000 Series,19,6.0,12.0
+6,3.1,35,0,,4.5,54,2.0,5.0,Ryzen 7 7435HS,Ryzen 7000 Series,20,8.0,16.0
+6,3.0,15,1800,01/04/2023,4.3,30,2.0,5.0,Ryzen 3 7335U,Ryzen 7000 Series,10,4.0,8.0
+7,2.3,15,1800,01/04/2023,4.3,15,2.0,4.0,Ryzen 3 7330U,Ryzen 7000 Series,10,4.0,8.0
+6,2.4,15,1900,09/20/2022,4.1,15,2.0,5.0,Ryzen 3 7320U,Ryzen 7000 Series,6,4.0,8.0
+6,2.4,15,1900,05/23/2023,4.1,15,2.0,5.0,Ryzen 3 7320C,Ryzen 7000 Series,6,4.0,8.0
+6,3.2,35,0,,4.2,53,2.0,5.0,Ryzen 5 7235HS,Ryzen 7000 Series,10,4.0,8.0
+0,3.3,9,0,,5.1,30,,0.0,Ryzen Z1 Extreme,Ryzen Z1,24,8.0,16.0
+0,3.2,9,0,,4.9,30,,0.0,Ryzen Z1,Ryzen Z1,22,6.0,12.0
+6,2.4,15,1900,,3.7,15,2.0,5.0,Athlon Gold 7220U,Athlon 7000 Series,5,2.0,4.0
+6,2.4,15,1900,,3.7,15,2.0,5.0,Athlon Gold 7220C,Athlon 7000 Series,3,2.0,4.0
+6,2.4,15,1900,,3.5,15,2.0,5.0,Athlon Silver 7120U,Athlon 7000 Series,3,2.0,2.0
+6,2.4,15,1900,,3.5,15,2.0,5.0,Athlon Silver 7120C,Athlon 7000 Series,3,2.0,2.0
+6,3.3,35,2400,,4.9,35,2.0,5.0,Ryzen 9 PRO 6950HS,Ryzen PRO 6000 Series,20,8.0,16.0
+6,3.3,45,2400,,4.9,45,2.0,5.0,Ryzen 9 PRO 6950H,Ryzen PRO 6000 Series,20,8.0,16.0
+6,2.7,15,2200,,4.75,28,2.0,5.0,Ryzen 7 PRO 6860Z,Ryzen PRO 6000 Series,20,8.0,16.0
+6,2.7,15,2200,,4.7,28,2.0,5.0,Ryzen 7 PRO 6850U,Ryzen PRO 6000 Series,20,8.0,16.0
+6,3.2,35,2200,,4.7,35,2.0,5.0,Ryzen 7 PRO 6850HS,Ryzen PRO 6000 Series,20,8.0,16.0
+6,3.2,45,2200,,4.7,45,2.0,5.0,Ryzen 7 PRO 6850H,Ryzen PRO 6000 Series,20,8.0,16.0
+6,2.9,15,1900,04/19/2022,4.5,28,2.0,5.0,Ryzen 5 PRO 6650U,Ryzen PRO 6000 Series,19,6.0,12.0
+6,3.3,35,1900,,4.5,35,2.0,5.0,Ryzen 5 PRO 6650HS,Ryzen PRO 6000 Series,19,6.0,12.0
+6,3.3,45,1900,,4.5,45,2.0,5.0,Ryzen 5 PRO 6650H,Ryzen PRO 6000 Series,19,6.0,12.0
+6,3.3,45,2400,,5.0,45,2.0,5.0,Ryzen 9 6980HX,Ryzen 6000 Series,20,8.0,16.0
+6,3.3,35,2400,,5.0,35,2.0,5.0,Ryzen 9 6980HS,Ryzen 6000 Series,20,8.0,16.0
+6,3.3,45,2400,,4.9,45,2.0,5.0,Ryzen 9 6900HX,Ryzen 6000 Series,20,8.0,16.0
+6,3.3,35,2400,,4.9,35,2.0,5.0,Ryzen 9 6900HS​,Ryzen 6000 Series,20,8.0,16.0
+6,2.7,15,2200,04/19/2022,4.7,28,2.0,5.0,Ryzen 7 6800U​,Ryzen 6000 Series,20,8.0,16.0
+6,3.2,35,2200,,4.7,35,2.0,5.0,Ryzen 7 6800HS,Ryzen 6000 Series,20,8.0,16.0
+6,3.2,45,2200,,4.7,45,2.0,5.0,Ryzen 7 6800H,Ryzen 6000 Series,20,8.0,16.0
+6,2.9,15,1900,04/19/2022,4.5,28,2.0,5.0,Ryzen 5 6600U,Ryzen 6000 Series,19,6.0,12.0
+6,3.3,35,1900,,4.5,35,2.0,5.0,Ryzen 5 6600HS​,Ryzen 6000 Series,19,6.0,12.0
+6,3.3,45,1900,,4.5,45,2.0,5.0,Ryzen 5 6600H,Ryzen 6000 Series,19,6.0,12.0
+7,2.7,280,0,03/08/2022,4.5,280,8.0,4.0,Ryzen Threadripper PRO 5995WX,Ryzen Threadripper PRO 5000 WX-Series,288,64.0,128.0
+7,3.6,280,0,03/08/2022,4.5,280,8.0,4.0,Ryzen Threadripper PRO 5975WX,Ryzen Threadripper PRO 5000 WX-Series,144,32.0,64.0
+7,3.8,280,0,03/08/2022,4.5,280,8.0,4.0,Ryzen Threadripper PRO 5965WX,Ryzen Threadripper PRO 5000 WX-Series,140,24.0,48.0
+7,4.0,280,0,03/08/2022,4.5,280,8.0,4.0,Ryzen Threadripper PRO 5955WX,Ryzen Threadripper PRO 5000 WX-Series,72,16.0,32.0
+7,4.1,280,0,03/08/2022,4.5,280,8.0,4.0,Ryzen Threadripper PRO 5945WX,Ryzen Threadripper PRO 5000 WX-Series,70,12.0,24.0
+7,3.0,65,0,,4.7,65,2.0,4.0,Ryzen 9 PRO 5945,Ryzen PRO 5000 Series,70,12.0,24.0
+7,2.0,15,2000,01/30/2022,4.5,15,2.0,4.0,Ryzen 7 PRO 5875U,Ryzen PRO 5000 Series,20,8.0,16.0
+7,1.9,15,2000,3/16/2021,4.4,15,,4.0,Ryzen 7 PRO 5850U,Ryzen PRO 5000 Series,20,8.0,16.0
+7,3.4,65,0,,4.6,65,2.0,4.0,Ryzen 7 PRO 5845,Ryzen PRO 5000 Series,36,8.0,16.0
+7,3.2,35,2000,6/1/2021,4.6,35,2.0,4.0,Ryzen 7 PRO 5750GE,Ryzen PRO 5000 Series,20,8.0,16.0
+7,3.8,65,2000,6/1/2021,4.6,65,2.0,4.0,Ryzen 7 PRO 5750G,Ryzen PRO 5000 Series,20,8.0,16.0
+7,2.3,15,1800,01/30/2022,4.3,15,2.0,4.0,Ryzen 5 PRO 5675U,Ryzen PRO 5000 Series,19,6.0,12.0
+7,3.4,35,1900,01/15/2024,4.4,35,2.0,4.0,Ryzen 5 PRO 5655GE,Ryzen PRO 5000 Series,19,6.0,12.0
+7,3.9,65,1900,01/15/2024,4.4,65,2.0,4.0,Ryzen 5 PRO 5655G,Ryzen PRO 5000 Series,19,6.0,12.0
+7,2.3,15,1800,3/16/2021,4.2,15,,4.0,Ryzen 5 PRO 5650U,Ryzen PRO 5000 Series,19,6.0,12.0
+7,3.4,35,1900,6/1/2021,4.4,35,2.0,4.0,Ryzen 5 PRO 5650GE,Ryzen PRO 5000 Series,19,6.0,12.0
+7,3.9,65,1900,6/1/2021,4.4,65,2.0,4.0,Ryzen 5 PRO 5650G,Ryzen PRO 5000 Series,19,6.0,12.0
+7,3.7,65,0,,4.6,65,2.0,4.0,Ryzen 5 PRO 5645,Ryzen PRO 5000 Series,35,6.0,12.0
+7,2.7,15,1600,01/30/2022,4.1,15,2.0,4.0,Ryzen 3 PRO 5475U,Ryzen PRO 5000 Series,10,4.0,8.0
+7,2.6,15,1600,3/16/2021,4.0,15,,4.0,Ryzen 3 PRO 5450U,Ryzen PRO 5000 Series,10,4.0,8.0
+7,3.6,35,1700,01/15/2024,4.2,35,2.0,4.0,Ryzen 3 PRO 5355GE,Ryzen PRO 5000 Series,10,4.0,8.0
+7,4.0,65,1700,01/15/2024,4.2,65,2.0,4.0,Ryzen 3 PRO 5355G,Ryzen PRO 5000 Series,10,4.0,8.0
+7,3.6,35,1700,6/1/2021,4.2,35,2.0,4.0,Ryzen 3 PRO 5350GE,Ryzen PRO 5000 Series,10,4.0,8.0
+7,4.0,65,1700,6/1/2021,4.2,65,2.0,4.0,Ryzen 3 PRO 5350G,Ryzen PRO 5000 Series,10,4.0,8.0
+7,3.3,35,2100,1/12/2021,4.8,54,,4.0,Ryzen 9 5980HX,Ryzen 5000 Series,20,8.0,16.0
+7,3.0,35,2100,1/12/2021,4.8,35,,4.0,Ryzen 9 5980HS,Ryzen 5000 Series,20,8.0,16.0
+7,3.4,105,0,11/5/2020,4.9,105,,4.0,Ryzen 9 5950X,Ryzen 5000 Series,72,16.0,32.0
+7,3.7,105,0,11/5/2020,4.8,105,,4.0,Ryzen 9 5900X,Ryzen 5000 Series,70,12.0,24.0
+7,3.3,35,2100,1/12/2021,4.6,54,,4.0,Ryzen 9 5900HX,Ryzen 5000 Series,20,8.0,16.0
+7,3.0,35,2100,1/12/2021,4.6,35,,4.0,Ryzen 9 5900HS,Ryzen 5000 Series,20,8.0,16.0
+7,3.0,65,0,1/12/2021,4.7,65,,4.0,Ryzen 9 5900 (OEM Only),Ryzen 5000 Series,70,12.0,24.0
+7,2.0,15,2000,01/30/2022,4.5,15,2.0,4.0,Ryzen 7 5825U,Ryzen 5000 Series,20,8.0,16.0
+7,2.0,15,0,,4.5,15,2.0,4.0,Ryzen 7 5825C,Ryzen 5000 Series,20,8.0,16.0
+7,3.4,105,0,,4.5,105,2.0,4.0,Ryzen 7 5800X3D,Ryzen 5000 Series,100,8.0,16.0
+7,3.8,105,0,11/5/2020,4.7,105,,4.0,Ryzen 7 5800X,Ryzen 5000 Series,36,8.0,16.0
+7,1.9,10,2000,1/12/2021,4.4,25,,4.0,Ryzen 7 5800U,Ryzen 5000 Series,20,8.0,16.0
+7,2.8,35,2000,1/12/2021,4.4,35,,4.0,Ryzen 7 5800HS,Ryzen 5000 Series,20,8.0,16.0
+7,3.2,35,2000,1/12/2021,4.4,54,,4.0,Ryzen 7 5800H,Ryzen 5000 Series,20,8.0,16.0
+7,3.4,65,0,1/12/2021,4.6,65,,4.0,Ryzen 7 5800 (OEM Only),Ryzen 5000 Series,36,8.0,16.0
+7,3.0,105,0,01/08/2024,4.1,105,2.0,4.0,Ryzen 7 5700X3D,Ryzen 5000 Series,100,8.0,16.0
+7,3.4,65,0,04/04/2022,4.6,65,2.0,4.0,Ryzen 7 5700X,Ryzen 5000 Series,36,8.0,16.0
+7,1.8,10,1900,1/12/2021,4.3,25,,4.0,Ryzen 7 5700U,Ryzen 5000 Series,12,8.0,16.0
+7,3.2,35,2000,4/13/2021,4.6,35,2.0,4.0,Ryzen 7 5700GE,Ryzen 5000 Series,20,8.0,16.0
+7,3.8,45,2000,4/13/2021,4.6,65,2.0,4.0,Ryzen 7 5700G,Ryzen 5000 Series,20,8.0,16.0
+7,3.7,45,0,04/04/2022,4.6,65,2.0,4.0,Ryzen 7 5700,Ryzen 5000 Series,20,8.0,16.0
+7,2.3,15,1800,01/30/2022,4.3,15,2.0,4.0,Ryzen 5 5625U,Ryzen 5000 Series,19,6.0,12.0
+7,2.3,15,0,,4.3,15,2.0,4.0,Ryzen 5 5625C,Ryzen 5000 Series,19,6.0,12.0
+7,3.3,105,0,07/07/2023,4.4,105,2.0,4.0,Ryzen 5 5600X3D,Ryzen 5000 Series,99,6.0,12.0
+7,3.7,65,0,11/5/2020,4.6,65,,4.0,Ryzen 5 5600X,Ryzen 5000 Series,35,6.0,12.0
+7,2.3,10,1800,1/12/2021,4.2,25,,4.0,Ryzen 5 5600U,Ryzen 5000 Series,19,6.0,12.0
+7,3.0,35,1800,1/12/2021,4.2,35,,4.0,Ryzen 5 5600HS,Ryzen 5000 Series,19,6.0,12.0
+7,3.3,35,1800,1/12/2021,4.2,54,,4.0,Ryzen 5 5600H,Ryzen 5000 Series,19,6.0,12.0
+7,3.6,45,1900,01/08/2024,4.6,65,2.0,4.0,Ryzen 5 5600GT,Ryzen 5000 Series,19,6.0,12.0
+7,3.4,35,1900,4/13/2021,4.4,35,2.0,4.0,Ryzen 5 5600GE,Ryzen 5000 Series,19,6.0,12.0
+7,3.9,45,1900,4/13/2021,4.4,65,2.0,4.0,Ryzen 5 5600G,Ryzen 5000 Series,19,6.0,12.0
+7,3.5,65,0,04/04/2022,4.4,65,2.0,4.0,Ryzen 5 5600,Ryzen 5000 Series,35,6.0,12.0
+7,2.3,10,1600,01/12/2021,4.0,25,2.0,4.0,Ryzen 5 5560U,Ryzen 5000 Series,11,6.0,12.0
+7,2.1,10,1800,1/12/2021,4.0,25,,4.0,Ryzen 5 5500U,Ryzen 5000 Series,11,6.0,12.0
+7,3.3,35,1800,06/23/2023,4.2,54,,4.0,Ryzen 5 5500H,Ryzen 5000 Series,10,4.0,8.0
+7,3.6,45,1900,01/08/2024,4.4,65,2.0,4.0,Ryzen 5 5500GT,Ryzen 5000 Series,19,6.0,12.0
+7,3.6,65,0,04/04/2022,4.2,65,2.0,4.0,Ryzen 5 5500,Ryzen 5000 Series,19,6.0,12.0
+7,2.7,15,1600,01/30/2022,4.1,15,2.0,4.0,Ryzen 3 5425U,Ryzen 5000 Series,10,4.0,8.0
+7,2.7,15,0,,4.1,15,2.0,4.0,Ryzen 3 5425C,Ryzen 5000 Series,10,4.0,8.0
+7,2.6,10,1600,1/12/2021,4.0,25,,4.0,Ryzen 3 5400U,Ryzen 5000 Series,10,4.0,8.0
+7,2.6,10,1500,1/12/2021,3.8,25,,4.0,Ryzen 3 5300U,Ryzen 5000 Series,6,4.0,8.0
+7,3.6,35,1700,4/13/2021,4.2,35,2.0,4.0,Ryzen 3 5300GE (OEM Only),Ryzen 5000 Series,10,4.0,8.0
+7,4.0,45,1700,4/13/2021,4.2,65,2.0,4.0,Ryzen 3 5300G (OEM Only),Ryzen 5000 Series,10,4.0,8.0
+7,3.0,15,0,05/05/2022,3.0,15,2.0,4.0,Ryzen 3 5125C,Ryzen 5000 Series,9,2.0,4.0
+7,1.7,15,1600,5/7/2020,4.1,15,,4.0,Ryzen 7 PRO 4750U,Ryzen PRO 4000 Series,12,8.0,16.0
+7,3.1,35,2100,7/21/2020,4.3,35,2.0,4.0,Ryzen 7 PRO 4750GE,Ryzen PRO 4000 Series,12,8.0,16.0
+7,3.6,45,2100,7/21/2020,4.4,65,2.0,4.0,Ryzen 7 PRO 4750G,Ryzen PRO 4000 Series,12,8.0,16.0
+7,3.3,35,1900,11/11/2022,4.2,35,2.0,4.0,Ryzen 5 PRO 4655GE,Ryzen PRO 4000 Series,11,6.0,12.0
+7,3.7,45,1900,11/11/2022,4.2,65,2.0,4.0,Ryzen 5 PRO 4655G,Ryzen PRO 4000 Series,11,6.0,12.0
+7,2.1,15,1500,5/7/2020,4.0,15,,4.0,Ryzen 5 PRO 4650U,Ryzen PRO 4000 Series,11,6.0,12.0
+7,3.3,35,1900,7/21/2020,4.2,35,2.0,4.0,Ryzen 5 PRO 4650GE,Ryzen PRO 4000 Series,11,6.0,12.0
+7,3.7,45,1900,7/21/2020,4.2,65,2.0,4.0,Ryzen 5 PRO 4650G,Ryzen PRO 4000 Series,11,6.0,12.0
+7,2.5,15,1400,5/7/2020,3.7,15,,4.0,Ryzen 3 PRO 4450U,Ryzen PRO 4000 Series,6,4.0,8.0
+7,3.5,35,1700,Q4 2022,4.0,35,2.0,4.0,Ryzen 3 PRO 4355GE,Ryzen PRO 4000 Series,6,4.0,8.0
+7,3.8,45,1700,Q4 2022,4.0,65,2.0,4.0,Ryzen 3 PRO 4355G,Ryzen PRO 4000 Series,6,4.0,8.0
+7,3.5,35,1700,7/21/2020,4.0,35,2.0,4.0,Ryzen 3 PRO 4350GE,Ryzen PRO 4000 Series,6,4.0,8.0
+7,3.8,45,1700,7/21/2020,4.0,65,2.0,4.0,Ryzen 3 PRO 4350G,Ryzen PRO 4000 Series,6,4.0,8.0
+7,3.0,35,1750,,4.3,35,,4.0,Ryzen 9 4900HS,Ryzen 4000 Series,12,8.0,16.0
+7,3.3,35,1750,3/16/2020,4.4,35,,4.0,Ryzen 9 4900H,Ryzen 4000 Series,12,8.0,16.0
+7,2.0,10,1950,4/13/2021,4.4,25,2.0,4.0,Ryzen 7 4980U Microsoft Surface® Edition,Ryzen 4000 Series,12,8.0,16.0
+7,1.8,10,1750,1/6/2020,4.2,25,,4.0,Ryzen 7 4800U,Ryzen 4000 Series,12,8.0,16.0
+7,2.9,35,1600,,4.2,54,,4.0,Ryzen 7 4800HS,Ryzen 4000 Series,12,8.0,16.0
+7,2.9,35,1600,1/6/2020,4.2,54,,4.0,Ryzen 7 4800H,Ryzen 4000 Series,12,8.0,16.0
+7,2.0,10,1600,1/6/2020,4.1,25,,4.0,Ryzen 7 4700U,Ryzen 4000 Series,12,8.0,8.0
+7,3.1,35,2000,7/21/2020,4.3,35,2.0,4.0,Ryzen 7 4700GE (OEM Only),Ryzen 4000 Series,12,8.0,16.0
+7,3.6,45,2100,7/21/2020,4.4,65,2.0,4.0,Ryzen 7 4700G (OEM Only),Ryzen 4000 Series,12,8.0,16.0
+7,2.2,10,1500,4/13/2021,4.0,25,2.0,4.0,Ryzen 5 4680U Microsoft Surface® Edition,Ryzen 4000 Series,11,6.0,12.0
+7,2.1,10,1500,1/6/2020,4.0,25,,4.0,Ryzen 5 4600U,Ryzen 4000 Series,11,6.0,12.0
+7,3.0,35,1500,1/6/2020,4.0,54,,4.0,Ryzen 5 4600H,Ryzen 4000 Series,11,6.0,12.0
+7,3.3,35,1900,7/21/2020,4.2,35,2.0,4.0,Ryzen 5 4600GE (OEM Only),Ryzen 4000 Series,11,6.0,12.0
+7,3.7,45,1900,7/21/2020,4.2,65,2.0,4.0,Ryzen 5 4600G,Ryzen 4000 Series,11,6.0,12.0
+7,2.3,10,1500,1/6/2020,4.0,25,,4.0,Ryzen 5 4500U,Ryzen 4000 Series,11,6.0,6.0
+7,3.6,65,0,04/04/2022,4.1,65,2.0,4.0,Ryzen 5 4500,Ryzen 4000 Series,11,6.0,12.0
+7,2.7,10,1400,1/6/2020,3.7,25,,4.0,Ryzen 3 4300U,Ryzen 4000 Series,6,4.0,4.0
+7,3.5,35,1700,7/21/2020,4.0,35,2.0,4.0,Ryzen 3 4300GE (OEM Only),Ryzen 4000 Series,6,4.0,8.0
+7,3.8,45,1700,7/21/2020,4.0,65,2.0,4.0,Ryzen 3 4300G (OEM Only),Ryzen 4000 Series,6,4.0,8.0
+7,3.8,65,0,04/04/2022,4.0,65,2.0,4.0,Ryzen 3 4100,Ryzen 4000 Series,6,4.0,8.0
+7,2.7,280,0,7/14/2020,4.2,280,8.0,4.0,Ryzen Threadripper PRO 3995WX,Ryzen Threadripper PRO 3000 WX-Series,288,64.0,128.0
+7,3.5,280,0,7/14/2020,4.2,280,8.0,4.0,Ryzen Threadripper PRO 3975WX,Ryzen Threadripper PRO 3000 WX-Series,144,32.0,64.0
+7,3.9,280,0,7/14/2020,4.3,280,8.0,4.0,Ryzen Threadripper PRO 3955WX,Ryzen Threadripper PRO 3000 WX-Series,72,16.0,32.0
+7,4.0,280,0,7/14/2020,4.3,280,8.0,4.0,Ryzen Threadripper PRO 3945WX,Ryzen Threadripper PRO 3000 WX-Series,70,12.0,24.0
+7,2.9,280,0,02/07/2020,4.3,280,4.0,4.0,Ryzen Threadripper 3990X,Ryzen Threadripper 3000 Series,288,64.0,128.0
+7,3.7,280,0,11/25/2019,4.5,280,4.0,4.0,Ryzen Threadripper 3970X,Ryzen Threadripper 3000 Series,144,32.0,64.0
+7,3.8,280,0,11/25/2019,4.5,280,4.0,4.0,Ryzen Threadripper 3960X,Ryzen Threadripper 3000 Series,140,24.0,48.0
+7,3.1,65,0,9/30/2019,4.3,65,2.0,4.0,Ryzen 9 PRO 3900,Ryzen PRO 3000 Series,70,12.0,24.0
+12,2.3,12,1400,4/8/2019,4.0,25,2.0,0.0,Ryzen 7 PRO 3700U,Ryzen PRO 3000 Series,6,4.0,8.0
+7,3.6,65,0,9/30/2019,4.4,65,2.0,4.0,Ryzen 7 PRO 3700,Ryzen PRO 3000 Series,36,8.0,16.0
+7,3.6,65,0,9/30/2019,4.2,65,2.0,4.0,Ryzen 5 PRO 3600,Ryzen PRO 3000 Series,35,6.0,12.0
+12,2.1,12,1200,4/8/2019,3.7,25,2.0,0.0,Ryzen 5 PRO 3500U,Ryzen PRO 3000 Series,6,4.0,8.0
+12,3.3,35,1300,9/30/2019,4.0,35,2.0,4.0,Ryzen 5 PRO 3400GE,Ryzen PRO 3000 Series,6,4.0,8.0
+12,3.7,45,1400,9/30/2019,4.2,65,2.0,4.0,Ryzen 5 PRO 3400G,Ryzen PRO 3000 Series,6,4.0,8.0
+12,3.3,35,1200,7/21/2020,3.9,35,2.0,4.0,Ryzen 5 PRO 3350GE,Ryzen PRO 3000 Series,6,4.0,4.0
+12,3.6,45,1300,7/21/2020,4.0,65,2.0,4.0,Ryzen 5 PRO 3350G,Ryzen PRO 3000 Series,6,4.0,8.0
+12,2.1,12,1200,4/8/2019,3.5,25,2.0,0.0,Ryzen 3 PRO 3300U,Ryzen PRO 3000 Series,6,4.0,4.0
+12,3.3,35,1200,9/30/2019,3.8,35,2.0,4.0,Ryzen 3 PRO 3200GE,Ryzen PRO 3000 Series,6,4.0,4.0
+12,3.6,45,1250,9/30/2019,4.0,65,2.0,4.0,Ryzen 3 PRO 3200G,Ryzen PRO 3000 Series,6,4.0,4.0
+7,3.5,105,0,07/07/2019,4.7,105,2.0,4.0,Ryzen 9 3950X,Ryzen 3000 Series,72,16.0,32.0
+7,3.8,105,0,07/2020,4.7,105,,4.0,Ryzen 9 3900XT,Ryzen 3000 Series,70,12.0,24.0
+7,3.8,105,0,7/7/2019,4.6,105,2.0,4.0,Ryzen 9 3900X,Ryzen 3000 Series,70,12.0,24.0
+7,3.1,65,0,9/24/2019,4.3,65,2.0,4.0,Ryzen 9 3900 Processor (OEM Only),Ryzen 3000 Series,70,12.0,24.0
+7,3.9,105,0,07/2020,4.7,105,,4.0,Ryzen 7 3800XT,Ryzen 3000 Series,36,8.0,16.0
+7,3.9,105,0,7/7/2019,4.5,105,2.0,4.0,Ryzen 7 3800X,Ryzen 3000 Series,36,8.0,16.0
+12,2.3,12,1400,,4.0,35,2.0,0.0,Ryzen 7 3780U Microsoft Surface® Edition,Ryzen 3000 Series,6,4.0,8.0
+12,2.3,12,1400,Q1 2019,4.0,35,2.0,0.0,Ryzen 7 3750H,Ryzen 3000 Series,6,4.0,8.0
+7,3.6,65,0,7/7/2019,4.4,65,2.0,4.0,Ryzen 7 3700X,Ryzen 3000 Series,36,8.0,16.0
+12,2.3,12,1400,Q1 2019,4.0,35,2.0,4.0,Ryzen 7 3700U,Ryzen 3000 Series,6,4.0,8.0
+12,2.3,12,1400,9/22/2020,4.0,25,,0.0,Ryzen 7 3700C,Ryzen 3000 Series,6,4.0,8.0
+7,3.8,95,0,07/2020,4.5,95,,4.0,Ryzen 5 3600XT,Ryzen 3000 Series,35,6.0,12.0
+7,3.8,95,0,7/7/2019,4.4,95,2.0,4.0,Ryzen 5 3600X,Ryzen 3000 Series,35,6.0,12.0
+7,3.6,65,0,7/7/2019,4.2,65,2.0,4.0,Ryzen 5 3600,Ryzen 3000 Series,35,6.0,12.0
+12,2.1,12,1300,,3.7,35,2.0,0.0,Ryzen 5 3580U Microsoft Surface® Edition,Ryzen 3000 Series,6,4.0,8.0
+12,2.1,12,1200,Q1 2019,3.7,35,2.0,0.0,Ryzen 5 3550H,Ryzen 3000 Series,6,4.0,8.0
+12,2.1,12,1200,Q1 2019,3.7,35,2.0,0.0,Ryzen 5 3500U,Ryzen 3000 Series,6,4.0,8.0
+12,2.1,12,1200,9/22/2020,3.7,25,,0.0,Ryzen 5 3500C,Ryzen 3000 Series,6,4.0,8.0
+7,3.6,65,0,,4.1,65,2.0,4.0,Ryzen 5 3500 Processor (OEM Only),Ryzen 3000 Series,19,6.0,6.0
+12,2.1,12,1200,Q2 2020,3.5,35,2.0,0.0,Ryzen 5 3450U,Ryzen 3000 Series,6,4.0,8.0
+12,3.3,35,1300,7/7/2019,4.0,35,2.0,0.0,Ryzen 5 3400GE (OEM Only),Ryzen 3000 Series,6,4.0,8.0
+12,3.7,45,1400,07/07/2019,4.2,65,2.0,4.0,Ryzen 5 3400G with Radeon RX Vega 11 Graphics,Ryzen 3000 Series,6,4.0,8.0
+12,2.1,12,1200,Q1 2019,3.5,35,2.0,0.0,Ryzen 3 3350U,Ryzen 3000 Series,6,4.0,4.0
+7,3.8,65,0,,4.3,65,,4.0,Ryzen 3 3300X,Ryzen 3000 Series,18,4.0,8.0
+12,2.1,12,1200,Q1 2019,3.5,35,2.0,0.0,Ryzen 3 3300U,Ryzen 3000 Series,6,4.0,4.0
+14,2.6,12,1200,1/6/2020,3.5,25,2.0,4.0,Ryzen 3 3250U,Ryzen 3000 Series,5,2.0,4.0
+14,2.6,12,1200,9/22/2020,3.5,25,,0.0,Ryzen 3 3250C,Ryzen 3000 Series,5,2.0,4.0
+14,2.6,12,1200,Q1 2019,3.5,25,2.0,0.0,Ryzen 3 3200U,Ryzen 3000 Series,5,2.0,4.0
+12,3.3,35,1200,7/7/2019,3.8,35,2.0,0.0,Ryzen 3 3200GE (OEM Only),Ryzen 3000 Series,6,4.0,4.0
+12,3.6,45,1250,7/7/2019,4.0,65,2.0,4.0,Ryzen 3 3200G with Radeon Vega 8 Graphics,Ryzen 3000 Series,6,4.0,4.0
+7,3.6,65,0,04/2020,3.9,65,,4.0,Ryzen 3 3100,Ryzen 3000 Series,18,4.0,8.0
+12,3.3,35,1100,7/21/2020,3.8,35,2.0,4.0,Athlon Gold PRO 3150GE,Athlon PRO 3000 Series,6,4.0,4.0
+12,3.5,45,1100,7/21/2020,3.9,65,2.0,4.0,Athlon Gold PRO 3150G,Athlon PRO 3000 Series,6,4.0,4.0
+14,2.4,12,1000,Q12021,3.3,25,2.0,4.0,Athlon PRO 3145B,Athlon PRO 3000 Series,5,2.0,4.0
+12,3.4,35,1100,7/21/2020,3.4,35,2.0,4.0,Athlon Silver PRO 3125GE,Athlon PRO 3000 Series,5,2.0,4.0
+14,2.3,12,1100,Q12021,3.2,25,2.0,4.0,Athlon PRO 3045B,Athlon PRO 3000 Series,5,2.0,2.0
+14,2.4,12,1000,1/6/2020,3.3,25,2.0,4.0,Athlon Gold 3150U,Athlon 3000 Series,5,2.0,4.0
+12,3.3,35,1100,7/21/2020,3.8,35,2.0,4.0,Athlon Gold 3150GE (OEM Only),Athlon 3000 Series,6,4.0,4.0
+12,3.5,45,1100,7/21/2020,3.9,65,2.0,4.0,Athlon Gold 3150G (OEM Only),Athlon 3000 Series,6,4.0,4.0
+14,2.4,12,1100,9/22/2020,3.3,25,,0.0,Athlon Gold 3150C,Athlon 3000 Series,5,2.0,4.0
+14,2.3,12,1100,1/6/2020,3.2,25,2.0,4.0,Athlon Silver 3050U,Athlon 3000 Series,5,2.0,2.0
+14,3.4,35,1100,7/21/2020,3.4,35,2.0,4.0,Athlon Silver 3050GE (OEM Only),Athlon 3000 Series,5,2.0,4.0
+14,1.4,6,1000,1/6/2020,2.8,6,2.0,4.0,Athlon Silver 3050e,Athlon 3000 Series,5,2.0,4.0
+14,2.3,12,1100,9/22/2020,3.2,25,,0.0,Athlon  Silver 3050C,Athlon 3000 Series,5,2.0,2.0
+14,3.5,35,1100,,0.0,35,2.0,0.0,Athlon 3000G,Athlon 3000 Series,5,2.0,4.0
+14,2.4,12,1000,,3.3,25,2.0,0.0,Athlon PRO 300U Mobile Processor with Radeon Vega 3 Graphics,Athlon PRO 300 Series,5,2.0,4.0
+12,3.4,35,1100,9/30/2019,0.0,35,2.0,4.0,Athlon PRO 300GE,Athlon PRO 300 Series,5,2.0,4.0
+14,3.5,35,1100,7/7/2019,0.0,35,2.0,4.0,Athlon 320GE,Athlon 300 Series,5,2.0,4.0
+14,2.4,15,1000,,3.3,15,2.0,0.0,Athlon 300U,Athlon 300 Series,5,2.0,4.0
+14,3.4,35,1100,7/7/2019,0.0,35,2.0,0.0,Athlon 300GE,Athlon 300 Series,5,2.0,4.0
+14,2.3,12,1000,,3.2,25,2.0,0.0,Athlon PRO 200U Mobile Processor with Radeon Vega 3 Graphics,Athlon PRO 200 Series,5,2.0,4.0
+14,3.2,35,1000,,0.0,35,2.0,0.0,Athlon PRO 200GE,Athlon PRO 200 Series,5,2.0,4.0
+14,3.5,35,1000,,0.0,35,2.0,0.0,Athlon 240GE,Athlon 200 Series,5,2.0,4.0
+14,3.4,35,1000,,0.0,35,2.0,0.0,Athlon 220GE,Athlon 200 Series,5,2.0,4.0
+14,3.2,35,1000,,0.0,35,2.0,0.0,Athlon 200GE,Athlon 200 Series,5,2.0,4.0
+12,3.0,250,0,8/13/2018,4.2,250,4.0,4.0,Ryzen Threadripper 2990WX,Ryzen Threadripper 2000 Series,80,32.0,64.0
+12,3.0,250,0,10/2018,4.2,250,4.0,4.0,Ryzen Threadripper 2970WX,Ryzen Threadripper 2000 Series,76,24.0,48.0
+12,3.5,180,0,8/31/2018,4.4,180,4.0,4.0,Ryzen Threadripper 2950X,Ryzen Threadripper 2000 Series,40,16.0,32.0
+12,3.5,180,0,10/2018,4.3,180,4.0,4.0,Ryzen Threadripper 2920X,Ryzen Threadripper 2000 Series,38,12.0,24.0
+12,3.6,95,0,,4.1,95,2.0,4.0,Ryzen 7 PRO 2700X,Ryzen PRO 2000 Series,20,8.0,16.0
+14,2.2,12,1300,Q1 2019,3.8,25,2.0,4.0,Ryzen 7 PRO 2700U,Ryzen PRO 2000 Series,6,4.0,8.0
+12,3.2,65,0,,4.1,65,2.0,4.0,Ryzen 7 PRO 2700,Ryzen PRO 2000 Series,20,8.0,16.0
+12,3.4,65,0,,3.9,65,2.0,4.0,Ryzen 5 PRO 2600,Ryzen PRO 2000 Series,19,6.0,12.0
+14,2.0,12,1100,Q1 2019,3.6,25,2.0,4.0,Ryzen 5 PRO 2500U,Ryzen PRO 2000 Series,6,4.0,8.0
+14,3.2,35,1250,5/10/2018,3.8,35,2.0,4.0,Ryzen 5 PRO 2400GE with Radeon Vega 11 Graphics,Ryzen PRO 2000 Series,6,4.0,8.0
+14,3.6,46,1250,5/10/2018,3.9,65,2.0,0.0,Ryzen 5 PRO 2400G with Radeon Vega 11 Graphics,Ryzen PRO 2000 Series,6,4.0,8.0
+14,2.0,12,1100,Q1 2019,3.4,25,2.0,4.0,Ryzen 3 PRO 2300U,Ryzen PRO 2000 Series,6,4.0,4.0
+14,3.2,35,1100,5/10/2018,3.6,35,2.0,4.0,Ryzen 3 PRO 2200GE with Radeon Vega 8 Graphics,Ryzen PRO 2000 Series,6,4.0,4.0
+14,3.5,46,1100,5/10/2018,3.7,65,2.0,0.0,Ryzen 3 PRO 2200G with Radeon Vega 8 Graphics,Ryzen PRO 2000 Series,6,4.0,4.0
+14,3.3,35,1300,9/10/2018,3.8,54,2.0,0.0,Ryzen 7 2800H,Ryzen 2000 Series,6,4.0,8.0
+12,3.7,105,0,4/19/2018,4.3,105,2.0,4.0,Ryzen 7 2700X,Ryzen 2000 Series,20,8.0,16.0
+14,2.2,12,1300,10/26/2017,3.8,25,2.0,4.0,Ryzen 7 2700U,Ryzen 2000 Series,6,4.0,8.0
+12,2.8,45,0,09/2018,4.0,45,2.0,4.0,Ryzen 7 2700E Processor,Ryzen 2000 Series,20,8.0,16.0
+12,3.2,65,0,4/19/2018,4.1,65,2.0,4.0,Ryzen 7 2700,Ryzen 2000 Series,20,8.0,16.0
+12,3.6,95,0,4/19/2018,4.2,95,2.0,4.0,Ryzen 5 2600X,Ryzen 2000 Series,19,6.0,12.0
+14,3.2,35,1100,9/10/2018,3.6,54,2.0,0.0,Ryzen 5 2600H,Ryzen 2000 Series,6,4.0,8.0
+12,3.1,45,0,09/2018,4.0,45,2.0,4.0,Ryzen 5 2600E,Ryzen 2000 Series,19,6.0,12.0
+12,3.4,65,0,4/19/2018,3.9,65,2.0,4.0,Ryzen 5 2600,Ryzen 2000 Series,19,6.0,12.0
+12,3.6,65,0,9/10/2018,4.0,65,2.0,4.0,Ryzen 5 2500X,Ryzen 2000 Series,10,4.0,8.0
+14,2.0,12,1100,10/26/2017,3.6,25,2.0,4.0,Ryzen 5 2500U,Ryzen 2000 Series,6,4.0,8.0
+14,3.2,35,1250,4/19/2018,3.8,35,2.0,4.0,Ryzen 5 2400GE with Radeon RX Vega 11 Graphics,Ryzen 2000 Series,6,4.0,8.0
+14,3.6,46,1250,2/12/2018,3.9,65,2.0,4.0,Ryzen 5 2400G with Radeon RX Vega 11 Graphics,Ryzen 2000 Series,6,4.0,8.0
+12,3.5,65,0,9/10/2018,4.0,65,2.0,4.0,Ryzen 3 2300X,Ryzen 2000 Series,10,4.0,4.0
+14,2.0,12,1100,1/8/2018,3.4,25,2.0,4.0,Ryzen 3 2300U,Ryzen 2000 Series,6,4.0,4.0
+14,2.5,12,1100,1/8/2018,3.4,25,2.0,4.0,Ryzen 3 2200U,Ryzen 2000 Series,5,2.0,4.0
+14,3.2,35,1100,4/19/2018,3.6,35,2.0,4.0,Ryzen 3 2200GE with Radeon Vega 8 Graphics,Ryzen 2000 Series,6,4.0,4.0
+14,3.5,46,1100,2/12/2018,3.7,65,2.0,4.0,Ryzen 3 2200G with Radeon Vega 8 Graphics,Ryzen 2000 Series,6,4.0,4.0
+14,3.4,180,0,7/31/2017,4.0,180,4.0,4.0,Ryzen Threadripper 1950X,Ryzen Threadripper 1000 Series,40,16.0,32.0
+14,3.5,180,0,7/31/2017,4.0,180,4.0,4.0,Ryzen Threadripper 1920X,Ryzen Threadripper 1000 Series,38,12.0,24.0
+14,3.8,180,0,8/31/2017,4.0,180,4.0,4.0,Ryzen Threadripper 1900X,Ryzen Threadripper 1000 Series,20,8.0,16.0
+14,3.4,95,0,6/29/2017,3.8,95,2.0,4.0,Ryzen 7 PRO 1700X Processor,Ryzen PRO 1000 Series,20,8.0,16.0
+14,3.0,65,0,6/29/2017,3.7,65,2.0,4.0,Ryzen 7 PRO 1700,Ryzen PRO 1000 Series,20,8.0,16.0
+14,3.2,65,0,6/29/2017,3.6,65,2.0,4.0,Ryzen 5 PRO 1600,Ryzen PRO 1000 Series,19,6.0,12.0
+14,3.5,65,0,6/29/2017,3.7,65,2.0,4.0,Ryzen 5 PRO 1500,Ryzen PRO 1000 Series,18,4.0,8.0
+14,3.5,65,0,6/29/2017,3.7,65,2.0,4.0,Ryzen 3 PRO 1300,Ryzen PRO 1000 Series,10,4.0,4.0
+14,3.1,65,0,6/29/2017,3.4,65,2.0,4.0,Ryzen 3 PRO 1200,Ryzen PRO 1000 Series,10,4.0,4.0
+14,3.6,95,0,3/2/2017,4.0,95,2.0,4.0,Ryzen 7 1800X,Ryzen 1000 Series,20,8.0,16.0
+14,3.4,95,0,3/2/2017,3.8,95,2.0,4.0,Ryzen 7 1700X,Ryzen 1000 Series,20,8.0,16.0
+14,3.0,65,0,3/2/2017,3.7,65,2.0,4.0,Ryzen 7 1700 Processor,Ryzen 1000 Series,20,8.0,16.0
+14,3.6,95,0,4/11/2017,4.0,95,2.0,4.0,Ryzen 5 1600X,Ryzen 1000 Series,19,6.0,12.0
+12,3.2,65,0,,3.6,65,2.0,4.0,Ryzen 5 1600 (AF),Ryzen 1000 Series,19,6.0,12.0
+14,3.2,65,0,4/11/2017,3.6,65,2.0,4.0,Ryzen 5 1600,Ryzen 1000 Series,19,6.0,12.0
+14,3.5,65,0,4/11/2017,3.7,65,2.0,4.0,Ryzen 5 1500X,Ryzen 1000 Series,18,4.0,8.0
+14,3.2,65,0,4/11/2017,3.4,65,2.0,4.0,Ryzen 5 1400,Ryzen 1000 Series,10,4.0,8.0
+14,3.5,65,0,7/27/2017,3.7,65,2.0,4.0,Ryzen 3 1300X,Ryzen 1000 Series,10,4.0,4.0
+14,3.1,65,0,7/27/2017,3.4,65,2.0,4.0,Ryzen 3 1200,Ryzen 1000 Series,10,4.0,4.0
+14,1.2,6,1000,1/6/2020,2.6,6,2.0,4.0,3020e,AMD 3000 Series,5,2.0,2.0
+14,1.2,6,600,7/6/2020,2.3,6,1.0,4.0,3015e,AMD 3000 Series,5,2.0,4.0
+14,1.2,6,600,4/29/2021,2.3,6,1.0,4.0,3015Ce,AMD 3000 Series,5,2.0,4.0
+32,4.7,220,0,,5.0,220,,3.0,FX-9590,FX 8-Core Black Edition Processors,16,8.0,8.0
+32,4.4,220,0,,4.7,220,,3.0,FX-9370,FX 8-Core Black Edition Processors,16,8.0,8.0
+32,3.3,95,0,,4.3,95,,3.0,FX-8370E,FX 8-Core Black Edition Processors,16,8.0,8.0
+32,4.0,125,0,,4.3,125,2.0,3.0,FX-8370 with Wraith cooler,FX 8-Core Black Edition Processors,16,8.0,8.0
+32,4.0,125,0,,4.3,125,,3.0,FX-8370,FX 8-Core Black Edition Processors,16,8.0,8.0
+32,4.0,125,0,,4.2,125,,3.0,FX-8350 with Wraith cooler,FX 8-Core Black Edition Processors,16,8.0,8.0
+32,4.0,125,0,,4.2,125,,3.0,FX-8350,FX 8-Core Black Edition Processors,16,8.0,8.0
+32,3.2,95,0,,4.0,95,,3.0,FX-8320E,FX 8-Core Black Edition Processors,16,8.0,8.0
+32,3.5,125,0,,4.0,125,,3.0,FX-8320,FX 8-Core Black Edition Processors,16,8.0,8.0
+32,3.4,95,0,,4.3,95,,,FX-8310,FX 8-Core Black Edition Processors,8,8.0,8.0
+32,3.3,95,0,,4.2,95,,3.0,FX-8300,FX 8-Core Black Edition Processors,16,8.0,8.0
+32,3.6,125,0,,4.2,125,,3.0,FX-8150,FX 8-Core Black Edition Processors,16,8.0,8.0
+32,3.1,125,0,,4.0,125,,,FX-8120,FX 8-Core Black Edition Processors,16,8.0,8.0
+32,3.9,125,0,,4.2,125,,3.0,FX-6350 with Wraith cooler,FX 6-Core Black Edition Processors,14,6.0,6.0
+32,3.9,125,0,,4.2,125,,3.0,FX-6350,FX 6-Core Black Edition Processors,14,6.0,6.0
+32,3.5,95,0,,3.8,95,,3.0,FX-6300,FX 6-Core Black Edition Processors,14,6.0,6.0
+32,3.8,125,0,,4.1,125,,3.0,FX-6200,FX 6-Core Black Edition Processors,14,6.0,6.0
+32,3.3,95,0,,3.9,95,,3.0,FX 6100,FX 6-Core Black Edition Processors,14,6.0,6.0
+32,4.2,125,0,,4.3,125,,3.0,FX-4350,FX 4-Core Black Edition Processors,12,4.0,4.0
+32,4.0,95,0,,4.1,95,,3.0,FX-4320,FX 4-Core Black Edition Processors,8,4.0,4.0
+32,3.8,95,0,,4.0,95,,3.0,FX-4300,FX 4-Core Black Edition Processors,8,4.0,4.0
+32,4.2,125,0,,4.3,125,,,FX-4170,FX 4-Core Black Edition Processors,12,4.0,4.0
+32,3.8,125,0,,3.9,125,,3.0,FX-4130,FX 4-Core Black Edition Processors,8,4.0,4.0
+32,3.6,95,0,,3.8,95,,3.0,FX-4100,FX 4-Core Black Edition Processors,12,4.0,4.0
+28,3.0,25,900,Q216,3.7,45,2.0,4.0,7th Gen FX 9830P APU,FX-Series Processors for Laptops,2,4.0,
+28,2.7,12,758,Q216,3.6,15,2.0,4.0,7th Gen FX 9800P APU,FX-Series Processors for Laptops,2,4.0,
+28,2.1,15,800,,3.4,15,2.0,3.0,6th Gen FX-8800P APU,FX-Series Processors for Laptops,2,4.0,4.0
+28,2.7,35,686,,3.6,35,2.0,3.0,FX-7600P with Radeon R7 Graphics,FX-Series Processors for Laptops,4,4.0,4.0
+28,2.1,20,553,,3.3,20,2.0,3.0,FX-7500 with Radeon R7 Graphics,FX-Series Processors for Laptops,4,4.0,4.0
+28,2.1,0,800,,3.4,0,2.0,3.0,FX-8800P with Radeon R7 Graphics,FX-Series Processors for AIOs,2,4.0,4.0
+28,3.1,35,900,9/5/2016,3.8,35,2.0,4.0,7th Gen A12-9800E APU,A12-Series APU for Desktops,2,4.0,
+28,3.8,65,1108,"Channel: 7/27/2017, OEM: 9/5/2016",4.2,65,2.0,4.0,7th Gen A12-9800 APU,A12-Series APU for Desktops,2,4.0,
+28,2.8,25,900,Q216,3.5,45,2.0,4.0,7th Gen A12-9730P APU,A12-Series APU for Laptops,2,4.0,
+28,2.5,12,758,Q216,3.4,15,2.0,4.0,7th Gen A12-9700P APU,A12-Series APU for Laptops,2,4.0,
+28,3.1,35,900,10/3/2016,3.8,35,2.0,4.0,7th Gen  PRO A12-9800E APU,PRO A-Series A12 APU for Desktops,2,4.0,
+28,3.8,65,1108,10/3/2016,4.2,65,2.0,4.0,7th Gen  PRO A12-9800 APU,PRO A-Series A12 APU for Desktops,2,4.0,
+28,2.9,35,900,,3.8,35,2.0,4.0,6th Gen  PRO A12-8870E APU,PRO A-Series A12 APU for Desktops,2,4.0,
+28,3.7,65,1108,3Q 2016,4.2,65,2.0,4.0,6th Gen  PRO A12-8870 APU,PRO A-Series A12 APU for Desktops,2,4.0,
+28,3.0,25,900,10/24/2016,3.7,45,2.0,4.0,7th Gen  PRO A12-9830B APU,PRO A-Series A12 APU for Laptops,2,4.0,
+28,2.7,12,758,10/24/2016,3.6,15,2.0,4.0,7th Gen  PRO A12-9800B APU,PRO A-Series A12 APU for Laptops,2,4.0,
+28,2.5,12,758,Q3 2016,3.4,15,,4.0,6th Gen  PRO A12-8830B APU,PRO A-Series A12 APU for Laptops,2,4.0,
+28,2.1,15,800,,3.4,15,2.0,3.0,6th Gen  PRO A12-8800B APU,PRO A-Series A12 APU for Laptops,2,4.0,4.0
+28,3.0,35,847,9/5/2016,3.5,35,3.0,4.0,7th Gen A10-9700E APU,A10-Series APU for Desktops,2,4.0,
+28,3.5,45,1029,"Channel: 7/27/2017, OEM: 9/5/2016",3.8,65,2.0,4.0,7th Gen A10-9700 APU,A10-Series APU for Desktops,2,4.0,
+28,4.1,95,866,,4.3,95,2.0,3.0,A10-7890K with Radeon R7 Graphics and Wraith cooler,A10-Series APU for Desktops,4,4.0,
+28,3.9,95,866,,4.1,95,2.0,3.0,A10-7870K with Radeon R7 Series,A10-Series APU for Desktops,4,4.0,4.0
+28,3.9,95,866,,4.1,95,2.0,3.0,A10-7870K with Radeon R7 Graphics and Near Silent Thermal Solution,A10-Series APU for Desktops,4,4.0,
+28,3.6,45,757,,4.0,65,2.0,3.0,A10-7860K with Radeon R7 Series,A10-Series APU for Desktops,4,4.0,4.0
+28,3.6,45,757,,4.0,65,2.0,3.0,A10-7860K with Radeon R7 Graphics and Near Silent Thermal Solution,A10-Series APU for Desktops,4,4.0,4.0
+28,3.7,95,720,,4.0,95,2.0,3.0,A10-7850K with Radeon R7 Series,A10-Series APU for Desktops,4,4.0,4.0
+28,3.5,45,720,,3.9,65,2.0,3.0,A10-7800 with Radeon R7 Series,A10-Series APU for Desktops,4,4.0,4.0
+28,3.4,45,720,,3.8,65,2.0,3.0,A10-7700K with Radeon R7 Series,A10-Series APU for Desktops,4,4.0,4.0
+32,4.1,100,844,,4.4,100,2.0,3.0,A10-6800K with Radeon HD 8670D,A10-Series APU for Desktops,4,4.0,4.0
+32,4.0,100,844,,4.3,100,2.0,3.0,A10-6790K with Radeon HD 8670D,A10-Series APU for Desktops,4,4.0,4.0
+32,2.5,45,720,,3.5,45,2.0,3.0,A10-6700T with Radeon HD 8650D,A10-Series APU for Desktops,4,4.0,4.0
+32,3.7,65,844,,4.3,65,2.0,3.0,A10-6700 with Radeon HD 8670D,A10-Series APU for Desktops,4,4.0,4.0
+28,2.6,25,800,Q216,3.3,45,2.0,4.0,7th Gen A10-9630P APU,A10-Series APU for Laptops,2,4.0,
+28,2.4,12,720,Q216,3.3,15,2.0,4.0,7th Gen A10-9600P APU,A10-Series APU for Laptops,2,4.0,
+28,1.8,15,800,,3.2,15,2.0,3.0,6th Gen A10-8700P APU,A10-Series APU for Laptops,2,4.0,4.0
+28,2.5,35,654,,3.4,35,2.0,3.0,A10-7400P with Radeon R6 Graphics,A10-Series APU for Laptops,4,4.0,4.0
+28,1.9,20,553,,3.2,20,2.0,,A10-7300 with Radeon R6 Graphics,A10-Series APU for Laptops,4,4.0,4.0
+28,2.2,4,0,,0.0,4,1.0,3.0,A10 Micro-6700T with Radeon R6 Graphics,A10-Series APU for Laptops,2,4.0,4.0
+28,1.8,0,800,,3.2,0,2.0,3.0,A10-8700P with Radeon R6 Graphics,A10-Series APU for AIOs,2,4.0,4.0
+28,3.0,35,847,10/3/2016,3.5,35,2.0,4.0,7th Gen  PRO A10-9700E APU,PRO A-Series A10 APU for Desktops,2,4.0,
+28,3.5,45,1029,10/3/2016,3.8,65,2.0,4.0,7th Gen  PRO A10-9700 APU,PRO A-Series A10 APU for Desktops,2,4.0,
+28,3.9,95,800,,4.1,95,2.0,3.0,6th Gen  PRO A10-8850B APU,PRO A-Series A10 APU for Desktops,4,4.0,4.0
+28,2.8,35,847,3Q 2016,3.5,35,2.0,4.0,6th Gen  PRO A10-8770E APU,PRO A-Series A10 APU for Desktops,2,4.0,
+28,3.5,65,1029,3Q 2016,3.8,65,2.0,4.0,6th Gen  PRO A10-8770 APU,PRO A-Series A10 APU for Desktops,2,4.0,
+28,3.6,45,757,,4.0,65,2.0,3.0,6th Gen  PRO A10-8750B APU,PRO A-Series A10 APU for Desktops,4,4.0,4.0
+28,3.7,95,720,,4.0,95,2.0,3.0,A10 PRO-7850B with Radeon R7 Graphics,PRO A-Series A10 APU for Desktops,4,4.0,4.0
+28,3.5,35,720,,3.9,65,2.0,3.0,A10 PRO-7800B with Radeon R7 Graphics,PRO A-Series A10 APU for Desktops,4,4.0,4.0
+28,2.8,25,900,10/24/2016,3.5,45,2.0,4.0,7th Gen  PRO A10-9730B APU,PRO A-Series A10 APU for Laptops,2,4.0,
+28,2.5,12,758,10/24/2016,3.4,15,2.0,4.0,7th Gen  PRO A10-9700B APU,PRO A-Series A10 APU for Laptops,2,4.0,
+28,2.4,12,720,Q3 2016,3.3,15,,4.0,6th Gen  PRO A10-8730B APU,PRO A-Series A10 APU for Laptops,2,4.0,
+28,1.8,15,800,,3.2,15,2.0,3.0,6th Gen  PRO A10-8700B APU,PRO A-Series A10 APU for Laptops,2,4.0,4.0
+28,2.1,19,553,,3.3,19,2.0,3.0,A10 PRO-7350B with Radeon R6 Graphics,PRO A-Series A10 APU for Laptops,4,4.0,4.0
+32,4.1,45,844,,4.4,45,2.0,3.0,A10-6800B with Radeon HD 8670D,Business Class - Quad-Core A10-Series APU for Desktops,4,4.0,4.0
+32,4.0,45,844,,4.3,45,2.0,3.0,A10-6790B with Radeon HD 8670D,Business Class - Quad-Core A10-Series APU for Desktops,4,4.0,4.0
+28,3.1,10,900,2Q18,3.7,15,1.0,4.0,7th Gen A9-9425 APU,A9-Series APU for Laptops,1,2.0,
+28,3.0,10,847,Q217,3.6,15,,4.0,7th Gen A9-9420 APU,A9-Series APU for Laptops,1,2.0,
+28,2.9,10,800,Q216,3.5,10,1.0,4.0,7th Gen A9-9410 APU,A9-Series APU for Laptops,1,2.0,
+28,3.1,45,900,"Channel: 7/27/2017, OEM: 9/5/2016",3.4,65,2.0,4.0,7th Gen A8-9600 APU,A8-Series APU for Desktops,2,4.0,
+28,3.6,95,757,,3.9,95,2.0,3.0,A8-7670K with Radeon R7 Graphics and Near Silent Thermal Solution,A8-Series APU for Desktops,4,4.0,4.0
+28,3.3,95,720,,3.8,95,2.0,3.0,A8-7650K with Radeon R7 Series,A8-Series APU for Desktops,4,4.0,4.0
+28,3.3,95,720,,3.8,95,2.0,3.0,A8-7650K with Radeon R7 Graphics and Near Silent Thermal Solution,A8-Series APU for Desktops,4,4.0,4.0
+28,3.1,45,720,,3.8,65,2.0,3.0,A8-7600 with Radeon R7 Series,A8-Series APU for Desktops,4,4.0,4.0
+32,3.9,65,844,,4.2,65,2.0,3.0,A8-6600K with Radeon HD 8570D,A8-Series APU for Desktops,4,4.0,4.0
+32,2.1,45,720,,3.1,45,2.0,3.0,A8-6500T with Radeon HD 8550D,A8-Series APU for Desktops,4,4.0,4.0
+32,3.5,65,800,,4.1,65,2.0,3.0,A8-6500 with Radeon HD 8570D,A8-Series APU for Desktops,4,4.0,4.0
+28,1.6,15,720,,3.0,15,2.0,3.0,6th Gen A8-8600P APU,A8-Series APU for Laptops,2,4.0,4.0
+28,2.2,15,847,,2.5,15,1.0,3.0,A8-7410 with Radeon R5 Graphics,A8-Series APU for Laptops,2,4.0,4.0
+28,2.4,100,626,,3.3,100,2.0,3.0,A8-7200P with Radeon R5 Graphics,A8-Series APU for Laptops,4,4.0,4.0
+28,1.8,20,514,,3.0,20,2.0,3.0,A8-7100 with Radeon R5 Graphics,A8-Series APU for Laptops,4,4.0,4.0
+28,1.6,0,720,,3.0,0,2.0,3.0,A8-8600P with Radeon R6 Graphics,A8-Series APU for AIOs,2,4.0,4.0
+28,2.0,15,847,,2.4,15,1.0,3.0,A8-6410 with Radeon R5 Graphics,A8-Series APU for Laptops,2,4.0,4.0
+28,3.1,45,900,10/3/2016,3.4,65,2.0,4.0,7th Gen  PRO A8-9600 APU,PRO A-Series A8 APU for Desktops,2,4.0,
+28,3.2,45,757,,3.9,65,2.0,3.0,6th Gen  PRO A8-8650B APU,PRO A-Series A8 APU for Desktops,4,4.0,4.0
+28,3.1,35,720,,3.8,65,2.0,3.0,A8 PRO-7600B with Radeon R7 Graphics,PRO A-Series A8 APU for Desktops,4,4.0,4.0
+28,2.6,25,800,10/24/2016,3.3,45,2.0,4.0,7th Gen  PRO A8-9630B,PRO A-Series A8 APU for Laptops,2,4.0,
+28,2.4,12,720,10/24/2016,3.3,15,2.0,4.0,7th Gen  PRO A8-9600B APU,PRO A-Series A8 APU for Laptops,2,4.0,
+28,1.6,15,720,,3.0,15,2.0,3.0,6th Gen  PRO A8-8600B APU,PRO A-Series A8 APU for Laptops,2,4.0,4.0
+28,1.9,100,533,,3.2,100,2.0,3.0,A8 PRO-7150B with Radeon R5 Graphics,PRO A-Series A8 APU for Laptops,4,4.0,4.0
+32,3.5,65,800,,4.1,65,2.0,3.0,A8-6500B with Radeon HD 8570D,Business Class - Quad-Core A8-Series APU for Desktops,4,4.0,4.0
+28,3.8,45,1029,7/27/2017,4.0,65,2.0,4.0,7th Gen A6-9550 APU,A6-Series APU for Desktops,1,2.0,
+28,3.0,35,800,"Channel: 7/27/2017, OEM: 9/5/2016",3.4,35,2.0,4.0,7th Gen A6-9500E APU,A6-Series APU for Desktops,1,2.0,
+28,3.5,45,1029,"Channel: 7/27/2017, OEM: 9/5/2016",3.8,65,2.0,4.0,7th Gen A6-9500 APU,A6-Series APU for Desktops,1,2.0,
+28,3.7,45,800,,4.0,65,2.0,3.0,A6-7470K with Radeon R5 Series,A6-Series APU for Desktops,1,2.0,
+28,3.5,45,758,,3.9,65,2.0,3.0,A6-7400K with Radeon R5 Series,A6-Series APU for Desktops,1,2.0,2.0
+32,4.0,65,800,,4.2,65,2.0,3.0,A6-6420K with Radeon HD 8470D,A6-Series APU for Desktops,1,2.0,2.0
+32,3.9,65,800,,4.1,65,2.0,3.0,A6-6400K with Radeon HD 8470D,A6-Series APU for Desktops,1,2.0,2.0
+28,2.4,15,800,,2.4,15,1.0,3.0,A6-6310 with Radeon R4 Graphics,A6-Series APU for Laptops,2,4.0,4.0
+28,2.0,25,600,,0.0,25,1.0,3.0,A6-5200 with Radeon HD 8400,A6-Series APU for Desktops,2,4.0,4.0
+28,2.6,10,686,2Q18,3.1,15,1.0,4.0,7th Gen A6-9225 APU,A6-Series APU for Laptops,1,2.0,
+28,1.8,6,720,,2.7,6,1.0,0.0,7th Gen A6-9220C APU,A6-Series APU for Laptops,1,2.0,2.0
+28,2.5,10,655,Q217,2.9,15,,4.0,7th Gen A6-9220 APU,A6-Series APU for Laptops,1,2.0,
+28,2.4,15,600,Q216,2.8,15,1.0,4.0,7th Gen A6-9210 APU,A6-Series APU for Laptops,1,2.0,
+28,2.2,17,533,,3.0,17,2.0,,A6-7000 with Radeon R4 Graphics,A6-Series APU for Laptops,1,2.0,2.0
+32,2.9,35,533,,3.5,35,2.0,3.0,A6-5350M with Radeon HD 8450G,A6-Series APU for Laptops,2,2.0,2.0
+28,2.0,25,0,,0.0,25,1.0,,A6-5200M with Radeon HD 8400,A6-Series APU for Laptops,2,4.0,4.0
+28,1.6,15,800,,3.0,15,2.0,,A6-8500P with Radeon R5 Graphics,A6-Series APU for Laptops,1,2.0,2.0
+28,2.0,15,800,,2.4,15,1.0,3.0,A6-7310 with Radeon R4 Graphics,A6-Series APU for Laptops,2,4.0,4.0
+28,3.0,35,800,10/3/2016,3.4,35,2.0,4.0,7th Gen  PRO A6-9500E APU,PRO A-Series A6 APU for Desktops,1,2.0,
+28,3.5,45,1029,10/3/2016,3.8,65,2.0,4.0,7th Gen  PRO A6-9500 APU,PRO A-Series A6 APU for Desktops,1,2.0,
+28,3.0,35,800,,3.4,35,2.0,4.0,6th Gen  PRO A6-8570E APU,PRO A-Series A6 APU for Desktops,1,2.0,
+28,3.5,65,1029,,3.8,65,2.0,4.0,6th Gen  PRO A6-8570 APU,PRO A-Series A6 APU for Desktops,1,2.0,
+28,3.7,45,800,,4.0,65,2.0,3.0,6th Gen  PRO A6-8550B APU,PRO A-Series A6 APU for Desktops,1,2.0,2.0
+28,3.5,35,756,,3.9,65,2.0,3.0,A6 PRO-7400B with Radeon R5 Graphics,PRO A-Series A6 APU for Desktops,1,2.0,2.0
+28,2.3,12,800,10/24/2016,3.2,15,2.0,4.0,7th Gen  PRO A6-9500B APU,PRO A-Series A6 APU for Laptops,1,2.0,
+28,3.1,10,0,Q1 2020,3.7,15,1.0,4.0,7th Gen  PRO A6-8350B APU,PRO A-Series A6 APU for Laptops,1,2.0,
+28,3.0,15,0,Q1 2018,3.6,15,1.0,4.0,7th Gen  PRO A6-7350B APU,PRO A-Series A6 APU for Laptops,1,2.0,
+28,2.3,12,800,Q3 2016,3.2,15,,4.0,6th Gen  PRO A6-8530B APU,PRO A-Series A6 APU for Laptops,1,2.0,
+28,1.6,15,800,,3.0,15,2.0,3.0,6th Gen  PRO A6-8500B APU,PRO A-Series A6 APU for Laptops,1,2.0,4.0
+28,2.2,100,533,,3.0,100,2.0,3.0,A6 PRO-7050B with Radeon R4 Graphics,PRO A-Series A6 APU for Laptops,1,2.0,2.0
+32,4.0,65,800,,4.2,65,2.0,3.0,A6-6420B with Radeon HD 8470D,Business Class - Dual-Core A6-Series APU for Desktops,1,2.0,2.0
+32,3.9,65,800,,4.1,65,2.0,3.0,A6-6400B with Radeon HD 8470D,Business Class - Dual-Core A6-Series APU for Desktops,1,2.0,2.0
+32,3.8,65,800,,4.0,65,2.0,3.0,A4-7300 with Radeon HD 8470D,A4-Series APU for Desktops,1,2.0,2.0
+32,3.8,65,760,,4.0,65,2.0,3.0,A4-6320 with Radeon HD 8370D,A4-Series APU for Desktops,1,2.0,2.0
+32,3.7,65,760,,3.9,65,2.0,3.0,A4-6300 with Radeon HD 8370D,A4-Series APU for Desktops,1,2.0,2.0
+28,2.3,10,686,2Q18,2.6,15,1.0,0.0,7th Gen A4-9125 APU,A4-Series APU for Laptops,1,2.0,
+28,1.6,6,600,,2.4,6,1.0,0.0,7th Gen A4-9120C APU,A4-Series APU for Laptops,1,2.0,2.0
+28,2.2,10,655,Q217,2.5,15,,4.0,7th Gen A4-9120 APU,A4-Series APU for Laptops,1,2.0,
+28,1.8,65,686,,2.2,65,1.0,3.0,A4-7210 with Radeon R3 Graphics,A4-Series APU for Laptops,2,4.0,4.0
+28,1.6,4,0,,0.0,4,1.0,3.0,A4 Micro-6400T with Radeon R3 Graphics,A4-Series APU for Laptops,2,4.0,4.0
+28,1.8,15,600,,0.0,15,1.0,3.0,A4-6210 with Radeon R3 Graphics,A4-Series APU for Laptops,2,4.0,4.0
+28,1.55,15,500,,0.0,15,1.0,,A4-5100 with Radeon HD 8330,A4-Series APU for Laptops,2,4.0,4.0
+28,1.5,15,500,,0.0,15,1.0,,A4-5000 with Radeon HD 8330,A4-Series APU for Laptops,2,4.0,4.0
+28,3.5,45,757,,3.9,65,2.0,3.0,6th Gen  PRO A4-8350B APU,PRO A-Series A4 APU for Desktops,1,2.0,2.0
+28,3.4,35,514,,3.8,65,2.0,3.0,A4 PRO-7350B with Radeon R5 Graphics,PRO A-Series A4 APU for Desktops,1,2.0,2.0
+32,3.8,65,800,,4.0,65,2.0,3.0,A4 PRO-7300B with Radeon HD 8470D,PRO A-Series A4 APU for Desktops,1,2.0,2.0
+28,3.0,10,0,Q1 2020,3.6,15,1.0,4.0,7th Gen  PRO A4-5350B APU,PRO A-Series A4 APU for Laptops,1,2.0,
+28,2.5,15,0,Q1 2018,2.9,15,1.0,4.0,7th Gen  PRO A4-4350B APU,PRO A-Series A4 APU for Laptops,1,2.0,
+28,2.0,15,800,Q2 2016,2.4,15,1.0,3.0,A4 PRO-3350B with Radeon R4 Graphics,PRO A-Series A4 APU for Laptops,2,4.0,4.0
+28,2.2,25,400,,0.0,25,1.0,3.0,A4 PRO-3340B with Radeon HD 8240 Graphics,PRO A-Series A4 APU for Laptops,2,4.0,4.0
+28,2.2,25,600,,0.0,25,1.0,3.0,Athlon 5370 APU with Radeon R3 Series,Athlon 5000 Series,2,4.0,4.0
+28,2.05,25,600,,0.0,25,1.0,3.0,Athlon 5350 APU with Radeon R3 Series,Athlon 5000 Series,2,4.0,4.0
+28,1.6,25,600,,0.0,25,1.0,3.0,Athlon 5150 APU with Radeon R3 Series,Athlon 5000 Series,2,4.0,4.0
+28,1.3,25,450,,0.0,25,1.0,3.0,Sempron 3850 APU with Radeon R3 Series,Sempron Quad-Core APU,2,4.0,4.0
+28,1.45,25,400,,0.0,25,1.0,3.0,Sempron 2650 APU with Radeon R3 Series,Sempron Dual-Core APU,1,2.0,2.0
+28,2.0,10,600,Q217,2.2,15,,4.0,7th Gen E2-9010 APU,E2-Series APU for Laptops,1,2.0,
+28,1.5,15,0,,0.0,15,1.0,3.0,E2-6110 with Radeon R2 Graphics,E2-Series APU for Laptops,2,4.0,4.0
+28,1.3,15,450,,0.0,15,1.0,3.0,E2-3800 with Radeon HD 8280,E2-Series APU for Laptops,2,4.0,4.0
+28,1.65,15,0,,0.0,15,1.0,,E2-3000 with Radeon HD 8280,E2-Series APU for Laptops,1,2.0,2.0
+28,1.8,65,600,,1.8,65,1.0,3.0,E2-7110 with Radeon R2 Graphics,E2-Series APU for Laptops,2,4.0,4.0
+28,1.5,10,400,,1.5,10,1.0,3.0,E1-7010 with Radeon R2 Graphics,E1-Series APU for Laptops,1,2.0,2.0
+28,1.4,3,0,,0.0,3,1.0,,E1 Micro-6200T with Radeon R2 Graphics,E1-Series APU for Laptops,1,2.0,2.0
+28,1.35,10,0,,0.0,10,1.0,,E1-6010 with Radeon R2 Graphics,E1-Series APU for Laptops,1,2.0,2.0
+28,1.4,15,0,,0.0,15,1.0,,E1-2500 with Radeon HD 8240,E1-Series APU for Laptops,1,2.0,2.0
+28,1.0,9,0,,0.0,9,1.0,,E1-2200 with Radeon HD 8210,E1-Series APU for Laptops,1,2.0,2.0
+28,1.0,9,0,,0.0,9,1.0,,E1-2100 with Radeon HD 8210,E1-Series APU for Laptops,1,2.0,2.0
+28,3.8,65,0,7/27/2017,4.0,65,,4.0,7th Gen  Athlon X4 970,Athlon X4,2,4.0,4.0
+28,3.5,45,0,7/27/2017,3.8,65,,4.0,7th Gen  Athlon X4 950,Athlon X4,2,4.0,4.0
+28,3.2,45,0,7/27/2017,3.6,65,,4.0,7th Gen  Athlon X4 940,Athlon X4,2,4.0,4.0
+28,4.0,95,0,,4.2,95,2.0,3.0,880K with Near Silent Thermal Solution,Athlon X4,4,4.0,
+28,3.9,95,0,,4.1,95,2.0,3.0,870K with Near Silent Thermal Solution,Athlon X4,4,4.0,4.0
+28,3.7,95,0,,4.0,95,2.0,3.0,860K with Near Silent Thermal Solution,Athlon X4,4,4.0,4.0
+28,3.7,95,0,,4.0,95,2.0,3.0,Athlon 860K,Athlon X4,4,4.0,4.0
+28,3.5,0,0,,3.8,0,2.0,3.0,845 with Near Silent Thermal Solution,Athlon X4,2,4.0,4.0
+32,3.8,100,0,,4.1,100,,,Athlon 760K,Athlon X4,4,4.0,4.0
+32,3.4,100,0,,4.0,100,,,Athlon 750K,Athlon X4,4,4.0,4.0
+0,3.4,65,0,,4.0,65,2.0,3.0,Athlon 750,Athlon X4,4,4.0,
+32,3.2,65,0,,3.7,65,,,Athlon 740,Athlon X4,4,4.0,4.0
+32,2.8,100,0,,0.0,100,,,Athlon 641,Athlon II X4,4,4.0,4.0
+32,2.7,65,0,,0.0,65,,,Athlon 638,Athlon II X4,4,4.0,4.0
+32,2.6,65,0,,0.0,65,,,Athlon 631 (65W),Athlon II X4,4,4.0,4.0
+32,2.6,100,0,,0.0,100,,,Athlon 631,Athlon II X4,4,4.0,4.0
+0,2.7,45,0,,0.0,45,,3.0,Athlon 620e,Athlon II X4,0,4.0,4.0
+0,3.4,95,0,,0.0,95,,3.0,Athlon 460,Athlon II X3,1,3.0,3.0
+0,2.7,45,0,,0.0,45,,3.0,Athlon 425e,Athlon II X3,1,3.0,3.0
+0,3.1,45,0,,0.0,45,,3.0,Athlon 255e,Athlon II X2,2,2.0,2.0
+0,3.5,95,0,,0.0,95,,3.0,Phenom II 1075T,Phenom™ II X6,9,6.0,6.0
+0,2.7,95,0,,3.2,95,,,Phenom II 1045T,Phenom™ II X6,9,,
+0,3.7,125,0,,0.0,125,,3.0,Phenom II 980,Phenom™ II X4 Black,8,4.0,4.0
+45,3.6,125,0,,0.0,125,,3.0,Phenom II 975,Phenom™ II X4 Black,8,4.0,4.0
+0,3.4,80,0,,0.0,80,,,Phenom II 965,Phenom™ II X4 Black,2,4.0,4.0
+0,3.0,95,0,,3.4,95,,,Phenom II 960T,Phenom™ II X4 Black,512,4.0,4.0
+0,3.3,95,0,,0.0,95,,,Phenom II 850,Phenom™ II X4,2,4.0,4.0
+0,3.2,95,0,,0.0,95,,3.0,Phenom II 840,Phenom™ II X4,2,4.0,4.0
+0,4.0,80,0,,0.0,80,,3.0,Phenom II 570,Phenom™ II X2 Black,6,2.0,2.0
+0,3.2,80,0,,0.0,80,,,Phenom II 555,Phenom™ II X2 Black,1,2.0,2.0
+45,3.4,80,0,,0.0,80,,,Phenom II 565,Phenom™ II X2 Black,7,2.0,2.0
+0,2.4,45,0,,0.0,45,,3.0,X940,Phenom™ II Black Edition Quad-Core Mobile Processors,2,4.0,4.0
+0,2.2,35,0,,0.0,35,,3.0,N970,Phenom™ II Quad-Core Mobile Processors,2,4.0,4.0
+0,1.8,35,0,,0.0,35,,3.0,N960,Phenom™ II Quad-Core Mobile Processors,2,4.0,4.0
+0,2.3,35,0,,0.0,35,,3.0,N870,Phenom™ II Triple-Core Mobile Processors,1,3.0,3.0
+0,2.0,35,0,,0.0,35,,3.0,P860,Phenom™ II Triple-Core Mobile Processors,1,3.0,3.0
+0,3.0,35,0,,0.0,35,,3.0,N660,Phenom™ II Dual-Core Mobile Processors,2,2.0,2.0
+0,2.6,35,0,,0.0,35,,3.0,P650,Phenom™ II Dual-Core Mobile Processors,2,2.0,2.0
+0,2.8,35,0,,0.0,35,,,N640,Phenom™ II Dual-Core Mobile Processors,2,2.0,2.0
+0,3.3,95,0,,0.0,95,,,B99,Business Class - AMD Phenom™ X4 Quad-Core,2,4.0,4.0
+0,3.2,95,0,,0.0,95,,,B97,Business Class - AMD Phenom™ X4 Quad-Core,2,4.0,4.0
+0,3.0,95,0,,0.0,95,,,B95,Business Class - AMD Phenom™ X4 Quad-Core,2,,
+0,3.2,95,0,,0.0,95,,,B77,Business Class - AMD Phenom™ X3 Triple-Core,1,3.0,3.0
+0,3.0,95,0,,0.0,95,,,B75,Business Class - AMD Phenom™ X3 Triple-Core,1,3.0,3.0
+0,3.5,80,0,,0.0,80,,,B60,Business Class - AMD Phenom™ X2 Dual-Core,1,2.0,2.0
+0,3.4,80,0,,0.0,80,,,B59,Business Class - AMD Phenom™ X2 Dual-Core,1,2.0,2.0
+0,3.2,80,0,,0.0,80,,,B57,Business Class - AMD Phenom™ X2 Dual-Core,1,2.0,2.0

@@ -1,12 +1,12 @@
-from Crawler.hacom_crawler import Handler
+from Crawler.hacom_crawler_lap import Handler
 import asyncio,json
 
 async def main():
     test = Handler()
     await test.init()
-    result = await test.process()
+    await test.process()
     
-    await asyncio.sleep(10)
+    await asyncio.sleep(5)
     
     await test.close()
     
