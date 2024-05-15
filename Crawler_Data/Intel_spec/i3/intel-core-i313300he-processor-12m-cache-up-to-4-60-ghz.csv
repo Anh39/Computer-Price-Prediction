@@ -1,0 +1,100 @@
+﻿UPE | Compare Intel® Products
+05/06/2024 11:03:51 AM
+,Intel® Core™ i3-13300HE Processor (12M Cache- up to 4.60 GHz)
+
+Essentials
+Product Collection,13th Generation Intel® Core™ i3 Processors
+Code Name,Products formerly Raptor Lake
+Vertical Segment,Embedded
+Processor Number,i3-13300HE
+Lithography,Intel 7
+Recommended Customer Price,$312.00
+
+CPU Specifications
+Total Cores,8
+# of Performance-cores,4
+# of Efficient-cores,4
+Total Threads,12
+Max Turbo Frequency,4.6 GHz
+Performance-core Max Turbo Frequency,4.6 GHz
+Efficient-core Max Turbo Frequency,3.4 GHz
+Processor Base Frequency,2.1 GHz
+Cache,12 MB Intel® Smart Cache
+Processor Base Power,45 W
+Maximum Turbo Power,115 W
+TDP,45 W
+Minimum Assured Power,35 W
+Minimum Assured Frequency,1.20 GHz
+Maximum Assured Power,65 W
+Maximum Assured Frequency,2.60 GHz
+
+Supplemental Information
+Marketing Status,Launched
+Launch Date,Q1'23
+Embedded Options Available,Yes
+Use Conditions,Embedded Broad Market Commercial Temp
+
+Memory Specifications
+Max Memory Size (dependent on memory type),96 GB
+Memory Types,Up to DDR5 5200 MT/s Up to DDR4 3200 MT/s Up to LPDDR5/x 5200 MT/s Up to LPDDR4x 4267 MT/s
+Max # of Memory Channels,2
+ECC Memory Supported   ‡,No
+
+GPU Specifications
+GPU Name‡,Intel® UHD Graphics for 13th Gen Intel® Processors
+Graphics Max Dynamic Frequency,1.3 GHz
+Graphics Output,eDP 1.4b |  DP 1.4a |  HDMI 2.1
+Execution Units,48
+Max Resolution (HDMI)‡,4096 x 2304 @ 60Hz
+Max Resolution (DP)‡,7680 x 4320 @ 60Hz
+Max Resolution (eDP - Integrated Flat Panel)‡,4096 x 2304 @ 120Hz
+DirectX* Support,12.1
+OpenGL* Support,4.6
+OpenCL* Support,3.0
+Multi-Format Codec Engines,1
+Intel® Quick Sync Video,Yes
+# of Displays Supported ‡,4
+Device ID,0xA7A8
+
+Expansion Options
+Intel® Thunderbolt™ 4,Yes
+Microprocessor PCIe Revision,Gen 5
+Chipset / PCH PCIe Revision,Gen 3
+Max # of PCI Express Lanes,28
+
+Package Specifications
+Sockets Supported,FCBGA1744
+Max CPU Configuration,1
+TJUNCTION,100°C
+Package Size,50 mm x 25 mm
+Max Operating Temperature,100 °C
+
+Advanced Technologies
+Intel® Gaussian & Neural Accelerator,3.0
+Intel® Thread Director,Yes
+Intel® Image Processing Unit,6.0
+Intel® Smart Sound Technology,Yes
+Intel® Wake on Voice,Yes
+Intel® High Definition Audio,Yes
+MIPI SoundWire*,1.2
+Intel® Deep Learning Boost (Intel® DL Boost) on CPU,Yes
+Intel® Speed Shift Technology,Yes
+Intel® Hyper-Threading Technology ‡,Yes
+Instruction Set Extensions,Intel® SSE4.1 |  Intel® SSE4.2 |  Intel® AVX2
+Thermal Monitoring Technologies,Yes
+Intel® Flex Memory Access,Yes
+Intel® Volume Management Device (VMD),Yes
+
+Security & Reliability
+Intel® Threat Detection Technology (TDT),Yes
+Intel® Control-Flow Enforcement Technology,Yes
+Intel® AES New Instructions,Yes
+Secure Key,Yes
+Intel® OS Guard,Yes
+Execute Disable Bit ‡,Yes
+Intel® Boot Guard,Yes
+Mode-based Execute Control (MBEC),Yes
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes
+Intel® VT-x with Extended Page Tables (EPT) ‡,Yes
+Link,https://www.intel.com/content/www/us/en/products/sku/232151/intel-core-i313300he-processor-12m-cache-up-to-4-60-ghz/specifications.html

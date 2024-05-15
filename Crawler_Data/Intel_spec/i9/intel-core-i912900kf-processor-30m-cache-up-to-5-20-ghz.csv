@@ -1,0 +1,87 @@
+﻿UPE | Compare Intel® Products
+05/06/2024 10:40:03 AM
+,Intel® Core™ i9-12900KF Processor (30M Cache- up to 5.20 GHz)
+
+Essentials
+Product Collection,12th Generation Intel® Core™ i9 Processors
+Code Name,Products formerly Alder Lake
+Vertical Segment,Desktop
+Processor Number,i9-12900KF
+Lithography,Intel 7
+Recommended Customer Price,$620.00-$630.00
+
+CPU Specifications
+Total Cores,16
+# of Performance-cores,8
+# of Efficient-cores,8
+Total Threads,24
+Max Turbo Frequency,5.20 GHz
+Intel® Turbo Boost Max Technology 3.0 Frequency ‡,5.20 GHz
+Performance-core Max Turbo Frequency,5.10 GHz
+Efficient-core Max Turbo Frequency,3.90 GHz
+Performance-core Base Frequency,3.20 GHz
+Efficient-core Base Frequency,2.40 GHz
+Cache,30 MB Intel® Smart Cache
+Total L2 Cache,14 MB
+Processor Base Power,125 W
+Maximum Turbo Power,241 W
+
+Supplemental Information
+Marketing Status,Launched
+Launch Date,Q4'21
+Embedded Options Available,No
+Use Conditions,PC/Client/Tablet
+Datasheet,View now
+
+Memory Specifications
+Max Memory Size (dependent on memory type),128 GB
+Memory Types,Up to DDR5 4800 MT/s Up to DDR4 3200 MT/s
+Max # of Memory Channels,2
+Max Memory Bandwidth,76.8 GB/s
+
+Expansion Options
+Direct Media Interface (DMI) Revision,4.0
+Max # of DMI Lanes,8
+Scalability,1S Only
+PCI Express Revision,5.0 and 4.0
+PCI Express Configurations ‡,Up to 1x16+4 |  2x8+4
+Max # of PCI Express Lanes,20
+
+Package Specifications
+Sockets Supported,FCLGA1700
+Max CPU Configuration,1
+Thermal Solution Specification,PCG 2020A
+TJUNCTION,100°C
+Package Size,45.0 mm x 37.5 mm
+Max Operating Temperature,100 °C
+
+Advanced Technologies
+Intel® Gaussian & Neural Accelerator,3.0
+Intel® Thread Director,Yes
+Intel® Deep Learning Boost (Intel® DL Boost) on CPU,Yes
+Intel® Optane™ Memory Supported ‡,Yes
+Intel® Speed Shift Technology,Yes
+Intel® Turbo Boost Max Technology 3.0 ‡,Yes
+Intel® Turbo Boost Technology ‡,2.0
+Intel® Hyper-Threading Technology ‡,Yes
+Intel® 64 ‡,Yes
+Instruction Set,64-bit
+Instruction Set Extensions,Intel® SSE4.1 |  Intel® SSE4.2 |  Intel® AVX2
+Idle States,Yes
+Enhanced Intel SpeedStep® Technology,Yes
+Thermal Monitoring Technologies,Yes
+Intel® Volume Management Device (VMD),Yes
+
+Security & Reliability
+Intel® Standard Manageability (ISM) ‡,Yes
+Intel® Control-Flow Enforcement Technology,Yes
+Intel® AES New Instructions,Yes
+Secure Key,Yes
+Intel® OS Guard,Yes
+Execute Disable Bit ‡,Yes
+Intel® Boot Guard,Yes
+Mode-based Execute Control (MBEC),Yes
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes
+Intel® VT-x with Extended Page Tables (EPT) ‡,Yes
+Link,https://www.intel.com/content/www/us/en/products/sku/134600/intel-core-i912900kf-processor-30m-cache-up-to-5-20-ghz/specifications.html

@@ -6,7 +6,13 @@ from Cleaner.lap.preprocessor_support import *
 
 result_category = []
 
-raw_datas = read_folders([folder_path.hacom.lap_common,folder_path.hacom.lap_game])
+raw_datas = read_folders([
+    folder_path.hacom.lap_common,
+    folder_path.hacom.lap_game,
+    folder_path.anphat.lap_common,
+    folder_path.anphat.lap_game,
+    folder_path.fpt.lap
+])
 
 def extract_number(input_str):
     if (type(input_str) == int):
@@ -69,9 +75,13 @@ def three_colum_format(raw_data_infos,warranty):
             new_data_info[1] = 1
             new_data_info[2] = warranty
             raw_data_infos[i] = new_data_info
-    if (len(raw_data_infos[0]) != 3):
-        print(max_len(raw_data_infos))
-        raise Exception
+    if (raw_data_infos != [] and len(raw_data_infos[0]) != 3):
+        if (len(raw_data_infos[0]) == 1):
+            for i in range(len(raw_data_infos)):
+                raw_data_infos[i].append(1)
+                raw_data_infos[i].append(warranty)
+        else:
+            raise Exception
     return raw_data_infos
 
             
@@ -94,6 +104,7 @@ def process(raw_data):
         result = info_format(raw_data['Detail Info'],raw_data['Info'],result_category)
         result['Price'] = raw_data['Price']
         result['Link'] = raw_data['Link']
+        result['Warrant'] = extract_number(raw_data['Warrant'])
         result.update(cpu_result)
         result.update(additional_info)
         return result
@@ -109,14 +120,12 @@ cols = ['Price','Link',
         'Storage','Storage Type',
         'GPU Name','GPU VRAM','IGPU Cloock',
         'Display Type','Display Size','Display Resolution','Display Frequency','Display Color',
-        'OS']
+        'OS',
+        'Warrant']
 processed_datas = pd.DataFrame(columns=cols)
 it = 0
 for raw_data in raw_datas:
     try:
-        print(raw_data['Link'])
-        if (raw_data['Link'] != 'https://hacom.vn/pc-hp-pro-280-g9-tower-i5-12500-8gb-ram-512gb-ssd-wl-bt-k-m-win11-72g57pa'):
-            pass
         processed_data = process(raw_data)
         if (processed_data == None):
             continue

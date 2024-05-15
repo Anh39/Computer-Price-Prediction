@@ -1,1 +1,1 @@
-from Cleaner import nvidia_gpu_processor
+from Cleaner import intel_preprocessor,intel_processor

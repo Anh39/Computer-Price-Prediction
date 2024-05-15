@@ -1,0 +1,94 @@
+﻿UPE | Compare Intel® Products
+05/06/2024 11:07:08 AM
+,Intel® Core™ i3-7100T Processor (3M Cache- 3.40 GHz)
+
+Essentials
+Product Collection,7th Generation Intel® Core™ i3 Processors
+Code Name,Products formerly Kaby Lake
+Vertical Segment,Desktop
+Processor Number,i3-7100T
+Lithography,14 nm
+
+CPU Specifications
+Total Cores,2
+Total Threads,4
+Processor Base Frequency,3.40 GHz
+Cache,3 MB Intel® Smart Cache
+Bus Speed,8 GT/s
+# of QPI Links,0
+TDP,35 W
+Configurable TDP-down Base Frequency,2.40 GHz
+Configurable TDP-down,25 W
+
+Supplemental Information
+Marketing Status,Discontinued
+Launch Date,Q1'17
+Servicing Status,ESU Notification Issued
+End of Servicing Updates Date,Sunday |  March 31 |  2024
+Embedded Options Available,No
+Datasheet,View now
+
+Memory Specifications
+Max Memory Size (dependent on memory type),64 GB
+Memory Types,DDR4-2133/2400 |  DDR3L-1333/1600 @ 1.35V
+Max # of Memory Channels,2
+ECC Memory Supported   ‡,Yes
+
+GPU Specifications
+GPU Name‡,Intel® HD Graphics 630
+Graphics Base Frequency,350 MHz
+Graphics Max Dynamic Frequency,1.10 GHz
+Graphics Video Max Memory,64 GB
+4K Support,Yes |  at 60Hz
+Max Resolution (HDMI)‡,4096x2304@24Hz
+Max Resolution (DP)‡,4096x2304@60Hz
+Max Resolution (eDP - Integrated Flat Panel)‡,4096x2304@60Hz
+DirectX* Support,12
+OpenGL* Support,4.5
+Intel® Quick Sync Video,Yes
+Intel® InTru™ 3D Technology,Yes
+Intel® Clear Video HD Technology,Yes
+Intel® Clear Video Technology,Yes
+# of Displays Supported ‡,3
+Device ID,0x5912
+
+Expansion Options
+Scalability,1S Only
+PCI Express Revision,3.0
+PCI Express Configurations ‡,Up to 1x16 |  2x8 |  1x8+2x4
+Max # of PCI Express Lanes,16
+
+Package Specifications
+Sockets Supported,FCLGA1151
+Max CPU Configuration,1
+Thermal Solution Specification,PCG 2015A (35W)
+TJUNCTION,92°C
+Package Size,37.5mm x 37.5mm
+
+Advanced Technologies
+Intel® Optane™ Memory Supported ‡,Yes
+Intel® Turbo Boost Technology ‡,No
+Intel® Hyper-Threading Technology ‡,Yes
+Intel® Transactional Synchronization Extensions,No
+Intel® 64 ‡,Yes
+Instruction Set,64-bit
+Instruction Set Extensions,Intel® SSE4.1 |  Intel® SSE4.2 |  Intel® AVX2
+Idle States,Yes
+Enhanced Intel SpeedStep® Technology,Yes
+Thermal Monitoring Technologies,Yes
+Intel® Identity Protection Technology ‡,Yes
+
+Security & Reliability
+Intel® AES New Instructions,Yes
+Secure Key,Yes
+Intel® Software Guard Extensions (Intel® SGX),Yes with Intel® ME
+Intel® Memory Protection Extensions (Intel® MPX),Yes
+Intel® OS Guard,Yes
+Intel® Trusted Execution Technology ‡,No
+Execute Disable Bit ‡,Yes
+Intel® Boot Guard,Yes
+Intel® Stable IT Platform Program (SIPP),No
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes
+Intel® VT-x with Extended Page Tables (EPT) ‡,Yes
+Link,https://www.intel.com/content/www/us/en/products/sku/97485/intel-core-i37100t-processor-3m-cache-3-40-ghz/specifications.html

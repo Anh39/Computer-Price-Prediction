@@ -63,7 +63,14 @@ def format_name(input_str : str) -> str:
     for remove_ele in remove_list:
         input_str = input_str.replace(remove_ele,'')
     return input_str.strip()
-
+def memory_type_correction(input_str : int) -> int:
+    mapping = {
+        32000 : 4
+    }
+    try:
+        return mapping[input_str]
+    except:
+        return 4
 df['Achitecture'] = df['Achitecture'].apply(extract_number)
 df['Base Clock'] = df['Base Clock'].apply(extract_float)
 df['Max Boost Clock'] = df['Max Boost Clock'].apply(extract_float)
@@ -72,6 +79,7 @@ df['IGPU Frequency'] = df['IGPU Frequency'].apply(extract_number)
 # df['L3 Cache'] = df['L3 Cache'].apply(extract_number)
 df['Total Cache'] = df['Total Cache'].apply(extract_number)
 df['Memory Type'] = df['Memory Type'].apply(extract_number)
+df['Memory Type'] = df['Memory Type'].apply(memory_type_correction)
 df['Name'] = df['Name'].apply(format_name)
 for index,row in df.iterrows():
     if pd.notna(row['Max Power']) and pd.notna(row['Base Power']):

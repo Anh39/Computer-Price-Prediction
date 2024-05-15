@@ -13,6 +13,7 @@ with open(folder_path.config.lap_type,'r') as file:
 
 final_cols = [    
     'Price', 
+    'CPU Name',
     'CPU Achitecture',
     'CPU Core',
     'CPU Thread', 
@@ -26,9 +27,11 @@ final_cols = [
     'GPU VRAM',
     'Display Type',
     'Display Size',
-    'Display Resolution',
+    'Display Width',
+    'Display Height',
     'Display Frequency',
-    'OS'
+    'OS',
+    'Warrant'
 ]
 df = pd.read_csv(folder_path.output.preprocessed_data)
 
@@ -85,15 +88,20 @@ def extract_storage(input_str : str) -> int:
         return 1024*int(extract_number(input_str))
     return int(extract_number(input_str))
 def map_storage(input_str : str) -> int:
+    if (pd.isna(input_str)):
+        return -1
     return type_config['Storage Type'][input_str]
 def map_display(input_str : str) -> int:
     if (pd.notna(input_str)):
         return type_config['Display Type'][input_str]
     else:
         return type_config['Display Type']['Default']
-def get_resolution(input_str : str) -> int:
-    width,height = extract_numbers(input_str)
-    return width * height
+def display_width(input_str : str) -> int:
+    return extract_numbers(input_str)[0]
+def display_height(input_str : str) -> int:
+    return extract_numbers(input_str)[1]
+
+df['Price'] = df['Price'].apply(extract_number)
 df['CPU Achitecture'] = df['CPU Achitecture'].replace(0,7)
 
 df['RAM'] = df['RAM'].apply(extract_number)
@@ -104,20 +112,26 @@ df['Storage Type'] = df['Storage Type'].apply(map_storage)
 df['GPU VRAM'] = df['GPU VRAM'].fillna(0)
 df['Display Type'] = df['Display Type'].apply(map_display)
 df['Display Size'] = df['Display Size'].apply(extract_float)
-df['Display Resolution'] = df['Display Resolution'].apply(get_resolution)
-df['Display Resolution'] = df['Display Resolution'].replace(0,1920*1080)
+df['Display Resolution'] = df['Display Resolution'].fillna('1920x1080')
+df['Display Width'] = df['Display Resolution'].apply(display_width)
+df['Display Height'] = df['Display Resolution'].apply(display_height)
 df['Display Frequency'] = df['Display Frequency'].apply(extract_number)
 df['Display Frequency'] = df['Display Frequency'].replace(0,60)
 df['OS'] = df['OS'].replace(0,10)
+df['Warrant'] = df['Warrant'].fillna(12)
+
 
 for index,row in df.iterrows():
     if row['Memory Type'] == 0:
         df.at[index,'Memory Type'] = row['Max DDR Support']
+        
 
 drop_cols = []
 for col in df.columns:
     if col not in final_cols:
         drop_cols.append(col)
 df = df.drop(columns=drop_cols)
-
+df = df[df['Price'] != 0]
 df.to_csv(folder_path.output.processed_data,index=False)
+
+print(len(df))

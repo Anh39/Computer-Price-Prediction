@@ -1,0 +1,88 @@
+﻿UPE | Compare Intel® Products
+05/06/2024 10:38:37 AM
+,Intel® Core™ i9 processor 14900KF (36M Cache- up to 6.00 GHz)
+
+Essentials
+Product Collection,Intel® Core™ i9 Processors (14th gen)
+Code Name,Products formerly Raptor Lake
+Vertical Segment,Desktop
+Processor Number,i9-14900KF
+Lithography,Intel 7
+Recommended Customer Price,$564.00-$574.00
+
+CPU Specifications
+Total Cores,24
+# of Performance-cores,8
+# of Efficient-cores,16
+Total Threads,32
+Max Turbo Frequency,6 GHz
+Intel® Thermal Velocity Boost Frequency,6 GHz
+Intel® Turbo Boost Max Technology 3.0 Frequency ‡,5.8 GHz
+Performance-core Max Turbo Frequency,5.6 GHz
+Efficient-core Max Turbo Frequency,4.4 GHz
+Performance-core Base Frequency,3.2 GHz
+Efficient-core Base Frequency,2.4 GHz
+Cache,36 MB Intel® Smart Cache
+Total L2 Cache,32 MB
+Processor Base Power,125 W
+Maximum Turbo Power,253 W
+
+Supplemental Information
+Marketing Status,Launched
+Launch Date,Q4'23
+Embedded Options Available,No
+Use Conditions,PC/Client/Tablet
+
+Memory Specifications
+Max Memory Size (dependent on memory type),192 GB
+Memory Types,Up to DDR5 5600 MT/s Up to DDR4 3200 MT/s
+Max # of Memory Channels,2
+Max Memory Bandwidth,89.6 GB/s
+
+Expansion Options
+Direct Media Interface (DMI) Revision,4.0
+Max # of DMI Lanes,8
+Scalability,1S Only
+PCI Express Revision,5.0 and 4.0
+PCI Express Configurations ‡,Up to 1x16+4 |  2x8+4
+Max # of PCI Express Lanes,20
+
+Package Specifications
+Sockets Supported,FCLGA1700
+Max CPU Configuration,1
+Thermal Solution Specification,PCG 2020A
+TJUNCTION,100°C
+Package Size,45.0 mm x 37.5 mm
+Max Operating Temperature,100 °C
+
+Advanced Technologies
+Intel® Gaussian & Neural Accelerator,3.0
+Intel® Thread Director,Yes
+Intel® Deep Learning Boost (Intel® DL Boost) on CPU,Yes
+Intel® Speed Shift Technology,Yes
+Intel® Adaptive Boost Technology,Yes
+Intel® Thermal Velocity Boost,Yes
+Intel® Turbo Boost Max Technology 3.0 ‡,Yes
+Intel® Turbo Boost Technology ‡,2.0
+Intel® Hyper-Threading Technology ‡,Yes
+Intel® 64 ‡,Yes
+Instruction Set,64-bit
+Instruction Set Extensions,Intel® SSE4.1 |  Intel® SSE4.2 |  Intel® AVX2
+Idle States,Yes
+Enhanced Intel SpeedStep® Technology,Yes
+Thermal Monitoring Technologies,Yes
+Intel® Volume Management Device (VMD),Yes
+
+Security & Reliability
+Intel® Standard Manageability (ISM) ‡,Yes
+Intel® Control-Flow Enforcement Technology,Yes
+Intel® AES New Instructions,Yes
+Secure Key,Yes
+Intel® OS Guard,Yes
+Execute Disable Bit ‡,Yes
+Intel® Boot Guard,Yes
+Mode-based Execute Control (MBEC),Yes
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes
+Intel® VT-x with Extended Page Tables (EPT) ‡,Yes
+Link,https://www.intel.com/content/www/us/en/products/sku/236787/intel-core-i9-processor-14900kf-36m-cache-up-to-6-00-ghz/specifications.html

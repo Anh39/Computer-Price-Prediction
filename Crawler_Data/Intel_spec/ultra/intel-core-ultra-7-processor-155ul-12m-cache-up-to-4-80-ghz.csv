@@ -1,0 +1,129 @@
+﻿UPE | Compare Intel® Products
+05/13/2024 09:29:24 AM
+,Intel® Core™ Ultra 7 processor 155UL (12M Cache- up to 4.80 GHz)
+
+Essentials
+Product Collection,Intel® Core™ Ultra processors (Series 1)
+Code Name,Products formerly Meteor Lake
+Vertical Segment,Embedded
+Processor Number,155UL
+Recommended Customer Price,$426.00
+
+CPU Specifications
+Total Cores,12
+# of Performance-cores,2
+# of Efficient-cores,8
+# of Low Power Efficient-cores,2
+Total Threads,14
+Max Turbo Frequency,4.8 GHz
+Performance-core Max Turbo Frequency,4.8 GHz
+Efficient-core Max Turbo Frequency,3.8 GHz
+Low Power Efficient-core Max Turbo Frequency,2.1 GHz
+Performance-core Base Frequency,1.7 GHz
+Efficient-core Base Frequency,1.2 GHz
+Low Power Efficient-core Base Frequency,700 MHz
+Cache,12 MB
+Processor Base Power,15 W
+Maximum Turbo Power,57 W
+Minimum Assured Power,12 W
+Maximum Assured Power,28 W
+Intel® Deep Learning Boost (Intel® DL Boost) on CPU,Yes
+AI Datatype Support on CPU,Int8 |  FP16 |  BF16 |  FP32
+AI Software Frameworks Supported by CPU,OpenVINO™ |  WindowsML |  ONNX RT
+
+Supplemental Information
+Marketing Status,Launched
+Launch Date,Q2'24
+Embedded Options Available,Yes
+Datasheet,View now
+
+Memory Specifications
+Max Memory Size (dependent on memory type),96 GB
+Memory Types,Up to DDR5 5600 MT/s
+Max # of Memory Channels,2
+ECC Memory Supported   ‡,No
+
+GPU Specifications
+GPU Name‡,Intel® Graphics
+Graphics Max Dynamic Frequency,1.95 GHz
+Graphics Output,DP2.1 UHBR20 |  HDMI2.1
+Xe-cores,4
+Ray Tracing,Yes
+Max Resolution (HDMI)‡,4096 x 2304 @ 60Hz (HDMI 2.1 TMDS)  7680 x 4320 @ 60Hz (HDMI2.1 FRL)
+Max Resolution (DP)‡,7680 x 4320 @ 60Hz
+Max Resolution (eDP - Integrated Flat Panel)‡,3840x2400 @ 120Hz
+DirectX* Support,12.1
+OpenGL* Support,4.6
+OpenCL* Support,3.0
+Multi-Format Codec Engines,2
+H.264 Hardware Encode/Decode,Yes
+H.265 (HEVC) Hardware Encode/Decode,Yes
+AV1 Encode/Decode,Yes
+VP9 Bitstream & Decoding,Yes
+Intel® Quick Sync Video,Yes
+# of Displays Supported ‡,4
+Device ID,0x7D45
+Intel® Deep Learning Boost (Intel® DL Boost) on GPU,Yes
+AI Datatype Support on GPU,Int8 |  FP16 |  BF16 |  FP32
+AI Software Frameworks Supported by GPU,OpenVINO™ |  WindowsML |  DirectML |  ONNX RT |  WebGPU
+
+NPU Specifications
+NPU Name‡,Intel® AI Boost
+Max Frequency,1.4 GHz
+Sparsity Support,Yes
+Windows Studio Effects Support,Yes
+AI Datatype Support on NPU,Int8 |  FP16 |  FP32
+AI Software Frameworks Supported by NPU,OpenVINO™ |  WindowsML |  DirectML |  ONNX RT
+
+Expansion Options
+Intel® Thunderbolt™ 4,Yes
+PCI Support,4.0
+PCI Express Configurations ‡,3 (x4) Gen4 + 8 (x1 | x2 | x4) Gen4
+Max # of PCI Express Lanes,20
+
+Package Specifications
+Sockets Supported,FCLGA1851
+Max CPU Configuration,1
+Max Operating Temperature,105 °C
+Package Size,45 mm x 37.5mm
+
+Advanced Technologies
+Intel® Gaussian & Neural Accelerator,3.5
+Intel® Thread Director,Yes
+Intel® Image Processing Unit,6.0
+Intel® Smart Sound Technology,Yes
+Intel® Wake on Voice,Yes
+Intel® High Definition Audio,Yes
+Intel® Adaptix™ Technology,Yes
+Intel® Speed Shift Technology,Yes
+Intel® Turbo Boost Max Technology 3.0 ‡,No
+Intel® Hyper-Threading Technology ‡,Yes
+Instruction Set,64-bit
+Instruction Set Extensions,Intel® SSE4.1 |  Intel® SSE4.2 |  Intel® AVX2
+Thermal Monitoring Technologies,Yes
+Intel® Flex Memory Access,Yes
+Intel® Volume Management Device (VMD),No
+
+Security & Reliability
+Intel vPro® Eligibility ‡,Intel vPro® Essentials
+Intel® Threat Detection Technology (TDT),Yes
+Intel® Active Management Technology (AMT) ‡,No
+Intel® Standard Manageability (ISM) ‡,Yes
+Intel® Remote Platform Erase (RPE) ‡,No
+Intel® One-Click Recovery ‡,No
+Intel® Hardware Shield Eligibility ‡,Yes
+Intel® Control-Flow Enforcement Technology,Yes
+Intel® Total Memory Encryption - Multi Key,No
+Intel® AES New Instructions,Yes
+Secure Key,Yes
+Intel® Trusted Execution Technology ‡,Yes
+Execute Disable Bit ‡,Yes
+Intel® OS Guard,Yes
+Intel® Boot Guard,Yes
+Mode-based Execute Control (MBEC),Yes
+Intel® Stable IT Platform Program (SIPP),No
+Intel® Virtualization Technology with Redirect Protection (VT-rp) ‡,No
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes
+Intel® VT-x with Extended Page Tables (EPT) ‡,Yes
+Link,https://www.intel.com/content/www/us/en/products/sku/239787/intel-core-ultra-7-processor-155ul-12m-cache-up-to-4-80-ghz/specifications.html

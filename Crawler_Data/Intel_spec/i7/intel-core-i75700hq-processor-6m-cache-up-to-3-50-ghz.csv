@@ -1,0 +1,92 @@
+﻿UPE | Compare Intel® Products
+05/06/2024 10:49:15 AM
+,Intel® Core™ i7-5700HQ Processor (6M Cache- up to 3.50 GHz)
+
+Essentials
+Product Collection,5th Generation Intel® Core™ i7 Processors
+Code Name,Products formerly Broadwell
+Vertical Segment,Mobile
+Processor Number,i7-5700HQ
+Lithography,14 nm
+
+CPU Specifications
+Total Cores,4
+Total Threads,8
+Max Turbo Frequency,3.50 GHz
+Intel® Turbo Boost Technology 2.0 Frequency‡,3.50 GHz
+Processor Base Frequency,2.70 GHz
+Cache,6 MB
+Bus Speed,5 GT/s
+TDP,47 W
+Configurable TDP-down Base Frequency,600 MHz
+Configurable TDP-down,37 W
+
+Supplemental Information
+Marketing Status,Discontinued
+Launch Date,Q2'15
+Servicing Status,End of Servicing Lifetime
+End of Servicing Updates Date,Wednesday |  June 30 |  2021
+Embedded Options Available,No
+Datasheet,View now
+
+Memory Specifications
+Max Memory Size (dependent on memory type),32 GB
+Memory Types,DDR3L 1600/1866 LPDDR3 1600/1866
+Max # of Memory Channels,2
+Max Memory Bandwidth,25.6 GB/s
+ECC Memory Supported   ‡,No
+
+GPU Specifications
+GPU Name‡,Intel® Iris® Pro Graphics 6200
+Graphics Base Frequency,300 MHz
+Graphics Max Dynamic Frequency,1.05 GHz
+Graphics Video Max Memory,32 GB
+Graphics Output,eDP/DP/HDMI/VGA
+Max Resolution (HDMI)‡,2560x1600@60Hz
+Max Resolution (DP)‡,4096x2304@60Hz
+DirectX* Support,11.2/12
+OpenGL* Support,4.3
+Intel® Quick Sync Video,Yes
+Intel® InTru™ 3D Technology,Yes
+Intel® Flexible Display Interface (Intel® FDI),Yes
+Intel® Clear Video HD Technology,Yes
+Intel® Clear Video Technology,Yes
+# of Displays Supported ‡,3
+Device ID,0x1612
+
+Expansion Options
+PCI Express Revision,3.0
+PCI Express Configurations ‡,1x16 or 2x8 or 1x8 2x4
+Max # of PCI Express Lanes,16
+
+Package Specifications
+Sockets Supported,FCBGA1364
+TJUNCTION,105°C
+Package Size,37.5mm x 32mm x 1.8mm
+
+Advanced Technologies
+Intel® Turbo Boost Technology ‡,2.0
+Intel® Hyper-Threading Technology ‡,Yes
+Intel® Transactional Synchronization Extensions,No
+Intel® 64 ‡,Yes
+Instruction Set,64-bit
+Instruction Set Extensions,Intel® SSE4.1 |  Intel® SSE4.2 |  Intel® AVX2
+Idle States,Yes
+Enhanced Intel SpeedStep® Technology,Yes
+Thermal Monitoring Technologies,Yes
+Intel® Fast Memory Access,Yes
+Intel® Flex Memory Access,Yes
+Intel® Identity Protection Technology ‡,Yes
+Intel® Smart Response Technology,Yes
+
+Security & Reliability
+Intel® AES New Instructions,Yes
+Secure Key,Yes
+Intel® OS Guard,Yes
+Intel® Trusted Execution Technology ‡,No
+Execute Disable Bit ‡,Yes
+Intel® Stable IT Platform Program (SIPP),No
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes
+Intel® VT-x with Extended Page Tables (EPT) ‡,Yes
+Link,https://www.intel.com/content/www/us/en/products/sku/87716/intel-core-i75700hq-processor-6m-cache-up-to-3-50-ghz/specifications.html

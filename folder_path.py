@@ -2,6 +2,7 @@ import os
 
 join = os.path.join
 _project_path = os.getcwd()
+crawler_data_path = join(_project_path,'Crawler_Data')
 
 class config:
     lap_type = join(_project_path,'Cleaner','lap','type_config.json')
@@ -17,7 +18,7 @@ class output:
     nvidia_gpu_data = join(path,'nvidia_gpu.csv')
     amd_gpu_data = join(path,'amd_gpu.csv')
 class intel:
-    path = join(_project_path,'Intel_spec')
+    path = join(crawler_data_path,'Intel_spec')
     i9 = join(path,'i9')
     i7 = join(path,'i7')
     i5 = join(path,'i5')
@@ -26,25 +27,31 @@ class intel:
     ultra = join(path,'ultra')
 
 class nvidia:
-    path = join(_project_path,'Nvidia')
+    path = join(crawler_data_path,'Nvidia')
     gpu = join(path,'gpu')
     gpu_result = join(gpu,'result.csv')
 
 class amd:
-    path = join(_project_path,'Amd_spec')
+    path = join(crawler_data_path,'Amd_spec')
     cpu = join(path,'cpu')
     cpu_result = join(cpu,'Processor Specifications.csv')
     gpu = join(path,'gpu')
     gpu_result = join(gpu,'Graphics Specifications.csv')
 
 class hacom:
-    path = join(_project_path,'Hacom_spec')
-    pc_game = join(path,'pc_game')
-    pc_graphic = join(path,'pc_graphic')
-    pc_office = join(path,'pc_office')
+    path = join(crawler_data_path,'Hacom_spec')
     lap_common = join(path,'lap_common')
     lap_game = join(path,'lap_game')
-        
+
+class anphat:
+    path = join(crawler_data_path,'Anphat_spec')
+    lap_common = join(path,'lap_common')
+    lap_game = join(path,'lap_game')
+    
+class fpt:
+    path = join(crawler_data_path,'FPT_spec')
+    lap = join(path,'lap')
+
 class util:
     @classmethod
     def get_tree(self,folder_path : str):

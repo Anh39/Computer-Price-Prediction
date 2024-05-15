@@ -1,0 +1,95 @@
+﻿UPE | Compare Intel® Products
+05/06/2024 10:44:05 AM
+,Intel® Core™ i7-11800H Processor (24M Cache- up to 4.60 GHz)
+
+Essentials
+Product Collection,11th Generation Intel® Core™ i7 Processors
+Code Name,Products formerly Tiger Lake
+Vertical Segment,Mobile
+Processor Number,i7-11800H
+Lithography,10 nm SuperFin
+Recommended Customer Price,$435.00
+
+CPU Specifications
+Total Cores,8
+Total Threads,16
+Max Turbo Frequency,4.60 GHz
+Cache,24 MB Intel® Smart Cache
+Bus Speed,8 GT/s
+Configurable TDP-up Base Frequency,2.30 GHz
+Configurable TDP-up,45 W
+Configurable TDP-down Base Frequency,1.90 GHz
+Configurable TDP-down,35 W
+
+Supplemental Information
+Marketing Status,Discontinued
+Launch Date,Q2'21
+Embedded Options Available,No
+Datasheet,View now
+
+Memory Specifications
+Max Memory Size (dependent on memory type),128 GB
+Memory Types,Up to 3200 MT/s
+Max # of Memory Channels,2
+Max Memory Bandwidth,51.2 GB/s
+ECC Memory Supported   ‡,No
+
+GPU Specifications
+GPU Name‡,Intel® UHD Graphics for 11th Gen Intel® Processors
+Graphics Base Frequency,350 MHz
+Graphics Max Dynamic Frequency,1.45 GHz
+Graphics Output,eDP 1.4b |  DP 1.4 |  HDMI 2.0b
+Execution Units,32
+Max Resolution (HDMI)‡,4096x2304@60Hz
+Max Resolution (DP)‡,7680x4320@60Hz
+Max Resolution (eDP - Integrated Flat Panel)‡,4096x2304@60Hz
+DirectX* Support,12.1
+OpenGL* Support,4.6
+OpenCL* Support,3.0
+Multi-Format Codec Engines,2
+Intel® Quick Sync Video,Yes
+# of Displays Supported ‡,4
+Device ID,0x9A60
+
+Expansion Options
+Intel® Thunderbolt™ 4,Yes
+Microprocessor PCIe Revision,Gen 4
+Chipset / PCH PCIe Revision,Gen 3
+PCI Express Configurations ‡,Up to 1x16+1x4 |  2x8+1x4 |  1x8+3x4
+Max # of PCI Express Lanes,20
+
+Package Specifications
+Sockets Supported,FCBGA1787
+Max CPU Configuration,1
+TJUNCTION,100°C
+Package Size,50 x 26.5
+
+Advanced Technologies
+Intel® Gaussian & Neural Accelerator,2.0
+Intel® Image Processing Unit,6.0
+Intel® Smart Sound Technology,Yes
+Intel® Wake on Voice,Yes
+Intel® High Definition Audio,Yes
+Intel® Deep Learning Boost (Intel® DL Boost) on CPU,Yes
+Intel® Adaptix™ Technology,Yes
+Intel® Optane™ Memory Supported ‡,Yes
+Intel® Speed Shift Technology,Yes
+Intel® Hyper-Threading Technology ‡,Yes
+Instruction Set,64-bit
+Instruction Set Extensions,Intel® SSE4.1 |  Intel® SSE4.2 |  Intel® AVX2 |  Intel® AVX-512
+Thermal Monitoring Technologies,Yes
+Intel® Flex Memory Access,Yes
+Intel® Volume Management Device (VMD),Yes
+
+Security & Reliability
+Intel® Control-Flow Enforcement Technology,Yes
+Intel® AES New Instructions,Yes
+Secure Key,Yes
+Intel® Software Guard Extensions (Intel® SGX),No
+Intel® OS Guard,Yes
+Intel® Boot Guard,Yes
+Mode-based Execute Control (MBEC),Yes
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes
+Intel® VT-x with Extended Page Tables (EPT) ‡,Yes
+Link,https://www.intel.com/content/www/us/en/products/sku/213803/intel-core-i711800h-processor-24m-cache-up-to-4-60-ghz/specifications.html

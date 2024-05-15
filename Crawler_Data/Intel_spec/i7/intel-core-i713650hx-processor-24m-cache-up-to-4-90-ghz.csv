@@ -1,0 +1,96 @@
+﻿UPE | Compare Intel® Products
+05/06/2024 10:42:09 AM
+,Intel® Core™ i7-13650HX Processor (24M Cache- up to 4.90 GHz)
+
+Essentials
+Product Collection,13th Generation Intel® Core™ i7 Processors
+Code Name,Products formerly Raptor Lake
+Vertical Segment,Mobile
+Processor Number,i7-13650HX
+Lithography,Intel 7
+Recommended Customer Price,$485.00
+
+CPU Specifications
+Total Cores,14
+# of Performance-cores,6
+# of Efficient-cores,8
+Total Threads,20
+Max Turbo Frequency,4.90 GHz
+Intel® Turbo Boost Max Technology 3.0 Frequency ‡,4.90 GHz
+Performance-core Max Turbo Frequency,4.90 GHz
+Efficient-core Max Turbo Frequency,3.60 GHz
+Cache,24 MB Intel® Smart Cache
+Processor Base Power,55 W
+Maximum Turbo Power,157 W
+Minimum Assured Power,45 W
+Intel® Deep Learning Boost (Intel® DL Boost) on CPU,Yes
+
+Supplemental Information
+Marketing Status,Launched
+Launch Date,Q1'23
+Embedded Options Available,No
+Datasheet,View now
+
+Memory Specifications
+Max Memory Size (dependent on memory type),192 GB
+Memory Types,Up to DDR5 4800 MT/s Up to DDR4 3200 MT/s
+Max # of Memory Channels,2
+Max Memory Bandwidth,76.8 GB/s
+
+GPU Specifications
+GPU Name‡,Intel® UHD Graphics for 13th Gen Intel® Processors
+Graphics Max Dynamic Frequency,1.55 GHz
+Graphics Output,eDP 1.4b |  DP 1.4a |  HDMI 2.1
+Execution Units,16
+Max Resolution (HDMI)‡,4096 x 2160 @ 60Hz
+Max Resolution (DP)‡,7680 x 4320 @ 60Hz
+Max Resolution (eDP - Integrated Flat Panel)‡,5120 x 3200 @ 120Hz
+DirectX* Support,12.1
+OpenGL* Support,4.6
+OpenCL* Support,3.0
+Multi-Format Codec Engines,1
+Intel® Quick Sync Video,Yes
+# of Displays Supported ‡,4
+Device ID,0xA788
+
+Expansion Options
+Direct Media Interface (DMI) Revision,4.0
+Max # of DMI Lanes,8
+Scalability,1S Only
+PCI Express Revision,5.0 and 4.0
+PCI Express Configurations ‡,Up to 1x16+4 |  2x8+4
+Max # of PCI Express Lanes,20
+
+Package Specifications
+Sockets Supported,FCBGA1964
+Max CPU Configuration,1
+TJUNCTION,100°C
+Max Operating Temperature,100 °C
+Package Size,45.0 mm x 37.5 mm
+
+Advanced Technologies
+Intel® Gaussian & Neural Accelerator,3.0
+Intel® Thread Director,Yes
+Intel® Smart Sound Technology,Yes
+Intel® Wake on Voice,Yes
+Intel® High Definition Audio,Yes
+MIPI SoundWire*,1.2
+Intel® Adaptix™ Technology,Yes
+Intel® Speed Shift Technology,Yes
+Intel® Turbo Boost Max Technology 3.0 ‡,Yes
+Intel® Hyper-Threading Technology ‡,Yes
+Instruction Set,64-bit
+Instruction Set Extensions,Intel® SSE4.1 |  Intel® SSE4.2 |  Intel® AVX2
+Thermal Monitoring Technologies,Yes
+Intel® Flex Memory Access,Yes
+Intel® Volume Management Device (VMD),Yes
+
+Security & Reliability
+Intel® AES New Instructions,Yes
+Secure Key,Yes
+Intel® OS Guard,Yes
+Intel® Boot Guard,Yes
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes
+Intel® VT-x with Extended Page Tables (EPT) ‡,Yes
+Link,https://www.intel.com/content/www/us/en/products/sku/232101/intel-core-i713650hx-processor-24m-cache-up-to-4-90-ghz/specifications.html

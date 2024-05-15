@@ -1,0 +1,102 @@
+﻿UPE | Compare Intel® Products
+05/06/2024 10:53:47 AM
+,Intel® Core™ i5-12500HL Processor (18M Cache- up to 4.50 GHz)
+
+Essentials
+Product Collection,12th Generation Intel® Core™ i5 Processors
+Code Name,Products formerly Alder Lake
+Vertical Segment,Embedded
+Processor Number,i5-12500HL
+Lithography,Intel 7
+Recommended Customer Price,$279.00
+
+CPU Specifications
+Total Cores,12
+# of Performance-cores,4
+# of Efficient-cores,8
+Total Threads,16
+Max Turbo Frequency,4.50 GHz
+Intel® Turbo Boost Max Technology 3.0 Frequency ‡,4.50 GHz
+Performance-core Max Turbo Frequency,4.50 GHz
+Efficient-core Max Turbo Frequency,3.30 GHz
+Processor Base Frequency,2.50 GHz
+Cache,18 MB Intel® Smart Cache
+Processor Base Power,45 W
+Minimum Assured Power,35 W
+Maximum Assured Power,65 W
+
+Supplemental Information
+Marketing Status,Launched
+Launch Date,Q3'22
+Embedded Options Available,Yes
+Use Conditions,PC/Client/Tablet
+
+Memory Specifications
+Max Memory Size (dependent on memory type),64 GB
+Memory Types,Up to DDR5 4800 MT/s Up to DDR4 3200 MT/s
+Max # of Memory Channels,2
+ECC Memory Supported   ‡,No
+
+GPU Specifications
+GPU Name‡,Intel® Iris® Xe Graphics eligible
+Graphics Max Dynamic Frequency,1.40 GHz
+Graphics Output,eDP 1.4b |  DP 1.4a |  HDMI 2.1
+Execution Units,80
+Max Resolution (HDMI)‡,4096 x 2304 @ 60Hz
+Max Resolution (DP)‡,7680 x 4320 @ 60Hz
+Max Resolution (eDP - Integrated Flat Panel)‡,4096 x 2304 @ 120Hz
+DirectX* Support,12.1
+OpenGL* Support,4.6
+OpenCL* Support,3.0
+Multi-Format Codec Engines,2
+Intel® Quick Sync Video,Yes
+# of Displays Supported ‡,4
+Device ID,0x46A6
+
+Expansion Options
+Intel® Thunderbolt™ 4,Yes
+Microprocessor PCIe Revision,Gen 4
+Chipset / PCH PCIe Revision,Gen 3
+Max # of PCI Express Lanes,20
+
+Package Specifications
+Sockets Supported,FCLGA1700
+Max CPU Configuration,1
+TJUNCTION,100°C
+Package Size,45mm x 37.5mm
+Max Operating Temperature,100 °C
+
+Advanced Technologies
+Intel® Gaussian & Neural Accelerator,3.0
+Intel® Thread Director,Yes
+Intel® Image Processing Unit,6.0
+Intel® Smart Sound Technology,Yes
+Intel® Wake on Voice,Yes
+Intel® High Definition Audio,Yes
+MIPI SoundWire*,1.2
+Intel® Deep Learning Boost (Intel® DL Boost) on CPU,Yes
+Intel® Speed Shift Technology,Yes
+Intel® Turbo Boost Max Technology 3.0 ‡,Yes
+Intel® Hyper-Threading Technology ‡,Yes
+Instruction Set,64-bit
+Instruction Set Extensions,Intel® SSE4.1 |  Intel® SSE4.2 |  Intel® AVX2
+Thermal Monitoring Technologies,Yes
+Intel® Flex Memory Access,Yes
+
+Security & Reliability
+Intel® Active Management Technology (AMT) ‡,Yes
+Intel® Standard Manageability (ISM) ‡,Yes
+Intel® Control-Flow Enforcement Technology,Yes
+Intel® Total Memory Encryption - Multi Key,Yes
+Intel® Total Memory Encryption,Yes
+Intel® AES New Instructions,Yes
+Secure Key,Yes
+Intel® OS Guard,Yes
+Intel® Trusted Execution Technology ‡,Yes
+Execute Disable Bit ‡,Yes
+Intel® Boot Guard,Yes
+Mode-based Execute Control (MBEC),Yes
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes
+Intel® VT-x with Extended Page Tables (EPT) ‡,Yes
+Link,https://www.intel.com/content/www/us/en/products/sku/229976/intel-core-i512500hl-processor-18m-cache-up-to-4-50-ghz/specifications.html

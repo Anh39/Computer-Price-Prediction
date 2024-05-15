@@ -1,0 +1,96 @@
+﻿UPE | Compare Intel® Products
+05/06/2024 10:58:51 AM
+,Intel® Core™ i5-7287U Processor (4M Cache- up to 3.70 GHz)
+
+Essentials
+Product Collection,7th Generation Intel® Core™ i5 Processors
+Code Name,Products formerly Kaby Lake
+Vertical Segment,Mobile
+Processor Number,i5-7287U
+Lithography,14 nm
+
+CPU Specifications
+Total Cores,2
+Total Threads,4
+Max Turbo Frequency,3.70 GHz
+Intel® Turbo Boost Technology 2.0 Frequency‡,3.70 GHz
+Processor Base Frequency,3.30 GHz
+Cache,4 MB
+Bus Speed,4 GT/s
+TDP,28 W
+Configurable TDP-down,23 W
+
+Supplemental Information
+Marketing Status,Discontinued
+Launch Date,Q1'17
+Embedded Options Available,No
+Datasheet,View now
+
+Memory Specifications
+Max Memory Size (dependent on memory type),32 GB
+Memory Types,DDR4-2133 |  LPDDR3-1866 |  DDR3L-1600
+Max # of Memory Channels,2
+Max Memory Bandwidth,34.1 GB/s
+ECC Memory Supported   ‡,No
+
+GPU Specifications
+GPU Name‡,Intel® Iris® Plus Graphics 650
+Graphics Base Frequency,300 MHz
+Graphics Max Dynamic Frequency,1.10 GHz
+Graphics Video Max Memory,32 GB
+eDRAM,64 MB
+Graphics Output,eDP/DP/HDMI/DVI
+4K Support,Yes |  at 60Hz
+Max Resolution (HDMI)‡,4096x2304@30Hz
+Max Resolution (DP)‡,4096x2304@60Hz
+Max Resolution (eDP - Integrated Flat Panel)‡,4096x2304@60Hz
+Max Resolution (VGA)‡,N/A
+DirectX* Support,12
+OpenGL* Support,4.5
+Intel® Quick Sync Video,Yes
+Intel® InTru™ 3D Technology,Yes
+Intel® Clear Video HD Technology,Yes
+Intel® Clear Video Technology,Yes
+# of Displays Supported ‡,3
+Device ID,0x5927
+
+Expansion Options
+PCI Express Revision,3.0
+PCI Express Configurations ‡,1x4 |  2x2 |  1x2+2x1 and 4x1
+Max # of PCI Express Lanes,12
+
+Package Specifications
+Max CPU Configuration,1
+TJUNCTION,100°C
+Package Size,42x24x1.3
+
+Advanced Technologies
+Intel® Speed Shift Technology,Yes
+Intel® Turbo Boost Technology ‡,2.0
+Intel® Hyper-Threading Technology ‡,Yes
+Intel® Transactional Synchronization Extensions,No
+Intel® 64 ‡,Yes
+Instruction Set,64-bit
+Instruction Set Extensions,Intel® SSE4.1 |  Intel® SSE4.2 |  Intel® AVX2
+Idle States,Yes
+Enhanced Intel SpeedStep® Technology,Yes
+Thermal Monitoring Technologies,Yes
+Intel® Flex Memory Access,Yes
+Intel® Identity Protection Technology ‡,Yes
+Intel® Smart Response Technology,Yes
+Intel® My WiFi Technology,Yes
+
+Security & Reliability
+Intel® AES New Instructions,Yes
+Secure Key,Yes
+Intel® Software Guard Extensions (Intel® SGX),Yes with Intel® ME
+Intel® Memory Protection Extensions (Intel® MPX),Yes
+Intel® Trusted Execution Technology ‡,No
+Execute Disable Bit ‡,Yes
+Intel® OS Guard,Yes
+Intel® Boot Guard,Yes
+Intel® Stable IT Platform Program (SIPP),No
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes
+Intel® VT-x with Extended Page Tables (EPT) ‡,Yes
+Link,https://www.intel.com/content/www/us/en/products/sku/97531/intel-core-i57287u-processor-4m-cache-up-to-3-70-ghz/specifications.html

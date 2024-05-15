@@ -1,0 +1,94 @@
+﻿UPE | Compare Intel® Products
+05/06/2024 11:00:24 AM
+,Intel® Core™ i5-5575R Processor (4M Cache- up to 3.30 GHz)
+
+Essentials
+Product Collection,5th Generation Intel® Core™ i5 Processors
+Code Name,Products formerly Broadwell
+Vertical Segment,Desktop
+Processor Number,i5-5575R
+Lithography,14 nm
+Recommended Customer Price,$244.00
+
+CPU Specifications
+Total Cores,4
+Max Turbo Frequency,3.30 GHz
+Intel® Turbo Boost Technology 2.0 Frequency‡,3.30 GHz
+Processor Base Frequency,2.80 GHz
+Cache,4 MB
+Bus Speed,5 GT/s
+TDP,65 W
+
+Supplemental Information
+Marketing Status,Discontinued
+Launch Date,Q2'15
+Servicing Status,End of Servicing Lifetime
+End of Servicing Updates Date,Wednesday |  June 30 |  2021
+Embedded Options Available,No
+Datasheet,View now
+
+Memory Specifications
+Max Memory Size (dependent on memory type),32 GB
+Memory Types,DDR3L-1333/1600/1866 @ 1.5V
+Max # of Memory Channels,2
+Max Memory Bandwidth,29.86 GB/s
+ECC Memory Supported   ‡,No
+
+GPU Specifications
+GPU Name‡,Intel® Iris® Pro Graphics 6200
+Graphics Base Frequency,300 MHz
+Graphics Max Dynamic Frequency,1.05 GHz
+Graphics Video Max Memory,32 GB
+eDRAM,128 MB
+Graphics Output,eDP/DP/HDMI/DVI/VGA
+Max Resolution (HDMI)‡,4096x2304@24Hz
+Max Resolution (DP)‡,3840x2160@60Hz
+Max Resolution (eDP - Integrated Flat Panel)‡,3840x2160@60Hz
+Max Resolution (VGA)‡,1920x1200@60Hz
+DirectX* Support,11.2
+OpenGL* Support,4.3
+Intel® Quick Sync Video,Yes
+Intel® InTru™ 3D Technology,Yes
+Intel® Flexible Display Interface (Intel® FDI),Yes
+Intel® Clear Video HD Technology,Yes
+Intel® Clear Video Technology,Yes
+# of Displays Supported ‡,3
+Device ID,0x1622
+
+Expansion Options
+Scalability,1S Only
+PCI Express Revision,3.0
+PCI Express Configurations ‡,Up to 1x16 |  2x8 |  1x8+2x4
+Max # of PCI Express Lanes,16
+
+Package Specifications
+Sockets Supported,FCBGA1364
+Max CPU Configuration,1
+Thermal Solution Specification,PCA 2013D
+Package Size,37.5mm x 37.5mm
+
+Advanced Technologies
+Intel® Turbo Boost Technology ‡,2.0
+Intel® Transactional Synchronization Extensions,Yes
+Intel® 64 ‡,Yes
+Instruction Set,64-bit
+Instruction Set Extensions,Intel® SSE4.1 |  Intel® SSE4.2 |  Intel® AVX2
+4G WiMAX Wireless Technology,No
+Idle States,Yes
+Enhanced Intel SpeedStep® Technology,Yes
+Thermal Monitoring Technologies,Yes
+Intel® Virtualization Technology for Itanium (VT-i),No
+Intel® Identity Protection Technology ‡,Yes
+
+Security & Reliability
+Intel® AES New Instructions,Yes
+Secure Key,Yes
+Intel® OS Guard,Yes
+Intel® Trusted Execution Technology ‡,No
+Execute Disable Bit ‡,Yes
+Anti-Theft Technology,Yes
+Intel® Stable IT Platform Program (SIPP),No
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes
+Intel® VT-x with Extended Page Tables (EPT) ‡,Yes
+Link,https://www.intel.com/content/www/us/en/products/sku/87714/intel-core-i55575r-processor-4m-cache-up-to-3-30-ghz/specifications.html

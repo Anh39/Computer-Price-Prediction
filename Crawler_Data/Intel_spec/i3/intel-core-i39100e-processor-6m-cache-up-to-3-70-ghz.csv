@@ -1,0 +1,94 @@
+﻿UPE | Compare Intel® Products
+05/06/2024 11:05:57 AM
+,Intel® Core™ i3-9100E Processor (6M Cache- up to 3.70 GHz)
+
+Essentials
+Product Collection,9th Generation Intel® Core™ i3 Processors
+Code Name,Products formerly Coffee Lake
+Vertical Segment,Embedded
+Processor Number,i3-9100E
+Lithography,14 nm
+Recommended Customer Price,$122.00
+
+CPU Specifications
+Total Cores,4
+Total Threads,4
+Max Turbo Frequency,3.70 GHz
+Intel® Turbo Boost Technology 2.0 Frequency‡,3.70 GHz
+Processor Base Frequency,3.10 GHz
+Cache,6 MB
+Bus Speed,8 GT/s
+TDP,65 W
+
+Supplemental Information
+Marketing Status,Launched
+Launch Date,Q2'19
+Embedded Options Available,Yes
+Use Conditions,Embedded Broad Market Commercial Temp
+
+Memory Specifications
+Max Memory Size (dependent on memory type),64 GB
+Memory Types,DDR4-2400
+Max # of Memory Channels,2
+Max Memory Bandwidth,37.5 GB/s
+ECC Memory Supported   ‡,Yes
+
+GPU Specifications
+GPU Name‡,Intel® UHD Graphics 630
+Graphics Base Frequency,350 MHz
+Graphics Max Dynamic Frequency,1.05 GHz
+Graphics Video Max Memory,64 GB
+Graphics Output,eDP/DP/HDMI/DVI
+4K Support,Yes |  at 60Hz
+Max Resolution (HDMI)‡,4096 x 2160@30Hz
+Max Resolution (DP)‡,4096 x 2304@60Hz
+Max Resolution (eDP - Integrated Flat Panel)‡,4096 x 2304@60Hz
+Max Resolution (VGA)‡,N/A
+DirectX* Support,12
+OpenGL* Support,4.5
+Intel® Quick Sync Video,Yes
+Intel® InTru™ 3D Technology,Yes
+Intel® Clear Video HD Technology,Yes
+Intel® Clear Video Technology,Yes
+# of Displays Supported ‡,3
+Device ID,0x3E98
+
+Expansion Options
+Scalability,1S Only
+PCI Express Revision,3.0
+PCI Express Configurations ‡,Up to 1x16 |  2x8 |  1x8+2x4
+Max # of PCI Express Lanes,16
+
+Package Specifications
+Sockets Supported,FCLGA1151
+Max CPU Configuration,1
+TJUNCTION,100°C
+Package Size,37.5mm x 37.5mm
+
+Advanced Technologies
+Intel® Optane™ Memory Supported ‡,Yes
+Intel® Turbo Boost Technology ‡,2.0
+Intel® Hyper-Threading Technology ‡,No
+Intel® Transactional Synchronization Extensions,No
+Intel® 64 ‡,Yes
+Instruction Set,64-bit
+Instruction Set Extensions,Intel® SSE4.1 |  Intel® SSE4.2 |  Intel® AVX2
+Idle States,Yes
+Enhanced Intel SpeedStep® Technology,Yes
+Thermal Monitoring Technologies,Yes
+Intel® Identity Protection Technology ‡,Yes
+
+Security & Reliability
+Intel® AES New Instructions,Yes
+Secure Key,Yes
+Intel® Software Guard Extensions (Intel® SGX),Yes with Intel® ME
+Intel® Memory Protection Extensions (Intel® MPX),Yes
+Intel® OS Guard,Yes
+Intel® Trusted Execution Technology ‡,No
+Execute Disable Bit ‡,Yes
+Intel® Boot Guard,Yes
+Intel® Stable IT Platform Program (SIPP),No
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes
+Intel® VT-x with Extended Page Tables (EPT) ‡,Yes
+Link,https://www.intel.com/content/www/us/en/products/sku/194374/intel-core-i39100e-processor-6m-cache-up-to-3-70-ghz/specifications.html

@@ -1,0 +1,97 @@
+﻿UPE | Compare Intel® Products
+05/06/2024 10:46:43 AM
+,Intel® Core™ i7-8750H Processor (9M Cache- up to 4.10 GHz)
+
+Essentials
+Product Collection,8th Generation Intel® Core™ i7 Processors
+Code Name,Products formerly Coffee Lake
+Vertical Segment,Mobile
+Processor Number,i7-8750H
+Lithography,14 nm
+Recommended Customer Price,$395.00
+
+CPU Specifications
+Total Cores,6
+Total Threads,12
+Max Turbo Frequency,4.10 GHz
+Intel® Turbo Boost Technology 2.0 Frequency‡,4.10 GHz
+Processor Base Frequency,2.20 GHz
+Cache,9 MB Intel® Smart Cache
+Bus Speed,8 GT/s
+TDP,45 W
+Configurable TDP-down Base Frequency,1.70 GHz
+Configurable TDP-down,35 W
+
+Supplemental Information
+Marketing Status,Discontinued
+Launch Date,Q2'18
+Embedded Options Available,No
+Datasheet,View now
+
+Memory Specifications
+Max Memory Size (dependent on memory type),64 GB
+Memory Types,DDR4-2666 |  LPDDR3-2133
+Max # of Memory Channels,2
+Max Memory Bandwidth,41.8 GB/s
+ECC Memory Supported   ‡,No
+
+GPU Specifications
+GPU Name‡,Intel® UHD Graphics 630
+Graphics Base Frequency,350 MHz
+Graphics Max Dynamic Frequency,1.10 GHz
+Graphics Video Max Memory,64 GB
+Graphics Output,eDP/DP/HDMI/DVI
+4K Support,Yes |  at 60Hz
+Max Resolution (HDMI)‡,4096 x 2304@30Hz
+Max Resolution (DP)‡,4096 x 2304@60Hz
+Max Resolution (eDP - Integrated Flat Panel)‡,4096 x 2304@60Hz
+Max Resolution (VGA)‡,N/A
+DirectX* Support,12
+OpenGL* Support,4.5
+Intel® Quick Sync Video,Yes
+Intel® InTru™ 3D Technology,Yes
+Intel® Clear Video HD Technology,Yes
+Intel® Clear Video Technology,Yes
+# of Displays Supported ‡,3
+Device ID,0x3E9B
+
+Expansion Options
+PCI Express Revision,3.0
+PCI Express Configurations ‡,Up to 1x16 |  2x8 |  1x8+2x4
+Max # of PCI Express Lanes,16
+
+Package Specifications
+Sockets Supported,FCBGA1440
+Max CPU Configuration,1
+TJUNCTION,100°C
+Package Size,42mm x 28mm
+
+Advanced Technologies
+Intel® Optane™ Memory Supported ‡,Yes
+Intel® Speed Shift Technology,Yes
+Intel® Turbo Boost Technology ‡,2.0
+Intel® Hyper-Threading Technology ‡,Yes
+Intel® Transactional Synchronization Extensions,No
+Intel® 64 ‡,Yes
+Instruction Set,64-bit
+Instruction Set Extensions,Intel® SSE4.1 |  Intel® SSE4.2 |  Intel® AVX2
+Intel® My WiFi Technology,Yes
+Idle States,Yes
+Enhanced Intel SpeedStep® Technology,Yes
+Thermal Monitoring Technologies,Yes
+Intel® Flex Memory Access,Yes
+Intel® Identity Protection Technology ‡,Yes
+
+Security & Reliability
+Intel® AES New Instructions,Yes
+Secure Key,Yes
+Intel® Software Guard Extensions (Intel® SGX),Yes with Intel® ME
+Intel® Memory Protection Extensions (Intel® MPX),Yes
+Intel® OS Guard,Yes
+Intel® Trusted Execution Technology ‡,No
+Execute Disable Bit ‡,Yes
+Intel® Stable IT Platform Program (SIPP),No
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes
+Intel® VT-x with Extended Page Tables (EPT) ‡,Yes
+Link,https://www.intel.com/content/www/us/en/products/sku/134906/intel-core-i78750h-processor-9m-cache-up-to-4-10-ghz/specifications.html
