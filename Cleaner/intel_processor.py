@@ -23,7 +23,8 @@ final_cols = [
     'Memory Channels', 
     # 'IGPU Name', 
     'IGPU Frequency', 
-    'Link'
+    'Link',
+    'Gen'
 ]
 df = pd.read_csv(folder_path.output.pre_intel_data)
 
@@ -65,12 +66,12 @@ def format_name(input_str : str) -> str:
     return input_str.strip()
 def memory_type_correction(input_str : int) -> int:
     mapping = {
-        32000 : 4
+        3200 : 4
     }
     try:
-        return mapping[input_str]
+        return mapping[int(input_str)]
     except:
-        return 4
+        return int(input_str)
 df['Achitecture'] = df['Achitecture'].apply(extract_number)
 df['Base Clock'] = df['Base Clock'].apply(extract_float)
 df['Max Boost Clock'] = df['Max Boost Clock'].apply(extract_float)

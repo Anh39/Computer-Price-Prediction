@@ -23,7 +23,8 @@ final_cols = [
     'Memory Channels', 
     # 'IGPU Name', 
     'IGPU Frequency', 
-    # 'Link'
+    'Link',
+    'Gen'
 ]
 df = pd.read_csv(folder_path.output.pre_amd_data)
 

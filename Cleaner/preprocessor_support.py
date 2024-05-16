@@ -38,12 +38,16 @@ def read_folders(folders : list):
     return result
 def get_cpu_info():
     df1 = pd.read_csv(folder_path.output.intel_data)
+    df1['CPU Type'] = 'Intel'
     df2 = pd.read_csv(folder_path.output.amd_data)
+    df2['CPU Type'] = 'AMD'
     result_df = pd.concat([df1,df2],ignore_index=True)
     return result_df
 def get_gpu_info():
     df1 = pd.read_csv(folder_path.output.amd_gpu_data)
+    df1['GPU Type'] = 'AMD'
     df2 = pd.read_csv(folder_path.output.nvidia_gpu_data)
+    df2['GPU Type'] = 'NVIDIA'
     result_df = pd.concat([df1,df2],ignore_index=True)
     return result_df
 cpu_infos = get_cpu_info()
@@ -83,6 +87,7 @@ def cpu_process_function(detail_data_infos,data_infos,filename):
         return {
             'CPU Achitecture' :None,
             'CPU Name' : None,
+            'CPU Gen' : None,
             'CPU Core' : None,
             'CPU Thread' : None,
             'CPU Cache' : None,
@@ -92,13 +97,15 @@ def cpu_process_function(detail_data_infos,data_infos,filename):
             'IGPU Clock' : None ,
             'CPU Cache' : None,
             'Base Power' : None,
-            'Max Power' : None
+            'Max Power' : None,
+            'CPU Intel' : None
         }
     else:
         index = cpu_names.index(this_cpu_name)
         result = {
             'CPU Achitecture' : cpu_infos.iloc[index]['Achitecture'],
             'CPU Name' : cpu_infos.iloc[index]['Name'],
+            'CPU Gen' : cpu_infos.iloc[index]['Gen'],
             'CPU Core' : cpu_infos.iloc[index]['Total Cores'],
             'CPU Thread' : cpu_infos.iloc[index]['Total Threads'],
             'CPU Cache' : cpu_infos.iloc[index]['Total Cache'],
@@ -108,7 +115,8 @@ def cpu_process_function(detail_data_infos,data_infos,filename):
             'IGPU Clock' : cpu_infos.iloc[index]['IGPU Frequency'] ,
             'CPU Cache' :cpu_infos.iloc[index]['Total Cache'] ,
             'Base Power' : cpu_infos.iloc[index]['Base Power'] ,
-            'Max Power' : cpu_infos.iloc[index]['Max Power']
+            'Max Power' : cpu_infos.iloc[index]['Max Power'],
+            'CPU Intel' : int(cpu_infos.iloc[index]['CPU Type'] == 'Intel')
         }
         return result
 def gpu_process_function(detail_data_infos,data_infos,filename):
@@ -134,13 +142,19 @@ def gpu_process_function(detail_data_infos,data_infos,filename):
     if (this_gpu_name == None):
         return {
             'GPU VRAM' : None,
-            'GPU Name' : None
+            'GPU Name' : None,
+            'GPU Onboard' : 1,
+            'GPU AMD' : 0,
+            'GPU NVIDIA' : 0 
         }
     else:
         index = gpu_names.index(this_gpu_name)
         result = {
             'GPU VRAM' : gpu_infos.iloc[index]['VRAM'],
-            'GPU Name' : gpu_infos.iloc[index]['Name']
+            'GPU Name' : gpu_infos.iloc[index]['Name'],
+            'GPU Onboard' : 0,
+            'GPU AMD' : int(gpu_infos.iloc[index]['GPU Type'] == 'AMD'),
+            'GPU NVIDIA' : int(gpu_infos.iloc[index]['GPU Type'] == 'NVIDIA')
         }
         return result
 def psu_process_function(detail_data_infos,data_infos,filename):

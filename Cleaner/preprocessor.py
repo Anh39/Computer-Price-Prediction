@@ -116,10 +116,10 @@ def process(raw_data):
 raw_data = raw_datas[0]
 cols = ['Price','Link',
         'CPU Name','CPU Achitecture','CPU Core','CPU Thread','CPU Cache','CPU Base Clock','CPU Max Clock',
-        'CPU Cache','Base Power','Max Power',
+        'CPU Intel','CPU Cache','Base Power','Max Power','CPU Gen',
         'RAM','Memory Type','Max DDR Support',
         'Storage','Storage Type',
-        'GPU Name','GPU VRAM','IGPU Cloock',
+        'GPU Name','GPU VRAM','IGPU Cloock','GPU Onboard','GPU AMD','GPU NVIDIA',
         'Display Type','Display Size','Display Resolution','Display Frequency','Display Color',
         'OS',
         'Warrant']

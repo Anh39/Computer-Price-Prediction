@@ -74,11 +74,22 @@ for raw_data in raw_datas:
 cols = category_mappping.values()
 cols = set(cols)
 cols = list(cols)
+cols.append('Gen')
 cols.sort()
 df = pd.DataFrame(columns=cols)
+def extract_gen(input_str : str):
+    if ('intel-core-ultra-' in input_str):
+        input_str = input_str.split('intel-core-ultra-')[-1][0]
+        return int(input_str)
+    elif ('intel-core-i' in input_str):
+        input_str = input_str.split('intel-core-i')[-1][0]
+        return int(input_str)
+    else:
+        input_str = input_str.split('intel-core-')[-1][0]
+        return int(input_str)
 for i in range(len(preprocessed_datas)):
+    preprocessed_datas[i]['Gen'] =  extract_gen(preprocessed_datas[i]['Link'])
     df.loc[i] = preprocessed_datas[i]
-    
 
 
 df.to_csv(folder_path.output.pre_intel_data,index=False)
