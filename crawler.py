@@ -14,7 +14,7 @@ mapping = {
 }
 
 async def main(input_type : str):
-    test = mapping(input_type)
+    test = mapping[input_type]()
     await test.init()
     await test.process()
     
@@ -22,4 +22,4 @@ async def main(input_type : str):
     
     await test.close()
     
-asyncio.run(main('FPT'))
+asyncio.run(main('Anphat'))
