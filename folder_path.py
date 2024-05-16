@@ -5,18 +5,19 @@ _project_path = os.getcwd()
 crawler_data_path = join(_project_path,'Crawler_Data')
 
 class config:
-    lap_type = join(_project_path,'Cleaner','lap','type_config.json')
+    lap_type = join(_project_path,'Cleaner','type_config.json')
 
 class output:
     path = join(_project_path,'Output')
-    preprocessed_data = join(path,'preprocessed_data.csv')
-    processed_data = join(path,'processed_data.csv')
-    pre_intel_data = join(path,'pre_intel.csv')
-    pre_amd_data = join(path,'pre_amd.csv')
-    intel_data = join(path,'intel.csv')
-    amd_data = join(path,'amd.csv')
-    nvidia_gpu_data = join(path,'nvidia_gpu.csv')
-    amd_gpu_data = join(path,'amd_gpu.csv')
+    data_path = join(path,'Data')
+    preprocessed_data = join(data_path,'preprocessed_data.csv')
+    processed_data = join(data_path,'processed_data.csv')
+    pre_intel_data = join(data_path,'pre_intel.csv')
+    pre_amd_data = join(data_path,'pre_amd.csv')
+    intel_data = join(data_path,'intel.csv')
+    amd_data = join(data_path,'amd.csv')
+    nvidia_gpu_data = join(data_path,'nvidia_gpu.csv')
+    amd_gpu_data = join(data_path,'amd_gpu.csv')
 class intel:
     path = join(crawler_data_path,'Intel_spec')
     i9 = join(path,'i9')

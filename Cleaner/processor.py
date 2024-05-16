@@ -100,8 +100,11 @@ def display_width(input_str : str) -> int:
     return extract_numbers(input_str)[0]
 def display_height(input_str : str) -> int:
     return extract_numbers(input_str)[1]
+def format_price(input_str : str) -> int:
+    return (extract_number(input_str.replace('.','').replace(',','')))
 
-df['Price'] = df['Price'].apply(extract_number)
+
+df['Price'] = df['Price'].apply(format_price)
 df['CPU Achitecture'] = df['CPU Achitecture'].replace(0,7)
 
 df['RAM'] = df['RAM'].apply(extract_number)

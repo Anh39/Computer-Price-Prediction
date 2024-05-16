@@ -1,2 +1,2 @@
-from Cleaner.lap import preprocessor
-from Cleaner.lap import processor
+from Cleaner import preprocessor
+from Cleaner import processor

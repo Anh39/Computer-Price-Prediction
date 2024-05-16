@@ -2,11 +2,17 @@ import pandas as pd
 import folder_path
 import json
 import re,os
-from Cleaner.pc.preprocessor_support import *
+from Cleaner.preprocessor_support import *
 
 result_category = []
 
-raw_datas = read_folder(folder_path.hacom.path)
+raw_datas = read_folders([
+    folder_path.hacom.lap_common,
+    folder_path.hacom.lap_game,
+    folder_path.anphat.lap_common,
+    folder_path.anphat.lap_game,
+    folder_path.fpt.lap
+])
 
 def extract_number(input_str):
     if (type(input_str) == int):
@@ -69,34 +75,38 @@ def three_colum_format(raw_data_infos,warranty):
             new_data_info[1] = 1
             new_data_info[2] = warranty
             raw_data_infos[i] = new_data_info
-    if (len(raw_data_infos[0]) != 3):
-        print(max_len(raw_data_infos))
-        raise Exception
+    if (raw_data_infos != [] and len(raw_data_infos[0]) != 3):
+        if (len(raw_data_infos[0]) == 1):
+            for i in range(len(raw_data_infos)):
+                raw_data_infos[i].append(1)
+                raw_data_infos[i].append(warranty)
+        else:
+            raise Exception
     return raw_data_infos
 
             
 
 def process(raw_data):
-    raw_data['Detail Info'] = three_colum_format(raw_data['Detail Info'],raw_data['Warrent'])
+    raw_data['Detail Info'] = three_colum_format(raw_data['Detail Info'],raw_data['Warrant'])
+    process_functions = [
+        gpu_process_function,
+        ram_process_function,
+        display_process_function,
+        storage_process_function,
+        psu_process_function,
+        os_process_function
+    ]
     cpu_result = cpu_process_function(raw_data['Detail Info'],raw_data['Info'],raw_data['Filename'])
-    gpu_result = gpu_process_function(raw_data['Detail Info'],raw_data['Info'],raw_data['Filename'])
-    ram_result = ram_process_function(raw_data['Detail Info'],raw_data['Info'],raw_data['Filename'])
-    psu_result = psu_process_function(raw_data['Detail Info'],raw_data['Info'],raw_data['Filename'])
-    cooler_result = cooler_process_function(raw_data['Detail Info'],raw_data['Info'],raw_data['Filename'])
-    storage_result = storage_process_function(raw_data['Detail Info'],raw_data['Info'],raw_data['Filename'])
-    os_result = os_process_function(raw_data['Detail Info'],raw_data['Info'],raw_data['Filename'])
-    if (cpu_result != None):
+    additional_info = {}
+    for process_function in process_functions:
+        additional_info.update(process_function(raw_data['Detail Info'],raw_data['Info'],raw_data['Filename']))
+    if (cpu_result['CPU Name'] != None):
         result = info_format(raw_data['Detail Info'],raw_data['Info'],result_category)
         result['Price'] = raw_data['Price']
         result['Link'] = raw_data['Link']
+        result['Warrant'] = extract_number(raw_data['Warrant'])
         result.update(cpu_result)
-        if (gpu_result != None):
-            result.update(gpu_result)
-        result.update(psu_result)
-        result.update(ram_result)
-        result.update(storage_result)
-        result.update(cooler_result)
-        result.update(os_result)
+        result.update(additional_info)
         return result
     # else:
     #     result = info_format(raw_data['Detail Info'],raw_data['Info'])
@@ -104,38 +114,18 @@ def process(raw_data):
     #     result['Link'] = raw_data['Link']
     #     return result
 raw_data = raw_datas[0]
-cols = []
-for category in result_category:
-    cols.append(category+ ' Name')
-    cols.append(category+ ' Amount')
-    cols.append(category+ ' Warranty')
-cols.append('Price')
-cols.append('Link')
-cols.append('CPU Name')
-cols.append('RAM')
-cols.append('Memory Type')
-cols.append('Storage')
-cols.append('Storage Type')
-cols.append('GPU Name')
-cols.append('GPU VRAM')
-cols.append('PSU')
-cols.append('Cooler')
-cols.append('OS')
-cols.append('CPU Achitecture')
-cols.append('CPU Core')
-cols.append('CPU Thread')
-cols.append('CPU Cache')
-cols.append('Max DDR Support')
-cols.append('Base Clock')
-cols.append('Max Clock')
-cols.append('IGPU Clock')
+cols = ['Price','Link',
+        'CPU Name','CPU Achitecture','CPU Core','CPU Thread','CPU Cache','CPU Base Clock','CPU Max Clock',
+        'RAM','Memory Type','Max DDR Support',
+        'Storage','Storage Type',
+        'GPU Name','GPU VRAM','IGPU Cloock',
+        'Display Type','Display Size','Display Resolution','Display Frequency','Display Color',
+        'OS',
+        'Warrant']
 processed_datas = pd.DataFrame(columns=cols)
 it = 0
 for raw_data in raw_datas:
     try:
-        print(raw_data['Link'])
-        if (raw_data['Link'] != 'https://hacom.vn/pc-hp-pro-280-g9-tower-i5-12500-8gb-ram-512gb-ssd-wl-bt-k-m-win11-72g57pa'):
-            pass
         processed_data = process(raw_data)
         if (processed_data == None):
             continue
