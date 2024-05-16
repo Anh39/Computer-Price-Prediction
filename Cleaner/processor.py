@@ -24,7 +24,7 @@ final_cols = [
     'Max DDR Support',
     'Storage',
     'Storage Type',
-    'GPU VRAM',
+    'GPU Name','GPU VRAM',
     'Display Type',
     'Display Size',
     'Display Width',

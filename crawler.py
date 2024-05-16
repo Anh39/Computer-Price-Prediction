@@ -22,4 +22,4 @@ async def main(input_type : str):
     
     await test.close()
     
-asyncio.run(main('Anphat'))
+asyncio.run(main('FPT'))
