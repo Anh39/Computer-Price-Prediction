@@ -14,16 +14,16 @@ with open(folder_path.config.lap_type,'r') as file:
 final_cols = [    
     'Price', 
     'CPU Name',
-    'CPU Gen',
-    'CPU Achitecture',
+    'CPU Series',
+    'CPU Lithography',
     'CPU Core',
     'CPU Thread', 
     'CPU Base Clock',
     'CPU Max Clock',
     'CPU Cache',
     'CPU Intel',
-    'Base Power',
-    'Max Power',
+    # 'Base Power',
+    # 'Max Power',
     'RAM',
     'Memory Type',
     'Max DDR Support',
@@ -118,7 +118,7 @@ def format_display_size(input_str : str) -> int:
         return int(input_str)
 
 df['Price'] = df['Price'].apply(format_price)
-df['CPU Achitecture'] = df['CPU Achitecture'].replace(0,7)
+df['CPU Lithography'] = df['CPU Lithography'].replace(0,7)
 df['Base Power'] = df['Base Power'].replace(0,9)
 df['Max Power'] = df['Max Power'].replace(0,15)
 df['RAM'] = df['RAM'].apply(extract_number)

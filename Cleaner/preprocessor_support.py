@@ -85,9 +85,9 @@ def cpu_process_function(detail_data_infos,data_infos,filename):
                         break
     if (this_cpu_name == None):
         return {
-            'CPU Achitecture' :None,
+            'CPU Lithography' :None,
             'CPU Name' : None,
-            'CPU Gen' : None,
+            'CPU Series' : None,
             'CPU Core' : None,
             'CPU Thread' : None,
             'CPU Cache' : None,
@@ -103,9 +103,9 @@ def cpu_process_function(detail_data_infos,data_infos,filename):
     else:
         index = cpu_names.index(this_cpu_name)
         result = {
-            'CPU Achitecture' : cpu_infos.iloc[index]['Achitecture'],
+            'CPU Lithography' : cpu_infos.iloc[index]['Achitecture'],
             'CPU Name' : cpu_infos.iloc[index]['Name'],
-            'CPU Gen' : cpu_infos.iloc[index]['Gen'],
+            'CPU Series' : cpu_infos.iloc[index]['Gen'],
             'CPU Core' : cpu_infos.iloc[index]['Total Cores'],
             'CPU Thread' : cpu_infos.iloc[index]['Total Threads'],
             'CPU Cache' : cpu_infos.iloc[index]['Total Cache'],
