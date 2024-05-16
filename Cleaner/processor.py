@@ -89,13 +89,13 @@ def extract_storage(input_str : str) -> int:
     return int(extract_number(input_str))
 def map_storage(input_str : str) -> int:
     if (pd.isna(input_str)):
-        return -1
+        return 1
     return type_config['Storage Type'][input_str]
 def map_display(input_str : str) -> int:
-    if (pd.notna(input_str)):
-        return type_config['Display Type'][input_str]
+    if (input_str != 'IPS'):
+        return type_config['Display Type']['Other']
     else:
-        return type_config['Display Type']['Default']
+        return type_config['Display Type']['IPS']
 def display_width(input_str : str) -> int:
     return extract_numbers(input_str)[0]
 def display_height(input_str : str) -> int:

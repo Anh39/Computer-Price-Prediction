@@ -124,8 +124,14 @@ cols = ['Price','Link',
         'Warrant']
 processed_datas = pd.DataFrame(columns=cols)
 it = 0
+black_list_links = [
+    'https://www.anphatpc.com.vn/dien-thoai-di-dong-asus-rog-6-ai2201-1d006ww.html',
+    'https://www.anphatpc.com.vn/dien-thoai-di-dong-asus-rog-6-ai2201-1a005ww.html'
+]
 for raw_data in raw_datas:
     try:
+        if (raw_data['Link'] in black_list_links):
+            continue
         processed_data = process(raw_data)
         if (processed_data == None):
             continue

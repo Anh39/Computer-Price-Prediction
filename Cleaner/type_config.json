@@ -5,10 +5,7 @@
         "Default" : 1
     },
     "Display Type" : {
-        "Default" : 1,
-        "LED" : 0,
-        "OLED" : 1,
-        "LCD" : 2,
-        "IPS" : 3
+        "Other" : 0,
+        "IPS" : 1
     }
 }
