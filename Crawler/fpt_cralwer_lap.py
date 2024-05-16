@@ -108,14 +108,21 @@ class Handler:
         info_xpaths = [
             "//html/body/div[2]/main/div/div[2]/div/div[1]/div[2]/div[1]/div/table/tbody",
             "//html/body/div[2]/main/div/div[2]/div/div[1]/div[2]/div/div/table/tbody",
-            "//html/body/div[2]/main/div/div[1]/div[2]/div[2]/div[1]/div[4]/ul"
+        ]
+        info_xpaths2 = [
+            '//html/body/div[2]/main/div/div[1]/div[2]/div[2]/div[1]/div[4]/ul'
         ]
         for info_xpath in info_xpaths:
             info_table = await page.query_selector(info_xpath)
             if (info_table != None):
                 break
-        
-        if (info_table == None or price_element == None):
+        for info_xpath2 in info_xpaths2:
+            info_table2 = await page.query_selector(info_xpath2)
+            if (info_table2 != None):
+                break
+        if (info_table2 == None):
+            print('AAAAAAAAAAAAAAAAAAAAAAAAAA')
+        if ((info_table == None and info_table2 == None) or price_element == None):
             # if (info_table == None and detail_info_table == None):
             #     print('All Info null')
             # if (info_table == None):
@@ -144,13 +151,18 @@ class Handler:
             info_html = await info_table.inner_html()
             info = self._info_parser(info_html)
         else:
+            info = []
+        if (info_table2 != None):
+            info_html = await info_table.inner_html()
+            info.extend(self._info_parser(info_html))
+        else:
             info = None
         if (detail_info_table != None):
             detail_info_html = await detail_info_table.inner_html()
             detail_info = self._info_parser_detail(detail_info_html)
         else:
             detail_info = None
-
+            
         price = await price_element.inner_html()   
         warrent = "Bảo hành theo linh kiện"    
         if (warrent_element != None):
@@ -181,6 +193,16 @@ class Handler:
         result = []
         for element in elements:
             result.append(element.get_text())
+        return result
+    def _info_parser2(self,content : str):
+        soup = BeautifulSoup(content,'html.parser')
+        elements = soup.find_all('li')
+        result = []
+        for element in elements:
+            # col_1 = element.select('span')[0]
+            # col_2 = element.select('div')[0]
+            new_ele = element.get_text()
+            result.append(new_ele)
         return result
 
     async def save_spec(self,url,download_directory):

@@ -89,7 +89,10 @@ def cpu_process_function(detail_data_infos,data_infos,filename):
             'Max DDR Support' : None,
             'CPU Base Clock' : None,
             'CPU Max Clock' : None,
-            'IGPU Clock' : None 
+            'IGPU Clock' : None ,
+            'CPU Cache' : None,
+            'Base Power' : None,
+            'Max Power' : None
         }
     else:
         index = cpu_names.index(this_cpu_name)
@@ -102,7 +105,10 @@ def cpu_process_function(detail_data_infos,data_infos,filename):
             'Max DDR Support' : cpu_infos.iloc[index]['Memory Type'],
             'CPU Base Clock' : cpu_infos.iloc[index]['Base Clock'],
             'CPU Max Clock' : cpu_infos.iloc[index]['Max Boost Clock'],
-            'IGPU Clock' : cpu_infos.iloc[index]['IGPU Frequency'] 
+            'IGPU Clock' : cpu_infos.iloc[index]['IGPU Frequency'] ,
+            'CPU Cache' :cpu_infos.iloc[index]['Total Cache'] ,
+            'Base Power' : cpu_infos.iloc[index]['Base Power'] ,
+            'Max Power' : cpu_infos.iloc[index]['Max Power']
         }
         return result
 def gpu_process_function(detail_data_infos,data_infos,filename):

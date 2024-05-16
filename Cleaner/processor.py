@@ -19,6 +19,9 @@ final_cols = [
     'CPU Thread', 
     'CPU Base Clock',
     'CPU Max Clock',
+    'CPU Cache',
+    'Base Power',
+    'Max Power',
     'RAM',
     'Memory Type',
     'Max DDR Support',
@@ -101,13 +104,19 @@ def display_width(input_str : str) -> int:
 def display_height(input_str : str) -> int:
     return extract_numbers(input_str)[1]
 def format_price(input_str : str) -> int:
-    return (extract_number(input_str.replace('.','').replace(',','')))
-
+    return (extract_number(str(input_str).replace('.','').replace(',','')))
+def format_display_size(input_str : str) -> int:
+    if (int(input_str) == 0):
+        return 15.6
+    else:
+        return int(input_str)
 
 df['Price'] = df['Price'].apply(format_price)
 df['CPU Achitecture'] = df['CPU Achitecture'].replace(0,7)
-
+df['Base Power'] = df['Base Power'].replace(0,9)
+df['Max Power'] = df['Max Power'].replace(0,15)
 df['RAM'] = df['RAM'].apply(extract_number)
+df['RAM'] = df['RAM'].replace(0,8)
 df['Memory Type'] = df['Memory Type'].apply(extract_number)
 # df['Max DDR Support'] = df['Max DDR Support'].apply(extract_number)
 df['Storage'] = df['Storage'].apply(extract_storage)
@@ -115,6 +124,7 @@ df['Storage Type'] = df['Storage Type'].apply(map_storage)
 df['GPU VRAM'] = df['GPU VRAM'].fillna(0)
 df['Display Type'] = df['Display Type'].apply(map_display)
 df['Display Size'] = df['Display Size'].apply(extract_float)
+df['Display Size'] = df['Display Size'].apply(format_display_size)
 df['Display Resolution'] = df['Display Resolution'].fillna('1920x1080')
 df['Display Width'] = df['Display Resolution'].apply(display_width)
 df['Display Height'] = df['Display Resolution'].apply(display_height)
@@ -122,6 +132,7 @@ df['Display Frequency'] = df['Display Frequency'].apply(extract_number)
 df['Display Frequency'] = df['Display Frequency'].replace(0,60)
 df['OS'] = df['OS'].replace(0,10)
 df['Warrant'] = df['Warrant'].fillna(12)
+
 
 
 for index,row in df.iterrows():

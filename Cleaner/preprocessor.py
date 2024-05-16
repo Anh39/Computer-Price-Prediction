@@ -116,6 +116,7 @@ def process(raw_data):
 raw_data = raw_datas[0]
 cols = ['Price','Link',
         'CPU Name','CPU Achitecture','CPU Core','CPU Thread','CPU Cache','CPU Base Clock','CPU Max Clock',
+        'CPU Cache','Base Power','Max Power',
         'RAM','Memory Type','Max DDR Support',
         'Storage','Storage Type',
         'GPU Name','GPU VRAM','IGPU Cloock',
@@ -126,7 +127,8 @@ processed_datas = pd.DataFrame(columns=cols)
 it = 0
 black_list_links = [
     'https://www.anphatpc.com.vn/dien-thoai-di-dong-asus-rog-6-ai2201-1d006ww.html',
-    'https://www.anphatpc.com.vn/dien-thoai-di-dong-asus-rog-6-ai2201-1a005ww.html'
+    'https://www.anphatpc.com.vn/dien-thoai-di-dong-asus-rog-6-ai2201-1a005ww.html',
+    'https://www.anphatpc.com.vn/may-choi-game-cam-tay-msi-claw-a1m.html'
 ]
 for raw_data in raw_datas:
     try:
